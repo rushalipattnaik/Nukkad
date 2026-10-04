@@ -1,0 +1,130 @@
+{
+  "_meta": {
+    "label": "autocomplete 'medical store Indore'",
+    "engine": "google_autocomplete",
+    "params": {
+      "engine": "google_autocomplete",
+      "q": "medical store Indore",
+      "gl": "in",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:21:26.939997+00:00",
+    "http_status": 200,
+    "elapsed_s": 0.76,
+    "credit_delta_measured": 1,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac260e471ff8c4684f00ecc",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/jeQQEDu11QXKAZY4YMwTl2_tBwXt_w2uz6M2KhLYugs/6ac260e471ff8c4684f00ecc.md",
+      "created_at": "2026-10-04 14:21:24 UTC",
+      "processed_at": "2026-10-04 14:21:24 UTC",
+      "google_autocomplete_url": "https://www.google.com/complete/search?q=medical+store+Indore&gl=in&hl=en&client=chrome&dpr=1",
+      "total_time_taken": 0.34
+    },
+    "search_parameters": {
+      "engine": "google_autocomplete",
+      "q": "medical store Indore",
+      "gl": "in",
+      "hl": "en"
+    },
+    "search_information": {
+      "autocomplete_results_state": "Showing completion results."
+    },
+    "suggestions": [
+      {
+        "value": "medical store indore near me",
+        "relevance": 601,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=medical+store+indore+near+me"
+      },
+      {
+        "value": "raj medical store indore",
+        "relevance": 600,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=raj+medical+store+indore"
+      },
+      {
+        "value": "archana medical store indore",
+        "relevance": 562,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=archana+medical+store+indore"
+      },
+      {
+        "value": "gupta medical store indore",
+        "relevance": 561,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=gupta+medical+store+indore"
+      },
+      {
+        "value": "paras medical store indore",
+        "relevance": 560,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=paras+medical+store+indore"
+      },
+      {
+        "value": "medical book store indore",
+        "relevance": 559,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=medical+book+store+indore"
+      },
+      {
+        "value": "ganesh medical store indore",
+        "relevance": 558,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=ganesh+medical+store+indore"
+      },
+      {
+        "value": "akshar medical store indore",
+        "relevance": 557,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=akshar+medical+store+indore"
+      },
+      {
+        "value": "mahaveer medical store indore",
+        "relevance": 556,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=mahaveer+medical+store+indore"
+      },
+      {
+        "value": "ayurvedic medical store indore",
+        "relevance": 555,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=ayurvedic+medical+store+indore"
+      },
+      {
+        "value": "gurunanak medical store indore",
+        "relevance": 554,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=gurunanak+medical+store+indore"
+      },
+      {
+        "value": "gaurav medical store indore",
+        "relevance": 553,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=gaurav+medical+store+indore"
+      },
+      {
+        "value": "harish medical store indore",
+        "relevance": 552,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=harish+medical+store+indore"
+      },
+      {
+        "value": "bhaiya medical store indore",
+        "relevance": 551,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=bhaiya+medical+store+indore"
+      },
+      {
+        "value": "laxmi medical store indore",
+        "relevance": 550,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=laxmi+medical+store+indore"
+      }
+    ],
+    "verbatim_relevance": 1300
+  }
+}

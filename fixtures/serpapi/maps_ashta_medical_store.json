@@ -1,0 +1,1071 @@
+{
+  "_meta": {
+    "label": "maps Ashta / medical store",
+    "engine": "google_maps",
+    "params": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "medical store",
+      "ll": "@23.0180474,76.715972,14z",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:19:48.523577+00:00",
+    "http_status": 200,
+    "elapsed_s": 1.85,
+    "credit_delta_measured": 1,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac2608166900e0483f9c13a",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/9WUYiGKrjW69Oipgy7ZCECfAg6v5w2ABBRLDHtMDABY/6ac2608166900e0483f9c13a.md",
+      "created_at": "2026-10-04 14:19:45 UTC",
+      "processed_at": "2026-10-04 14:19:45 UTC",
+      "google_maps_url": "https://www.google.com/maps/search/medical+store/@23.0180474,76.715972,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+      "total_time_taken": 1.45
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "medical store",
+      "ll": "@23.0180474,76.715972,14z",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Results for exact spelling",
+      "query_displayed": "medical store"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "Shree Awadh Medical Stores",
+        "place_id": "ChIJ6VwiHTLFfDkRIicmdi7dTbE",
+        "data_id": "0x397cc5321d225ce9:0xb14ddd2e76262722",
+        "data_cid": "12776110909540411170",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc5321d225ce9%3A0xb14ddd2e76262722&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0148069,
+          "longitude": 76.7264818
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6VwiHTLFfDkRIicmdi7dTbE",
+        "provider_id": "/g/11kqfckydw",
+        "rating": 5,
+        "reviews": 16,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy",
+          "Drug store"
+        ],
+        "type_id": "pharmacy",
+        "type_ids": [
+          "pharmacy",
+          "drugstore"
+        ],
+        "address": "01, Near Sahu Marriage Garden, Shree Ji Dudh Dairy Ke Side Me, Semnary Road, Semnari Rd, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "9 AM–10 PM",
+          "monday": "9 AM–11 PM",
+          "tuesday": "9 AM–11 PM",
+          "wednesday": "9 AM–11 PM",
+          "thursday": "9 AM–11 PM",
+          "friday": "9 AM–11 PM",
+          "saturday": "9 AM–11 PM"
+        },
+        "phone": "+91 88782 82083",
+        "extensions": [
+          {
+            "service_options": [
+              "Delivery"
+            ]
+          },
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          }
+        ],
+        "service_options": {
+          "delivery": true
+        },
+        "user_review": "\"Shree Awadh Medical Store's Good Service And Good Advice\""
+      },
+      {
+        "position": 2,
+        "title": "Health Plus Medical Store & Clinic",
+        "place_id": "ChIJ67JWFRbFfDkRXcFE7IC030I",
+        "data_id": "0x397cc5161556b2eb:0x42dfb480ec44c15d",
+        "data_cid": "4818768592122462557",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc5161556b2eb%3A0x42dfb480ec44c15d&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0185682,
+          "longitude": 76.7200575
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ67JWFRbFfDkRXcFE7IC030I",
+        "provider_id": "/g/11yw49wdq4",
+        "rating": 5,
+        "reviews": 1,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "type_id": "pharmacy",
+        "type_ids": [
+          "pharmacy"
+        ],
+        "address": "Old, thana Road, Kasaipura, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours",
+          "saturday": "Open 24 hours"
+        },
+        "phone": "+91 99073 95745",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Assistive hearing loop",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "DRISHYA MEDICAL STORE",
+        "place_id": "ChIJP-Z5wdnFfDkRQ_g1Iw7pWDo",
+        "data_id": "0x397cc5d9c179e63f:0x3a58e90e2335f843",
+        "data_cid": "4204366499079911491",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc5d9c179e63f%3A0x3a58e90e2335f843&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0345686,
+          "longitude": 76.7142898
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP-Z5wdnFfDkRQ_g1Iw7pWDo",
+        "provider_id": "/g/11mlbp9xvx",
+        "rating": 5,
+        "reviews": 3,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "type_id": "pharmacy",
+        "type_ids": [
+          "pharmacy"
+        ],
+        "address": "chopati, Shujalpur Rd, Alipur, Ashta, Kaji Khedi, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "sunday": "8 AM–12 AM",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours",
+          "saturday": "12–8:30 AM"
+        },
+        "phone": "+91 98931 64309",
+        "website": "http://www.tejsingh242990.in.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Curbside pickup",
+              "Delivery",
+              "Drive-through",
+              "In-store pickup",
+              "In-store shopping"
+            ]
+          },
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          }
+        ],
+        "service_options": {
+          "in_store_shopping": true,
+          "curbside_pickup": true,
+          "delivery": true
+        }
+      },
+      {
+        "position": 4,
+        "title": "Jay Ranjeet Medical Store",
+        "place_id": "ChIJe9EXaADFfDkR7IHU3y82lFA",
+        "data_id": "0x397cc5006817d17b:0x5094362fdfd481ec",
+        "data_cid": "5806325398834020844",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc5006817d17b%3A0x5094362fdfd481ec&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0180449,
+          "longitude": 76.7238714
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe9EXaADFfDkR7IHU3y82lFA",
+        "provider_id": "/g/11z1x9hgvm",
+        "rating": 5,
+        "reviews": 3,
+        "type": "Medical supply store",
+        "types": [
+          "Medical supply store"
+        ],
+        "type_id": "medical_supply_store",
+        "type_ids": [
+          "medical_supply_store"
+        ],
+        "address": "2P9F+6GH, Khandelwal choraha, Rathore Mandir road, Sai Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "8 AM–11 PM",
+          "monday": "8 AM–11 PM",
+          "tuesday": "8 AM–11 PM",
+          "wednesday": "8 AM–11 PM",
+          "thursday": "8 AM–11 PM",
+          "friday": "8 AM–11 PM",
+          "saturday": "8 AM–11 PM"
+        },
+        "phone": "+91 90984 44422",
+        "extensions": [
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          }
+        ],
+        "user_review": "\"Good quality with extra discount 👌\""
+      },
+      {
+        "position": 5,
+        "title": "MedPlus Kannod Road",
+        "place_id": "ChIJYXtMTq_EfDkRFIsP_XC36i4",
+        "data_id": "0x397cc4af4e4c7b61:0x2eeab770fd0f8b14",
+        "data_cid": "3380716166204853012",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc4af4e4c7b61%3A0x2eeab770fd0f8b14&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.015942199999998,
+          "longitude": 76.7254679
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYXtMTq_EfDkRFIsP_XC36i4",
+        "provider_id": "/g/11xmkp6d5t",
+        "rating": 4,
+        "reviews": 2,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy",
+          "General store",
+          "Medical supply store",
+          "Sports nutrition store",
+          "Vitamin & supplements store"
+        ],
+        "type_id": "pharmacy",
+        "type_ids": [
+          "pharmacy",
+          "general_store",
+          "medical_supply_store",
+          "sports_nutrition_store",
+          "vitamin_and_supplements_store"
+        ],
+        "address": "House Number 213, Ward 16, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "7:30 AM–11 PM",
+          "monday": "7:30 AM–11 PM",
+          "tuesday": "7:30 AM–11 PM",
+          "wednesday": "7:30 AM–11 PM",
+          "thursday": "7:30 AM–11 PM",
+          "friday": "7:30 AM–11 PM",
+          "saturday": "7:30 AM–11 PM"
+        },
+        "phone": "+91 78801 59699",
+        "website": "https://www.medplusmart.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Delivery",
+              "In-store pickup",
+              "In-store shopping",
+              "Onsite services"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "in_store_shopping": true,
+          "in_store_pickup": true,
+          "delivery": true
+        },
+        "user_review": "\"If you want to buy medicine on discount than this is the perfect place.\""
+      },
+      {
+        "position": 6,
+        "title": "Ekta Medical Store & Agency",
+        "place_id": "ChIJsxhX-9LFfDkRmZIBYTJ-MZs",
+        "data_id": "0x397cc5d2fb5718b3:0x9b317e3261019299",
+        "data_cid": "11182858104578609817",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc5d2fb5718b3%3A0x9b317e3261019299&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0155444,
+          "longitude": 76.7203962
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsxhX-9LFfDkRmZIBYTJ-MZs",
+        "provider_id": "/g/11ybd398dz",
+        "rating": 5,
+        "reviews": 1,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy",
+          "Drug store",
+          "Medical supply store"
+        ],
+        "type_id": "pharmacy",
+        "type_ids": [
+          "pharmacy",
+          "drugstore",
+          "medical_supply_store"
+        ],
+        "address": "Old, Dashera Maidan Road, near Star Marriage Garden, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "9:30 AM–11 PM",
+          "monday": "9:30 AM–11 PM",
+          "tuesday": "9:30 AM–11 PM",
+          "wednesday": "9:30 AM–11 PM",
+          "thursday": "9:30 AM–11 PM",
+          "friday": "9:30 AM–11 PM",
+          "saturday": "9:30 AM–11 PM"
+        },
+        "phone": "+91 92448 32553",
+        "extensions": [
+          {
+            "service_options": [
+              "Curbside pickup",
+              "Drive-through",
+              "In-store pickup",
+              "In-store shopping",
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Assistive hearing loop",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible restroom"
+            ]
+          }
+        ],
+        "service_options": {
+          "in_store_shopping": true,
+          "curbside_pickup": true
+        }
+      },
+      {
+        "position": 7,
+        "title": "Madina Medical Store",
+        "place_id": "ChIJD841ULDEfDkRmQovtKTTCfQ",
+        "data_id": "0x397cc4b05035ce0f:0xf409d3a4b42f0a99",
+        "data_cid": "17584818924395891353",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc4b05035ce0f%3A0xf409d3a4b42f0a99&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.018130499999998,
+          "longitude": 76.7199249
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD841ULDEfDkRmQovtKTTCfQ",
+        "provider_id": "/g/11g00y0vyh",
+        "rating": 5,
+        "reviews": 2,
+        "unclaimed_listing": true,
+        "type": "Medical supply store",
+        "types": [
+          "Medical supply store"
+        ],
+        "type_id": "medical_supply_store",
+        "type_ids": [
+          "medical_supply_store"
+        ],
+        "address": "2P99+7X3, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "10 AM–10 PM",
+          "monday": "10 AM–10 PM",
+          "tuesday": "10 AM–10 PM",
+          "wednesday": "10 AM–10 PM",
+          "thursday": "10 AM–10 PM",
+          "friday": "10 AM–10 PM",
+          "saturday": "10 AM–10 PM"
+        },
+        "phone": "+91 99779 24452",
+        "extensions": [
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          },
+          {
+            "payments": [
+              "Cash-only"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "R.K. Medical Store",
+        "place_id": "ChIJ8fJ0Na7EfDkRhp2vWw_QvvI",
+        "data_id": "0x397cc4ae3574f2f1:0xf2bed00f5baf9d86",
+        "data_cid": "17491646767134907782",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc4ae3574f2f1%3A0xf2bed00f5baf9d86&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0158727,
+          "longitude": 76.7162714
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8fJ0Na7EfDkRhp2vWw_QvvI",
+        "provider_id": "/g/11cp034c9g",
+        "rating": 5,
+        "reviews": 1,
+        "unclaimed_listing": true,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "type_id": "pharmacy",
+        "type_ids": [
+          "pharmacy"
+        ],
+        "address": "2P88+8GR, BHUDHWARA ROAD, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours",
+          "saturday": "Open 24 hours"
+        },
+        "extensions": [
+          {
+            "payments": [
+              "Cash-only"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 9,
+        "title": "PHARMA CITY MEDICAL AGENCY",
+        "place_id": "ChIJ6zEMVmLFfDkRT26DP2YeZbQ",
+        "data_id": "0x397cc562560c31eb:0xb4651e663f836e4f",
+        "data_cid": "12998829323975880271",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc562560c31eb%3A0xb4651e663f836e4f&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0206287,
+          "longitude": 76.72110579999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6zEMVmLFfDkRT26DP2YeZbQ",
+        "provider_id": "/g/11v0cdzb46",
+        "rating": 5,
+        "reviews": 2,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy",
+          "Medical supply store"
+        ],
+        "type_id": "pharmacy",
+        "type_ids": [
+          "pharmacy",
+          "medical_supply_store"
+        ],
+        "address": "old Sabji Mandi road, near Muhammadi Masjid, Sai Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open · Closes 11:30 PM",
+        "hours": "Open · Closes 11:30 PM",
+        "operating_hours": {
+          "sunday": "10 AM–11:30 PM",
+          "monday": "10 AM–11:30 PM",
+          "tuesday": "10 AM–11:30 PM",
+          "wednesday": "10 AM–11:30 PM",
+          "thursday": "10 AM–11:30 PM",
+          "friday": "10 AM–11:30 PM",
+          "saturday": "10 AM–11:30 PM"
+        },
+        "phone": "+91 81090 10510",
+        "extensions": [
+          {
+            "service_options": [
+              "Delivery"
+            ]
+          },
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          }
+        ],
+        "service_options": {
+          "delivery": true
+        }
+      },
+      {
+        "position": 10,
+        "title": "Darshan Medical Store And Agencies",
+        "place_id": "ChIJvfbb30fFfDkRmW3t2vY3I8Y",
+        "data_id": "0x397cc547dfdbf6bd:0xc62337f6daed6d99",
+        "data_cid": "14277316777069079961",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc547dfdbf6bd%3A0xc62337f6daed6d99&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.023460999999998,
+          "longitude": 76.7331699
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvfbb30fFfDkRmW3t2vY3I8Y",
+        "provider_id": "/g/11tg26nnzh",
+        "rating": 5,
+        "reviews": 2,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "type_id": "pharmacy",
+        "type_ids": [
+          "pharmacy"
+        ],
+        "address": "Mugli, Road, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open · Closes 9 PM",
+        "hours": "Open · Closes 9 PM",
+        "operating_hours": {
+          "sunday": "9 AM–9 PM",
+          "monday": "9 AM–9 PM",
+          "tuesday": "9 AM–9 PM",
+          "wednesday": "9 AM–9 PM",
+          "thursday": "9 AM–9 PM",
+          "friday": "9 AM–9 PM",
+          "saturday": "9 AM–9 PM"
+        },
+        "phone": "+91 97522 22133",
+        "extensions": [
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          }
+        ],
+        "user_review": "\"The complete medical shop\""
+      },
+      {
+        "position": 11,
+        "title": "Shivam Shree medical store",
+        "place_id": "ChIJu1Lg9OrFfDkRua8dxmjW5sM",
+        "data_id": "0x397cc5eaf4e052bb:0xc3e6d668c61dafb9",
+        "data_cid": "14116205827528175545",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc5eaf4e052bb%3A0xc3e6d668c61dafb9&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.030762199999998,
+          "longitude": 76.7154783
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu1Lg9OrFfDkRua8dxmjW5sM",
+        "provider_id": "/g/11vf7whwqx",
+        "rating": 5,
+        "reviews": 1,
+        "unclaimed_listing": true,
+        "type": "Medical Center",
+        "types": [
+          "Medical Center"
+        ],
+        "type_id": "medical_center",
+        "type_ids": [
+          "medical_center"
+        ],
+        "address": "2PJ8+855, MP SH 41, Patwari Colony, Alipur, Ashta, Kaji Khedi, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "8 AM–10 PM",
+          "monday": "8 AM–10 PM",
+          "tuesday": "8 AM–10 PM",
+          "wednesday": "8 AM–10 PM",
+          "thursday": "8 AM–10 PM",
+          "friday": "8 AM–10 PM",
+          "saturday": "8 AM–10 PM"
+        }
+      },
+      {
+        "position": 12,
+        "title": "Sanjeevani medical store",
+        "place_id": "ChIJV8tuG9nFfDkR-W-AMGZ-syY",
+        "data_id": "0x397cc5d91b6ecb57:0x26b37e6630806ff9",
+        "data_cid": "2788711571637956601",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc5d91b6ecb57%3A0x26b37e6630806ff9&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0228212,
+          "longitude": 76.7243554
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJV8tuG9nFfDkR-W-AMGZ-syY",
+        "provider_id": "/g/11ymhh4t_k",
+        "type": "Medical supply store",
+        "types": [
+          "Medical supply store"
+        ],
+        "type_id": "medical_supply_store",
+        "type_ids": [
+          "medical_supply_store"
+        ],
+        "address": "Shop no 5, civil hospital complex, Sai Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours",
+          "saturday": "Open 24 hours"
+        },
+        "phone": "+91 89628 15470",
+        "extensions": [
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 13,
+        "title": "BHARAT MEDICAL STORE",
+        "place_id": "ChIJx7pnr0bFfDkRc0g8C5VmYSU",
+        "data_id": "0x397cc546af67bac7:0x256166950b3c4873",
+        "data_cid": "2693546842468927603",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc546af67bac7%3A0x256166950b3c4873&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.025433,
+          "longitude": 76.7120295
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx7pnr0bFfDkRc0g8C5VmYSU",
+        "provider_id": "/g/11zf0cdf9c",
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "type_id": "pharmacy",
+        "type_ids": [
+          "pharmacy"
+        ],
+        "address": "218/2 MEERPURA ALIPUR ASHTA NEAR OF MADINA MASJID MALIPURA, ROAD, Ashta, Sehore, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "10 AM–10 PM",
+          "monday": "10 AM–10 PM",
+          "tuesday": "10 AM–10 PM",
+          "wednesday": "10 AM–10 PM",
+          "thursday": "10 AM–10 PM",
+          "friday": "10 AM–10 PM",
+          "saturday": "10 AM–10 PM"
+        },
+        "phone": "+91 96859 55990"
+      },
+      {
+        "position": 14,
+        "title": "Tulsi Medical store Ashta",
+        "place_id": "ChIJVQl2cfvFfDkRnxEeSKVfL4o",
+        "data_id": "0x397cc5fb71760955:0x8a2f5fa5481e119f",
+        "data_cid": "9957282464623628703",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc5fb71760955%3A0x8a2f5fa5481e119f&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0216535,
+          "longitude": 76.7272602
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVQl2cfvFfDkRnxEeSKVfL4o",
+        "provider_id": "/g/11tdw61xx7",
+        "rating": 5,
+        "reviews": 6,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "type_id": "pharmacy",
+        "type_ids": [
+          "pharmacy"
+        ],
+        "address": "Kannod Rd, Bajrang Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "phone": "+91 95845 79626",
+        "extensions": [
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          }
+        ],
+        "user_review": "\"Best medical store  in ashta with highest discount\""
+      },
+      {
+        "position": 15,
+        "title": "UMIYA MEDICAL STORE",
+        "place_id": "ChIJq5UikhnFfDkRnEO1TLjJkng",
+        "data_id": "0x397cc519922295ab:0x7892c9b84cb5439c",
+        "data_cid": "8688228424549221276",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc519922295ab%3A0x7892c9b84cb5439c&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.028709499999998,
+          "longitude": 76.7332279
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq5UikhnFfDkRnEO1TLjJkng",
+        "provider_id": "/g/11j8kfzjmd",
+        "rating": 5,
+        "reviews": 3,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "type_id": "pharmacy",
+        "type_ids": [
+          "pharmacy"
+        ],
+        "address": "Indore - Bhopal Rd, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "extensions": [
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          },
+          {
+            "payments": [
+              "NFC mobile payments"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 16,
+        "title": "Rathore medical store",
+        "place_id": "ChIJGedbrpHPfDkRb60aX9GD4mM",
+        "data_id": "0x397ccf91ae5be719:0x63e283d15f1aad6f",
+        "data_cid": "7197460089758461295",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397ccf91ae5be719%3A0x63e283d15f1aad6f&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.046089199999997,
+          "longitude": 76.6405334
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGedbrpHPfDkRb60aX9GD4mM",
+        "provider_id": "/g/11jt5p39b5",
+        "rating": 5,
+        "reviews": 1,
+        "unclaimed_listing": true,
+        "type": "Medical Center",
+        "types": [
+          "Medical Center"
+        ],
+        "type_id": "medical_center",
+        "type_ids": [
+          "medical_center"
+        ],
+        "address": "2JWR+62W, Khadi, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open · Closes 12 AM",
+        "hours": "Open · Closes 12 AM",
+        "operating_hours": {
+          "sunday": "10 AM–12 AM",
+          "monday": "10 AM–12 AM",
+          "tuesday": "10 AM–12 AM",
+          "wednesday": "10 AM–12 AM",
+          "thursday": "10 AM–12 AM",
+          "friday": "10 AM–12 AM",
+          "saturday": "10 AM–12 AM"
+        },
+        "phone": "+91 70673 05694",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 17,
+        "title": "Nakoda Medical Store",
+        "place_id": "ChIJ69elljrbfDkRYJzjwF9dn_M",
+        "data_id": "0x397cdb3a96a5d7eb:0xf39f5d5fc0e39c60",
+        "data_cid": "17554852538352901216",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cdb3a96a5d7eb%3A0xf39f5d5fc0e39c60&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.007513799999998,
+          "longitude": 76.7235175
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ69elljrbfDkRYJzjwF9dn_M",
+        "provider_id": "/g/11glybthjs",
+        "rating": 5,
+        "reviews": 3,
+        "unclaimed_listing": true,
+        "type": "Medical supply store",
+        "types": [
+          "Medical supply store"
+        ],
+        "type_id": "medical_supply_store",
+        "type_ids": [
+          "medical_supply_store"
+        ],
+        "address": "2P5F+2C2, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "extensions": [
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          }
+        ],
+        "user_review": "\"Every kind of medicine available 👍\""
+      },
+      {
+        "position": 18,
+        "title": "Mamta medical store ashta",
+        "place_id": "ChIJT8LcWl_FfDkRVSpavey8Hxg",
+        "data_id": "0x397cc55f5adcc24f:0x181fbcecbd5a2a55",
+        "data_cid": "1738315706163407445",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc55f5adcc24f%3A0x181fbcecbd5a2a55&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0222148,
+          "longitude": 76.7253961
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT8LcWl_FfDkRVSpavey8Hxg",
+        "provider_id": "/g/11y1cdsq11",
+        "rating": 3,
+        "reviews": 2,
+        "unclaimed_listing": true,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "type_id": "pharmacy",
+        "type_ids": [
+          "pharmacy"
+        ],
+        "address": "Ward no 18 gadripura, opposite government hospital, Sai Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours",
+          "saturday": "Open 24 hours"
+        },
+        "phone": "+91 98930 01433",
+        "extensions": [
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 19,
+        "title": "Aastha Medico",
+        "place_id": "ChIJUTiReKXEfDkRUoNAGPO4JDw",
+        "data_id": "0x397cc4a578913851:0x3c24b8f318408352",
+        "data_cid": "4333792095660704594",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc4a578913851%3A0x3c24b8f318408352&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0214473,
+          "longitude": 76.7249329
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUTiReKXEfDkRUoNAGPO4JDw",
+        "provider_id": "/g/11dfq34h_v",
+        "rating": 4.1,
+        "reviews": 20,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "type_id": "pharmacy",
+        "type_ids": [
+          "pharmacy"
+        ],
+        "address": "Sai Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "8 AM–10 PM",
+          "monday": "8 AM–10 PM",
+          "tuesday": "8 AM–10 PM",
+          "wednesday": "8 AM–10 PM",
+          "thursday": "8 AM–10 PM",
+          "friday": "8 AM–10 PM",
+          "saturday": "8 AM–10 PM"
+        },
+        "phone": "+91 83700 55056",
+        "extensions": [
+          {
+            "service_options": [
+              "Delivery",
+              "Drive-through"
+            ]
+          },
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "delivery": true
+        }
+      },
+      {
+        "position": 20,
+        "title": "Vanshika Medical Store",
+        "place_id": "ChIJk84zuK3EfDkRz0CxhYJwDDE",
+        "data_id": "0x397cc4adb833ce93:0x310c708285b140cf",
+        "data_cid": "3534323513470042319",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc4adb833ce93%3A0x310c708285b140cf&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0134373,
+          "longitude": 76.72421469999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJk84zuK3EfDkRz0CxhYJwDDE",
+        "provider_id": "/g/11l6tmgq5r",
+        "rating": 5,
+        "reviews": 2,
+        "unclaimed_listing": true,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "type_id": "pharmacy",
+        "type_ids": [
+          "pharmacy"
+        ],
+        "address": "Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "phone": "+91 98270 39509",
+        "extensions": [
+          {
+            "planning": [
+              "Quick visit"
+            ]
+          }
+        ]
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4023.0180474%2C76.715972%2C14z&q=medical+store&start=20&type=search"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+# Secrets - never commit these
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+
+# Python
+backend/.venv/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Databases and logs
+*.db
+*.db-journal
+*.sqlite
+*.log
+
+# Fixtures may contain real (though sanitized) SerpApi data - keep them out
+# of git by default; remove this line if you want to commit them for the
+# judges to inspect the raw response shapes.
+# fixtures/serpapi/*.json
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

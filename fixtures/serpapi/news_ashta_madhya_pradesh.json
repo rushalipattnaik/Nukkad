@@ -1,0 +1,691 @@
+{
+  "_meta": {
+    "label": "news Ashta",
+    "engine": "google_news",
+    "params": {
+      "engine": "google_news",
+      "q": "Ashta Madhya Pradesh",
+      "gl": "in",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:21:33.697975+00:00",
+    "http_status": 200,
+    "elapsed_s": 1.44,
+    "credit_delta_measured": 1,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac260eabde979b21280d8ad",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/ApXchq2601YKoxQJOvpGjnixCK_2V70QbarHuYIMKPA/6ac260eabde979b21280d8ad.md",
+      "created_at": "2026-10-04 14:21:30 UTC",
+      "processed_at": "2026-10-04 14:21:30 UTC",
+      "google_news_url": "https://news.google.com/search?q=Ashta+Madhya+Pradesh&hl=en&gl=IN",
+      "total_time_taken": 1.07
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "gl": "in",
+      "hl": "en",
+      "q": "Ashta Madhya Pradesh"
+    },
+    "news_results": [
+      {
+        "position": 1,
+        "title": "Ashta Air Quality Index (AQI) and India Air Pollution",
+        "source": {
+          "name": "IQAir"
+        },
+        "link": "https://www.iqair.com/in-en/air-quality/india/madhya-pradesh/ashta",
+        "date": "06/24/2026, 09:09 AM, +0000 UTC",
+        "iso_date": "2026-06-24T09:09:58Z"
+      },
+      {
+        "position": 2,
+        "title": "Five Killed, Four Injured In Truck-SUV Crash On Madhya Pradesh Highway",
+        "source": {
+          "name": "ETV Bharat"
+        },
+        "link": "https://www.etvbharat.com/en/state/five-killed-four-injured-in-truck-suv-crash-on-madhya-pradesh-highway-enn26070606174",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWxaSFE0VlhkeWRFaHRRVkZDVFJDZkF4ampCU2dLTWdrQlVJeW5MR2FLcVFJ",
+        "date": "07/06/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-06T07:00:00Z"
+      },
+      {
+        "position": 3,
+        "title": "Ashta Air Quality Index (AQI) and India Air Pollution",
+        "source": {
+          "name": "IQAir"
+        },
+        "link": "https://www.iqair.com/air-quality/india/madhya-pradesh/ashta",
+        "date": "07/03/2026, 01:26 AM, +0000 UTC",
+        "iso_date": "2026-07-03T01:26:34Z"
+      },
+      {
+        "position": 4,
+        "title": "CM Mohan Yadav visits Ashta, holds roadshow: Interacts with students at Sandipani School, transfers ₹1836 c...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/news/cm-mohan-yadav-visits-ashta-sandipani-school-inaugurates-development-works-137679615.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlOWEozWkZOMGJXeHlVMWhRVFJEZ0F4al9CQ2dLTWdZQmdJYlRQQVU",
+        "date": "04/12/2026, 09:55 PM, +0000 UTC",
+        "iso_date": "2026-04-12T21:55:05Z"
+      },
+      {
+        "position": 5,
+        "title": "GAIL Rs 600 Billion Ethane Cracking Unit in Sehore, Madhya Pradesh: Project Details & Timeline",
+        "source": {
+          "name": "The Economic Times B2B"
+        },
+        "link": "https://b2b.economictimes.indiatimes.com/news/madhyapradesh/gail-rs-600-billion-ethane-cracking-unit-in-sehore-madhya-pradesh-project-details-timeline/128117402",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVllbXQ0UmpoWlFURkNVamxQVFJEQ0F4allCQ2dLTWdhbDA0aHZRUVE",
+        "date": "02/09/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-09T08:00:00Z"
+      },
+      {
+        "position": 6,
+        "title": "In Madhya Pradesh’s Sehore, a parking row snowballs into communal violence",
+        "source": {
+          "name": "The Indian Express",
+          "authors": [
+            "Anand Mohan"
+          ]
+        },
+        "link": "https://indianexpress.com/article/india/in-madhya-pradeshs-sehore-a-parking-row-snowballs-into-communal-violence-10437816/",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlNRVJoZG1oVVlYQmZiWG96VFJDZkF4ampCU2dLTWdZQkVKb0ZHZ3M",
+        "date": "12/25/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-25T08:00:00Z"
+      },
+      {
+        "position": 7,
+        "title": "MP CM orders probe after police allegedly assault senior journalists in Ashta",
+        "source": {
+          "name": "The New Indian Express"
+        },
+        "link": "https://www.newindianexpress.com/india/2025/Dec/28/mp-cm-orders-probe-after-police-allegedly-assault-senior-journalists-in-ashta",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhjVUZVTm5kdlpVODJTalU1VFJDMkF4aThCU2dLTWdZeFJKUndIUWs",
+        "date": "12/28/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-28T08:00:00Z"
+      },
+      {
+        "position": 8,
+        "title": "Violence breaks out in MP’s Sehore after minor dispute, highway blocked. Watch video",
+        "source": {
+          "name": "WION",
+          "authors": [
+            "Kaur Garg"
+          ]
+        },
+        "link": "https://www.wionews.com/india-news/violence-breaks-out-in-mp-s-sehore-after-minor-dispute-highway-blocked-watch-video-1766390173329",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpaM0J0T1c5UGJ6SnlkR00zVFJEZ0F4aUFCU2dLTWdZQmdJWlNzQVk",
+        "date": "12/22/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-22T08:00:00Z"
+      },
+      {
+        "position": 9,
+        "title": "Ashta, MP, IN Current Weather",
+        "source": {
+          "name": "The Weather Network"
+        },
+        "link": "https://www.theweathernetwork.com/en/city/in/madhya-pradesh/ashta/current",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFSazFHZUY5M1FVUTRka3hZVFJDcEFSaTBBaWdLTWdZWlVwSXFwUWM",
+        "date": "11/29/2023, 04:42 PM, +0000 UTC",
+        "iso_date": "2023-11-29T16:42:40Z"
+      },
+      {
+        "position": 10,
+        "title": "Ashta Election Result 2023 Live Updates: BJP Won In This Seat of MP",
+        "source": {
+          "name": "The Quint"
+        },
+        "link": "https://www.thequint.com/elections/madhya-pradesh-election/ashta-election-result-2023-live-updates-counting-of-votes-mp-assembly-elections-bjp-congress-candidate-2",
+        "date": "12/03/2023, 08:00 AM, +0000 UTC",
+        "iso_date": "2023-12-03T08:00:00Z"
+      },
+      {
+        "position": 11,
+        "title": "Karni Sena blocks highway as two groups clash in Ashta: Activists hurl stone, damage vehicles; police fire ...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/news/clash-among-two-communities-in-sehores-ashta-turns-violent-karni-sena-blocks-bhopalindore-highway-police-fire-tear-gas-disperse-crowd-with-lathi-charge-136734073.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRYMHQzVHpVemNsVnVhekZYVFJEQ0F4allCQ2dLTWdZQlVKVEtLQWM",
+        "date": "12/21/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-21T08:00:00Z"
+      },
+      {
+        "position": 12,
+        "title": "VIDA VX2 price in Ashta - October 2026 on road price of VX2 in Ashta",
+        "source": {
+          "name": "BikeWale"
+        },
+        "link": "https://www.bikewale.com/vida-bikes/vx2/price-in-ashta/",
+        "date": "07/03/2025, 10:50 AM, +0000 UTC",
+        "iso_date": "2025-07-03T10:50:34Z"
+      },
+      {
+        "position": 13,
+        "title": "GAIL to set up India’s largest, 1,500-KTA Ethane Cracker project in MP",
+        "source": {
+          "name": "PSU Watch",
+          "authors": [
+            "Shalini Sharma"
+          ]
+        },
+        "link": "https://psuwatch.com/newsupdates/gail-to-set-up-indias-largest-1500-kta-ethane-cracker-project-in-mp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZjbmxGVmtWUGNWbDJOekoyVFJERUF4aW1CU2dLTWdZQmNJajBvQVE",
+        "date": "06/10/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-06-10T07:00:00Z"
+      },
+      {
+        "position": 14,
+        "title": "Viral Video: MP Civil Hospital doctor allegedly slapped, threatened while on emergency duty",
+        "source": {
+          "name": "Medical Dialogues"
+        },
+        "link": "https://medicaldialogues.in/news/health/hospital-diagnostics/viral-video-mp-civil-hospital-doctor-allegedly-slapped-threatened-while-on-emergency-duty-174043",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVaalZrUldsa1RYWXhTMG80VFJDdEF4akxCU2dLTWdrVmRZcXNVV1NpQ2dJ",
+        "date": "07/01/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-01T07:00:00Z"
+      },
+      {
+        "position": 15,
+        "title": "Dispute erupts over public urination in Ashta: Stones thrown; Muslim community issues friday ultimatum agai...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/bhopal/news/dispute-erupts-over-public-urination-in-ashta-stones-thrown-muslim-community-issues-friday-ultimatum-against-karni-sena-protest-136784576.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUNNa1pPUzI0eVRWaHlTbTlrVFJDQUF4aUFCQ2dLTWdNTlFRWQ",
+        "date": "12/26/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-26T08:00:00Z"
+      },
+      {
+        "position": 16,
+        "title": "Ashta Civil Hospital set for major expansion and service overhaul",
+        "source": {
+          "name": "Medical Dialogues"
+        },
+        "link": "https://medicaldialogues.in/news/health/hospital-diagnostics/ashta-civil-hospital-set-for-major-expansion-and-service-overhaul-150917",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlaWGRmU0hoTmRqTkJkWE14VFJDdEF4akxCU2dLTWdZQlVJZ21PQVk",
+        "date": "07/01/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-07-01T07:00:00Z"
+      },
+      {
+        "position": 17,
+        "title": "MP: Tense calm in Sehore after right-wing activists hoist Hindu Rashtra flag ahead of Hanuman Janmotsav",
+        "source": {
+          "name": "ETV Bharat"
+        },
+        "link": "https://www.etvbharat.com/english/state/madhya-pradesh/mp-tense-calm-in-sehore-after-right-wing-activists-hoist-hindu-rashtra-flag-ahead-of-hanuman-janmotsav/na20230405163600951951421",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5iRVJsUmt0WVQxTmxiMEpaVFJERUF4aW1CU2dLTWdrQlVJUUVxT1lWY3dB",
+        "date": "04/05/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-04-05T07:00:00Z"
+      },
+      {
+        "position": 18,
+        "title": "Air quality in Ashta",
+        "source": {
+          "name": "IQAir"
+        },
+        "link": "https://www.iqair.com/bh/air-quality/india/madhya-pradesh/ashta",
+        "date": "09/30/2026, 03:23 PM, +0000 UTC",
+        "iso_date": "2026-09-30T15:23:43Z"
+      },
+      {
+        "position": 19,
+        "title": "6 sisters booked for murder after father's funeral: Family gathering turned dramatic when body was found in...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/news/madhya-pradesh-crime-sisters-booked-murder-father-funeral-138205122.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBWV3RYU2xKVmIxOUNVV1pWVFJEZ0F4al9CQ2dLTWdrQlVJS0xJU2hWN0FF",
+        "date": "06/15/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-15T07:00:00Z"
+      },
+      {
+        "position": 20,
+        "title": "Rain, thunderstorms to lash Madhya Pradesh in June: Heatwave alert in Gwalior, Chambal on June 9-10; rain l...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/news/rain-thunderstorms-lash-madhya-pradesh-heatwave-alert-gwalior-chambal-rain-likely-20-districts-today-weather-report-135185786.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNSRWt4VG1wSGMyRlZSMEUyVFJEZ0F4al9CQ2dLTWdtSkI1U21BaXVpU2dJ",
+        "date": "06/07/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-06-07T07:00:00Z"
+      },
+      {
+        "position": 21,
+        "title": "Bizman, wife die by suicide in MP; Congress claims couple were targeted by ED for backing party",
+        "source": {
+          "name": "The New Indian Express"
+        },
+        "link": "https://www.newindianexpress.com/india/2024/Dec/13/bizman-wife-die-by-suicide-in-mp-congress-claims-couple-were-targeted-by-ed-for-backing-party",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhORFpmYTBoQmVEUkVVRFZJVFJDZ0F4amhCU2dLTWdhcEJZYk9qUW8",
+        "date": "12/13/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-13T08:00:00Z"
+      },
+      {
+        "position": 22,
+        "title": "Two Teenage Sisters Raped In Hotel In Madhya Pradesh",
+        "source": {
+          "name": "NDTV"
+        },
+        "link": "https://www.ndtv.com/india-news/two-teenage-sisters-raped-in-hotel-in-madhya-pradeshs-sehore-1910114",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNRWEIyZFZWRWNrSTJjVGs0VFJDUUF4aUtCU2dLTWdZbG9wQXN1UVU",
+        "date": "09/02/2018, 07:00 AM, +0000 UTC",
+        "iso_date": "2018-09-02T07:00:00Z"
+      },
+      {
+        "position": 23,
+        "title": "ED denies harassment as MP couple dies by suicide",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/india/ed-denies-harassment-as-mp-couple-dies-by-suicide/articleshow/116300353.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFjMUJqVEZCcVltOXpTbWc1VFJDZkF4ampCU2dLTWdZbFZZck5wUVk",
+        "date": "12/14/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-14T08:00:00Z"
+      },
+      {
+        "position": 24,
+        "title": "5 dead, 4 injured in Bolero and Truck crash: Bodies trapped inside mangled vehicle; passengers flung 20 fee...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/news/rajgarh-ashta-bolero-truck-collision-sehore-accident-138375136.html",
+        "date": "07/06/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-06T07:00:00Z"
+      },
+      {
+        "position": 25,
+        "title": "Couple whose kids gifted Rahul Gandhi their piggy bank during Nyay Yatra found hanging at Madhya Pradesh",
+        "source": {
+          "name": "The Times of India",
+          "authors": [
+            "P Naveen"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-tragedy-business-couples-suicide-linked-to-ed-probe-sparks-outrage/articleshow/116281330.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTRNRGxsYXpWcWFFZDJSV0Y2VFJDZkF4ampCU2dLTWdNQlFBdw",
+        "date": "12/13/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-13T08:00:00Z"
+      },
+      {
+        "position": 26,
+        "title": "Hero Electric Optima Price in Ashta",
+        "source": {
+          "name": "BikeWale"
+        },
+        "link": "https://www.bikewale.com/heroelectric-bikes/optima/price-in-ashta/",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVBlSFZXWlZrMldsTlZhRzl6VFJDdUFSaTJBaWdLTWdB",
+        "date": "01/14/2019, 12:21 PM, +0000 UTC",
+        "iso_date": "2019-01-14T12:21:02Z"
+      },
+      {
+        "position": 27,
+        "title": "Tragic end: Jiu-Jitsu player Rohini Kalam found hanging at home in Madhya Pradesh, family cites job-related stress",
+        "source": {
+          "name": "Livemint",
+          "authors": [
+            "Eshita Gain"
+          ]
+        },
+        "link": "https://www.livemint.com/news/india/tragic-end-jiu-jitsu-player-rohini-kalam-found-hanging-at-home-in-madhya-pradesh-family-cites-job-related-stress-11761546222484.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVkRkZITFdoa1dERnhXVTB6VFJDZkF4ampCU2dLTWdhWlpaTE5KUWc",
+        "date": "10/27/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-27T07:00:00Z"
+      },
+      {
+        "position": 28,
+        "title": "Madhya Pradesh to have two onion storage units",
+        "source": {
+          "name": "The Times of India",
+          "authors": [
+            "meenakshi sharma"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/madhya-pradesh-to-have-two-onion-storage-units/articleshow/72131916.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTJaakpQUVV0TmFIWjJjM1pLVFJDZkF4ampCU2dLTWdB",
+        "date": "11/19/2019, 08:00 AM, +0000 UTC",
+        "iso_date": "2019-11-19T08:00:00Z"
+      },
+      {
+        "position": 29,
+        "title": "Two BJP workers accused of rape in Sehore district, one held",
+        "source": {
+          "name": "India.com"
+        },
+        "link": "https://www.india.com/news/two-bjp-workers-accused-of-rape-in-sehore-district-one-held-3038101/",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZlVU5pZGpOV1RHUmpXRXBGVFJERUF4aW1CU2dLTWdhQlVJNjBwQWc",
+        "date": "05/06/2018, 07:00 AM, +0000 UTC",
+        "iso_date": "2018-05-06T07:00:00Z"
+      },
+      {
+        "position": 30,
+        "title": "Students Learn Safety, Health And Life Skills At School In MP’s Ashta",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/students-learn-safety-health-and-life-skills-at-school-in-mps-ashta",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJiSGRyY0Zwdk1HTkRjR1ExVFJDZkF4ampCU2dLTWdZUllKQ3FxQWM",
+        "date": "09/24/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-24T07:00:00Z"
+      },
+      {
+        "position": 31,
+        "title": "MP’s Ashta Gears Up To Welcome Bappa As Artisans Give Final Touches To Over 5,000 Ganesh Idols",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/mps-ashta-gears-up-to-welcome-bappa-as-artisans-give-final-touches-to-over-5000-ganesh-idols",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWlXWFoxTjJ3Mk4yNHlNVVJ6VFJDZkF4ampCU2dLTWdtQk1vWmxxU1RnQ0FJ",
+        "date": "09/12/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-12T07:00:00Z"
+      },
+      {
+        "position": 32,
+        "title": "Stray Dogs, Fighting Bulls Take Over Streets As Residents Fear Attacks In MP’s Ashta",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/stray-dogs-fighting-bulls-take-over-streets-as-residents-fear-attacks-in-mps-ashta",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFlRFJOY1VWRFRETnVSREJVVFJDZkF4ampCU2dLTWdrWkFaVFNJS21LalFF",
+        "date": "09/17/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-17T07:00:00Z"
+      },
+      {
+        "position": 33,
+        "title": "First Heavy Monsoon Rain Floods MPs Ashta; People Swept Away With Their Bikes | VIDEO",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/indore/first-heavy-monsoon-rain-floods-ashta-video",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHpVVmRMWlV3NFlrbFBNMHBwVFJDOEFoaVBCQ2dLTWdB",
+        "date": "07/01/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-01T07:00:00Z"
+      },
+      {
+        "position": 34,
+        "title": "Cops’ Assurance Cools Tempers! Bajrang Dal Calls Off Police Station Gherao In MP’s Ashta",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/cops-assurance-cools-tempers-bajrang-dal-calls-off-police-station-gherao-in-mps-ashta",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhiRjkyWlZBNE1qZEVWRzVLVFJDZkF4ampCU2dLTWdZQmNKQlhMQWM",
+        "date": "09/05/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-05T07:00:00Z"
+      },
+      {
+        "position": 35,
+        "title": "Kargil Vijay Diwas Observed With Patriotic Fervour In Ashta",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/kargil-vijay-diwas-observed-with-patriotic-fervour-in-ashta",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVaMWRqTFdSNWNXVTNjazAzVFJDZkF4ampCU2dLTWdZQkVKWk1FUXM",
+        "date": "07/27/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-27T07:00:00Z"
+      },
+      {
+        "position": 36,
+        "title": "Madhya Pradesh CM Mohan Yadav Transfers ₹1,836 Crore 35th Installment Of Ladli Behna Yojana In Ashta --",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/madhya-pradesh-cm-mohan-yadav-transfers-1836-crore-35th-installment-of-ladli-behna-yojana-in-ashta-video",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlia1J1YjBobmJWOUJUelE1VFJEREF4aW5CU2dLTWdhVmNvd1JLUWc",
+        "date": "04/12/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-12T07:00:00Z"
+      },
+      {
+        "position": 37,
+        "title": "Bus Helper Killed in Accident on Bhopal-Indore Highway Near Ashta",
+        "source": {
+          "name": "Dainik Jagran MP CG"
+        },
+        "link": "https://english.dainikjagranmpcg.com/states/madhya-pradesh/bus-helper-killed-in-accident-on-bhopal-indore-highway-near-ashta/article-17468",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFWM04xU2tnMmJEQnhlbTFTVFJDb0FSaXNBaWdCTWdrQkFJb0N0NlFPd3dJ",
+        "date": "04/28/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-28T07:00:00Z"
+      },
+      {
+        "position": 38,
+        "title": "MP News: Heavy Security Deployed In Ashta After Violence Breaks Out Between Two Communities Over Parking",
+        "source": {
+          "name": "Free Press Journal",
+          "authors": [
+            "Kajal Kumari"
+          ]
+        },
+        "link": "https://www.freepressjournal.in/bhopal/mp-news-heavy-security-deployed-in-ashta-after-violence-breaks-out-between-two-communities-over-parking-spot-video",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhWVmxoU1VwdExWVkdXamRxVFJDZkF4ampCU2dLTWdrQllKWjFxQ2k1U3dJ",
+        "date": "12/22/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-22T08:00:00Z"
+      },
+      {
+        "position": 39,
+        "title": "MP News: PMAY Verification Team Attacked In Ashta",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/mp-news-pmay-verification-team-attacked-in-ashta",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVNjMUY0YlhsSFRqQlFNa2hNVFJDZkF4ampCU2dLTWdB",
+        "date": "02/23/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-23T08:00:00Z"
+      },
+      {
+        "position": 40,
+        "title": "Madhya Pradesh: Goon Encroaches Upon School Room In Ashta",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/madhya-pradesh-goon-encroaches-upon-school-room-in-ashta",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlSMnRPYUZaSU5uaHlaek55VFJDZ0F4amlCU2dLTWdhQmtvb0hRZ1U",
+        "date": "07/21/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-07-21T07:00:00Z"
+      },
+      {
+        "position": 41,
+        "title": "MP News: After Burning Of Holika Effigies 5-Day Holi Fest Begins In Ashta",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/mp-news-after-burning-of-holika-effigies-5-day-holi-fest-begins-in-ashta",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUxabUZoWkZwdE5XNUdlVE5hVFJDZkF4ampCU2dLTWdB",
+        "date": "03/04/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-03-04T08:00:00Z"
+      },
+      {
+        "position": 42,
+        "title": "Madhya Pradesh: 100-Bed Ashta Hospital May Get 220 Beds Soon",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/madhya-pradesh-100-bed-ashta-hospital-may-get-220-beds-soon",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVPSHBvZW1wZk5sRjZkSEozVFJDZUF4amdCU2dLTWdZQmNJVENQUU0",
+        "date": "06/28/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-06-28T07:00:00Z"
+      },
+      {
+        "position": 43,
+        "title": "Heavy Rain Lashes MPs Ashta, Water Enters Many Shops, Farmlands Under Knee-Deep Water",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/heavy-rain-lashes-mps-ashta-water-enters-many-shops-farmlands-under-knee-deep-water",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNlRlZEVVRSTlFYUk9UWHBvVFJDZkF4ampCU2dLTWdZQkFLWXVpUXM",
+        "date": "07/26/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-07-26T07:00:00Z"
+      },
+      {
+        "position": 44,
+        "title": "Madhya Pradesh: Ashta’s 13-Year-Old Girl, Cousin Climb Russias Mount Elbrus",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/madhya-pradesh-ashtas-13-year-old-girl-cousin-climb-russias-mount-elbrus",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXJNbUp6TWtOR1QwVlFkRkJEVFJDZkF4ampCU2dLTWdB",
+        "date": "08/18/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-08-18T07:00:00Z"
+      },
+      {
+        "position": 45,
+        "title": "Madhya Pradesh: 10-Year-Old Boy Drowns During Immersion Of Ganesh Idols In Ashta",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/madhya-pradesh-10-year-old-boy-drowns-during-immersion-of-ganesh-idols-in-ashta",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUtiWFJsTjFFMFUwdHVWbVEwVFJEZ0F4aUFCU2dLTWdB",
+        "date": "09/07/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-09-07T07:00:00Z"
+      },
+      {
+        "position": 46,
+        "title": "Demand Grows Louder, Madhya Pradesh To Get New Industrial Parks",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/demand-grows-louder-madhya-pradesh-to-get-new-industrial-parks",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHdhMnMyTjFWVU9USnFkRE5aVFJDb0FSaXNBaWdLTWdB",
+        "date": "04/11/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-11T07:00:00Z"
+      },
+      {
+        "position": 47,
+        "title": "MP News: 27-Year-Old Man Dies After Getting Trapped In Thresher Machine",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/bhopal-news-mlas-should-be-sensitive-expert-in-stress-management-says-cm-mohan-yadav",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdhSFIxWTA5eVh6RmxPRWRsVFJEWUFoamtCQ2dLTWdZTmxZNEh0Z1U",
+        "date": "03/30/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-30T07:00:00Z"
+      },
+      {
+        "position": 48,
+        "title": "Koi Gaddar Toh Nahi...: MP Minister Vishwas Sarang Urges Hindus To Unite Against Those Opposing Sanatan",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/koi-gaddar-toh-nahi-mp-minister-vishwas-sarang-urges-hindus-to-unite-against-those-opposing-sanatan-dharma-in-mps-ashta-video",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWhSVXBHUlZWTlJtVjRaMVZVVFJDZkF4amlCU2dLTWdB",
+        "date": "08/20/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-20T07:00:00Z"
+      },
+      {
+        "position": 49,
+        "title": "Ashta: BJP leader, toll plaza employees engage in scuffle",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/ashta-bjp-leader-toll-plaza-employees-engage-in-scuffle",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDRVVVJwWnpJM1duQlJkbHBWVFJDX0F4aXVCU2dLTWdB",
+        "date": "06/06/2022, 07:00 AM, +0000 UTC",
+        "iso_date": "2022-06-06T07:00:00Z"
+      },
+      {
+        "position": 50,
+        "title": "Madhya Pradesh: Kathavachak Pradeep Mishra Suffers Head Injury During Mahadev's Holi Celebration",
+        "source": {
+          "name": "Times Now"
+        },
+        "link": "https://www.timesnownews.com/india/madhya-pradesh-kathavachak-pradeep-mishra-suffers-head-injury-during-mahadevs-holi-celebration-article-108947311",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFTVkp2VEc1b2NuSmpkRmxEVFJEaEFSaVFBeWdLTWdhcFJJN05wUWM",
+        "date": "04/01/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-04-01T07:00:00Z"
+      },
+      {
+        "position": 51,
+        "title": "MP: 1 Killed, 3 Injured in Building Collapse",
+        "source": {
+          "name": "Pratidin Time"
+        },
+        "link": "https://www.pratidintime.com/national/mp-1-killed-3-injured-in-building-collapse",
+        "date": "08/30/2020, 07:00 AM, +0000 UTC",
+        "iso_date": "2020-08-30T07:00:00Z"
+      },
+      {
+        "position": 52,
+        "title": "MP Weather Update: Red Alert Issued In 10 Districts, Including Ujjain And Ratlam, As Nautapa Brings",
+        "source": {
+          "name": "Free Press Journal"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/mp-weather-update-red-alert-issued-in-10-districts-including-ujjain-and-ratlam-as-nautapa-brings-scorching-heat",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRTVkJoUW1reE0ySTNlR1JVVFJDZkF4ampCU2dLTWdZRmw0U0ZPZ1E",
+        "date": "05/26/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-05-26T07:00:00Z"
+      },
+      {
+        "position": 53,
+        "title": "GAIL to Set Up India's Largest Ethane Cracker Project with Rs 60,000 Crore Investment in MP",
+        "source": {
+          "name": "Adda247"
+        },
+        "link": "https://currentaffairs.adda247.com/gail-to-set-up-indias-largest-ethane-cracker-project-with-rs-60000-crore-investment-in-mp/",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhSWGxRYkcxNVF6WjJiRkZ2VFJDZkF4ampCU2dLTWdZeEFJQTZnQTA",
+        "date": "06/12/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-06-12T07:00:00Z"
+      },
+      {
+        "position": 54,
+        "title": "Varalakshmi Puja 2019: Pleasing Ashta Lakshmi On This Day",
+        "source": {
+          "name": "Boldsky"
+        },
+        "link": "https://www.boldsky.com/yoga-spirituality/festivals/2017/pleasing-ashta-lakshmi-on-vara-mahalakshmi-pooja-116149.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdRVGx2WmtOa2RXMTBha0Y0VFJEQ0F4allCQ2dLTWdZWkk0aXNLUVU",
+        "date": "08/08/2019, 07:00 AM, +0000 UTC",
+        "iso_date": "2019-08-08T07:00:00Z"
+      }
+    ],
+    "menu_links": [
+      {
+        "title": "India",
+        "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+      },
+      {
+        "title": "World",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Your local news",
+        "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+      },
+      {
+        "title": "Business",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Technology",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Entertainment",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Sports",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Science",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Health",
+        "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+      }
+    ]
+  }
+}

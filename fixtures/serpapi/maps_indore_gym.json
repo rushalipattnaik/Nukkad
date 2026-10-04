@@ -1,0 +1,1653 @@
+{
+  "_meta": {
+    "label": "maps Indore / gym",
+    "engine": "google_maps",
+    "params": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "gym",
+      "ll": "@22.7195687,75.8577258,14z",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:20:30.813620+00:00",
+    "http_status": 200,
+    "elapsed_s": 1.07,
+    "credit_delta_measured": 1,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac260ac636cb08135291179",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/AKkUBi3qikmJVDL0LDzBM2q5mi4BTFsddkyE0nr3vrc/6ac260ac636cb08135291179.md",
+      "created_at": "2026-10-04 14:20:28 UTC",
+      "processed_at": "2026-10-04 14:20:28 UTC",
+      "google_maps_url": "https://www.google.com/maps/search/gym/@22.7195687,75.8577258,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+      "total_time_taken": 0.75
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "gym",
+      "ll": "@22.7195687,75.8577258,14z",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Results for exact spelling",
+      "query_displayed": "gym"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "GYM @ 365 DAYS",
+        "place_id": "ChIJ5dNCtSv9YjkRX7lldGn3a-0",
+        "data_id": "0x3962fd2bb542d3e5:0xed6bf7697465b95f",
+        "data_cid": "17108039641793411423",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd2bb542d3e5%3A0xed6bf7697465b95f&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.682242499999997,
+          "longitude": 75.83551969999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5dNCtSv9YjkRX7lldGn3a-0",
+        "provider_id": "/g/11qpx2k84t",
+        "rating": 4.7,
+        "reviews": 553,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym"
+        ],
+        "address": "10-A Narmada Nagar, Annapurna Rd, above SBI Bank, near Chanakyapuri, Chouraha, Indore, Madhya Pradesh 452009, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "8 AM–10 PM",
+          "monday": "6 AM–10 PM",
+          "tuesday": "6 AM–10 PM",
+          "wednesday": "6 AM–10 PM",
+          "thursday": "6 AM–10 PM",
+          "friday": "6 AM–10 PM",
+          "saturday": "6 AM–10 PM"
+        },
+        "phone": "+91 95223 65365",
+        "extensions": [
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Membership required"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "user_review": "\"Well equipped gym\nGood interior , hygienic environment\nAmazing trainers\""
+      },
+      {
+        "position": 2,
+        "title": "Radhe's Fitness Gym",
+        "place_id": "ChIJ15nd4oX9YjkRP4P03uf5VIk",
+        "data_id": "0x3962fd85e2dd99d7:0x8954f9e7def4833f",
+        "data_cid": "9895809055513150271",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd85e2dd99d7%3A0x8954f9e7def4833f&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.6974815,
+          "longitude": 75.87893059999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ15nd4oX9YjkRP4P03uf5VIk",
+        "provider_id": "/g/11j2lh5s3d",
+        "rating": 4.8,
+        "reviews": 337,
+        "type": "Gym",
+        "types": [
+          "Gym",
+          "Fitness center",
+          "Physical fitness program"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym",
+          "fitness_center",
+          "physical_fitness_program"
+        ],
+        "address": "4, Prakash Nagar Rd, near R. K. Hospital, Khandelwal Nagar, Navlakha, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "6 AM–12 PM, 4–10 PM",
+          "monday": "6 AM–12 PM, 4–10 PM",
+          "tuesday": "6 AM–12 PM, 4–10 PM",
+          "wednesday": "6 AM–12 PM, 4–10 PM",
+          "thursday": "6 AM–12 PM, 4–10 PM",
+          "friday": "6 AM–12 PM, 4–10 PM",
+          "saturday": "6 AM–12 PM, 4–10 PM"
+        },
+        "phone": "+91 99075 34107",
+        "website": "http://radhefitness.in/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Membership required"
+            ]
+          },
+          {
+            "payments": [
+              "Google Pay"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "service_options": [
+              "Online classes"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true,
+          "online_classes": false
+        },
+        "user_review": "\"Very well organized workout with personal attention and guidance.\""
+      },
+      {
+        "position": 3,
+        "title": "Fuel Fitness Gym",
+        "place_id": "ChIJB4TtQQv9YjkRDB3CR3SjZEU",
+        "data_id": "0x3962fd0b41ed8407:0x4564a37447c21d0c",
+        "data_cid": "5000301206103530764",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd0b41ed8407%3A0x4564a37447c21d0c&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7219476,
+          "longitude": 75.8579216
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB4TtQQv9YjkRDB3CR3SjZEU",
+        "provider_id": "/g/11ggr6z9y8",
+        "rating": 4.8,
+        "reviews": 649,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym"
+        ],
+        "address": "Petrol Pump, 38 Juna Tukoganj, opposite Rambagh, Indore, Madhya Pradesh 452007, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "6 AM–10 PM",
+          "tuesday": "6 AM–10 PM",
+          "wednesday": "6 AM–10 PM",
+          "thursday": "6 AM–10 PM",
+          "friday": "6 AM–10 PM",
+          "saturday": "6 AM–10 PM"
+        },
+        "phone": "+91 99264 02200",
+        "website": "http://www.fuelfitness.in/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom",
+              "Wi-Fi",
+              "Free Wi-Fi"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Membership required"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free street parking"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible restroom"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Very good gym ,excellent trainers and we'll equipped with good machines.\""
+      },
+      {
+        "position": 4,
+        "title": "Robin's Gym 365me",
+        "place_id": "ChIJXwZTrIn9YjkRR061LRs34yw",
+        "data_id": "0x3962fd89ac53065f:0x2ce3371b2db54e47",
+        "data_cid": "3234489547252649543",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd89ac53065f%3A0x2ce3371b2db54e47&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.696957299999998,
+          "longitude": 75.8626881
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXwZTrIn9YjkRR061LRs34yw",
+        "provider_id": "/g/11lkjmdl7h",
+        "rating": 4.4,
+        "reviews": 350,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym"
+        ],
+        "address": "623, opposite Kapoor’s restaurant, Khatiwala Tank, Indore, Madhya Pradesh 452014, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "5:30 AM–10 PM",
+          "monday": "5:30 AM–10:30 PM",
+          "tuesday": "5:30 AM–10:30 PM",
+          "wednesday": "5:30 AM–10:30 PM",
+          "thursday": "5:30 AM–10:30 PM",
+          "friday": "5:30 AM–10:30 PM",
+          "saturday": "5:30 AM–10:30 PM"
+        },
+        "phone": "+91 83190 52809",
+        "website": "http://robinsgym.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Online classes",
+              "Outdoor services",
+              "Onsite services"
+            ]
+          },
+          {
+            "amenities": [
+              "Child care",
+              "Gender-neutral restroom",
+              "Restroom",
+              "Wi-Fi",
+              "Free Wi-Fi"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Membership required"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Assistive hearing loop",
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ],
+        "service_options": {
+          "online_classes": true,
+          "outdoor_services": true,
+          "onsite_services": true
+        },
+        "user_review": "\"New machines, best trainers, proper guidance, best experience\""
+      },
+      {
+        "position": 5,
+        "title": "THE FITNESS LANE",
+        "place_id": "ChIJ4dEANUEdYzkRwpqFeWjNh8g",
+        "data_id": "0x39631d413500d1e1:0xc887cd6879859ac2",
+        "data_cid": "14449743778040617666",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39631d413500d1e1%3A0xc887cd6879859ac2&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7574144,
+          "longitude": 75.912273
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4dEANUEdYzkRwpqFeWjNh8g",
+        "provider_id": "/g/11r_s5_qjy",
+        "rating": 4.8,
+        "reviews": 219,
+        "type": "Gym",
+        "types": [
+          "Gym",
+          "Fitness center",
+          "Women's personal trainer"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym",
+          "fitness_center",
+          "womens_personal_trainer"
+        ],
+        "address": "Nariman point, 660, Main Rd, opposite KIBS hospital, Sector R, Mahalaxmi Nagar, Indore, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "8 AM–12 PM",
+          "monday": "6 AM–11 PM",
+          "tuesday": "6 AM–11 PM",
+          "wednesday": "6 AM–11 PM",
+          "thursday": "6 AM–11 PM",
+          "friday": "6 AM–11 PM",
+          "saturday": "6 AM–11 PM"
+        },
+        "phone": "+91 97553 32283",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Assistive hearing loop"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Membership required"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "service_options": [
+              "Online classes"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true,
+          "online_classes": false
+        },
+        "user_review": "\"Amazing facility, top equipment and great environment.\""
+      },
+      {
+        "position": 6,
+        "title": "Tarun's Gym",
+        "place_id": "ChIJVVVVVbL9YjkRgVAyPNaA6qU",
+        "data_id": "0x3962fdb255555555:0xa5ea80d63c325081",
+        "data_cid": "11955509818429689985",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fdb255555555%3A0xa5ea80d63c325081&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.693128299999998,
+          "longitude": 75.8288505
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVVVVVbL9YjkRgVAyPNaA6qU",
+        "provider_id": "/g/11gfd1tsmd",
+        "rating": 4.7,
+        "reviews": 188,
+        "unclaimed_listing": true,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym"
+        ],
+        "address": "1006, Sudama Nagar, Near Dominos Foothi Kothi Square, Scheme 71, Indore, Madhya Pradesh 452009, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "5 AM–10 PM",
+          "monday": "5 AM–10 PM",
+          "tuesday": "5 AM–10 PM",
+          "wednesday": "5 AM–10 PM",
+          "thursday": "5 AM–10 PM",
+          "friday": "5 AM–10 PM",
+          "saturday": "5 AM–10 PM"
+        },
+        "phone": "+91 96300 11127",
+        "extensions": [
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Membership required"
+            ]
+          }
+        ],
+        "user_review": "\"Very friendly and supportive trainers who make me actually want to go train.\""
+      },
+      {
+        "position": 7,
+        "title": "RIPD Gym and Fitness Club",
+        "place_id": "ChIJ40gWlNoDYzkRjwz1OlOOux0",
+        "data_id": "0x396303da941648e3:0x1dbb8e533af50c8f",
+        "data_cid": "2142462535867370639",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396303da941648e3%3A0x1dbb8e533af50c8f&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7544643,
+          "longitude": 75.8815137
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ40gWlNoDYzkRjwz1OlOOux0",
+        "provider_id": "/g/11xfpp1mrc",
+        "rating": 5,
+        "reviews": 102,
+        "type": "Fitness center",
+        "types": [
+          "Fitness center"
+        ],
+        "type_id": "fitness_center",
+        "type_ids": [
+          "fitness_center"
+        ],
+        "address": "2nd Floor, Brilliant Star, Vijay Nagar, Scheme No 54, Indore, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours",
+          "saturday": "Open 24 hours"
+        },
+        "phone": "+91 79996 76836",
+        "website": "http://ripdfitnessclub.com/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Online classes",
+              "Outdoor services",
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom",
+              "Wi-Fi",
+              "Free Wi-Fi"
+            ]
+          },
+          {
+            "atmosphere": [
+              "Shower"
+            ]
+          },
+          {
+            "planning": [
+              "Membership required"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Good for kids"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "online_classes": true,
+          "outdoor_services": true,
+          "onsite_services": true
+        },
+        "user_review": "\"Excellent equipment, friendly staff, and a very motivating atmosphere.\""
+      },
+      {
+        "position": 8,
+        "title": "RJ Fitness",
+        "place_id": "ChIJS2Po-oz9YjkRPFpEdvol6-8",
+        "data_id": "0x3962fd8cfae8634b:0xefeb25fa76445a3c",
+        "data_cid": "17287953352248023612",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd8cfae8634b%3A0xefeb25fa76445a3c&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7363569,
+          "longitude": 75.83243379999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJS2Po-oz9YjkRPFpEdvol6-8",
+        "provider_id": "/g/11cn8t362q",
+        "rating": 4.5,
+        "reviews": 687,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym"
+        ],
+        "address": "PRPJ+RVG, A-19, Scheme No. 51, Vasundhara, Sangam Nagar, Indore, Madhya Pradesh 452006, India",
+        "country": "India",
+        "open_state": "Closed · Opens 5:30 AM Mon",
+        "hours": "Closed · Opens 5:30 AM Mon",
+        "operating_hours": {
+          "sunday": "8 AM–12 PM",
+          "monday": "5:30 AM–11 PM",
+          "tuesday": "5:30 AM–11 PM",
+          "wednesday": "5:30 AM–11 PM",
+          "thursday": "5:30 AM–11 PM",
+          "friday": "5:30 AM–11 PM",
+          "saturday": "5:30 AM–11 PM"
+        },
+        "phone": "+91 96699 29292",
+        "extensions": [
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Membership required"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "user_review": "\"The gym is amazing .amazing facility  , top equipment and great environment\""
+      },
+      {
+        "position": 9,
+        "title": "Soul fitness gym",
+        "place_id": "ChIJ04ucSLD_YjkRPaJ3vErflOg",
+        "data_id": "0x3962ffb0489c8bd3:0xe894df4abc77a23d",
+        "data_cid": "16759265625434989117",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962ffb0489c8bd3%3A0xe894df4abc77a23d&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.739877099999998,
+          "longitude": 75.7874222
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ04ucSLD_YjkRPaJ3vErflOg",
+        "provider_id": "/g/11s1q1q2yb",
+        "rating": 4.9,
+        "reviews": 124,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym"
+        ],
+        "address": "Indore Rd, above Bandhan & HDFC bank, Siddharth Nagar, Gandhi Nagar, Pitraparvat, Indore, Madhya Pradesh 453112, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "6 AM–10 PM",
+          "tuesday": "6 AM–10 PM",
+          "wednesday": "6 AM–10 PM",
+          "thursday": "6 AM–10 PM",
+          "friday": "6 AM–10 PM",
+          "saturday": "6 AM–10 PM"
+        },
+        "phone": "+91 91111 11141",
+        "extensions": [
+          {
+            "amenities": [
+              "Restroom",
+              "Wi-Fi",
+              "Free Wi-Fi"
+            ]
+          },
+          {
+            "planning": [
+              "Membership required"
+            ]
+          },
+          {
+            "payments": [
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "On-site parking"
+            ]
+          }
+        ],
+        "user_review": "\"Air conditioned, well equipped, clean and friendly staff specially Trainers\""
+      },
+      {
+        "position": 10,
+        "title": "Alight Fitness Gym",
+        "place_id": "ChIJgf8KQ5ECYzkRncHfXvTvN8I",
+        "data_id": "0x39630291430aff81:0xc237eff45edfc19d",
+        "data_cid": "13994918199919886749",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39630291430aff81%3A0xc237eff45edfc19d&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7594696,
+          "longitude": 75.8699896
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgf8KQ5ECYzkRncHfXvTvN8I",
+        "provider_id": "/g/11fy1f0m8q",
+        "rating": 4.8,
+        "reviews": 524,
+        "type": "Gym",
+        "types": [
+          "Gym",
+          "Fitness center",
+          "Personal trainer",
+          "Vitamin & supplements store",
+          "Weight loss service"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym",
+          "fitness_center",
+          "personal_trainer",
+          "vitamin_and_supplements_store",
+          "weight_loss_service"
+        ],
+        "address": "85, Hira Nagar Main Road Lavkush Awas Vihar Colony, DDU Nagar, Sukhlia in front of kankeshvari ground mr 10, to, iti road, Indore, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "6–11 AM, 5–10 PM",
+          "tuesday": "6–11 AM, 5–10 PM",
+          "wednesday": "6–11 AM, 5–10 PM",
+          "thursday": "6–11 AM, 5–10 PM",
+          "friday": "6–11 AM, 5–10 PM",
+          "saturday": "6–11 AM, 5–10 PM"
+        },
+        "phone": "+91 96306 94258",
+        "website": "https://www.alightfitness.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Online classes",
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Assistive hearing loop"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom",
+              "Wi-Fi",
+              "Free Wi-Fi"
+            ]
+          },
+          {
+            "atmosphere": [
+              "Shower"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Membership required"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking garage",
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ],
+        "service_options": {
+          "online_classes": true,
+          "onsite_services": true
+        },
+        "user_review": "\"It has advanced machines, clean environment, and very supportive trainers.\""
+      },
+      {
+        "position": 11,
+        "title": "EMPEROR FITNESS GYM",
+        "place_id": "ChIJsXeYXgDjYjkRM7ABcYnlEGE",
+        "data_id": "0x3962e3005e9877b1:0x6110e5897101b033",
+        "data_cid": "6994342599775596595",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962e3005e9877b1%3A0x6110e5897101b033&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.6873614,
+          "longitude": 75.8613893
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsXeYXgDjYjkRM7ABcYnlEGE",
+        "provider_id": "/g/11z7l334gw",
+        "rating": 4.8,
+        "reviews": 23,
+        "unclaimed_listing": true,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym"
+        ],
+        "address": "gate, Aditya Nagar, Bhanwar Kuwa, Indore, Madhya Pradesh 452016, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "7–11 AM",
+          "monday": "6 AM–10 PM",
+          "tuesday": "6 AM–10 PM",
+          "wednesday": "6 AM–10 PM",
+          "thursday": "6 AM–10 PM",
+          "friday": "6 AM–10 PM",
+          "saturday": "6 AM–10 PM"
+        },
+        "phone": "+91 74005 12828",
+        "website": "https://www.instagram.com/emperorfitnessgym?igsh=c3A1b21yamlxM3R6&utm_source=qr",
+        "extensions": [
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          }
+        ],
+        "user_review": "\"Excellent gym with clean equipment and a motivating atmosphere.\""
+      },
+      {
+        "position": 12,
+        "title": "Fitness fuel gym 2 premium",
+        "place_id": "ChIJZTP8gVX9YjkRApfflm8f5mY",
+        "data_id": "0x3962fd5581fc3365:0x66e61f6f96df9702",
+        "data_cid": "7414648400645166850",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd5581fc3365%3A0x66e61f6f96df9702&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.6877702,
+          "longitude": 75.82917189999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZTP8gVX9YjkRApfflm8f5mY",
+        "provider_id": "/g/11j48jycjk",
+        "rating": 4.8,
+        "reviews": 527,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym"
+        ],
+        "address": "2137, Sudama Nagar Main Rd, Sector D, jhaloriya market, Indore, Madhya Pradesh 452009, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "10 AM–12 PM",
+          "monday": "6 AM–10 PM",
+          "tuesday": "6 AM–10 PM",
+          "wednesday": "6 AM–10 PM",
+          "thursday": "6 AM–10 PM",
+          "friday": "6 AM–10 PM",
+          "saturday": "6 AM–10 PM"
+        },
+        "phone": "+91 91097 18427",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Online classes",
+              "Outdoor services",
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "atmosphere": [
+              "Shower"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Membership required"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Assistive hearing loop",
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ],
+        "service_options": {
+          "online_classes": true,
+          "outdoor_services": true,
+          "onsite_services": true
+        },
+        "user_review": "\"Very best and clean gym and superb trainer prathvi sir all time supportive\""
+      },
+      {
+        "position": 13,
+        "title": "Balaji Body Fuel Fitness (BBFF GYM)",
+        "place_id": "ChIJ-0cBYk39YjkR-rwcIfIT5SQ",
+        "data_id": "0x3962fd4d620147fb:0x24e513f2211cbcfa",
+        "data_cid": "2658553085690690810",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd4d620147fb%3A0x24e513f2211cbcfa&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7237243,
+          "longitude": 75.82438619999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-0cBYk39YjkR-rwcIfIT5SQ",
+        "provider_id": "/g/11zy0p_kjk",
+        "rating": 5,
+        "reviews": 18,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym"
+        ],
+        "address": "Mahavir Kripa Avenue, Kalani Nagar, Indore, Madhya Pradesh 452005, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "8–10 AM",
+          "monday": "6 AM–10:30 PM",
+          "tuesday": "6 AM–10:30 PM",
+          "wednesday": "6 AM–10:30 PM",
+          "thursday": "6 AM–10:30 PM",
+          "friday": "6 AM–10:30 PM",
+          "saturday": "6 AM–10:30 PM"
+        },
+        "website": "https://www.bbff.in/"
+      },
+      {
+        "position": 14,
+        "title": "AB Fitness Gym",
+        "place_id": "ChIJy59l-N79YjkR2-Do0O2A1OY",
+        "data_id": "0x3962fddef8659fcb:0xe6d480edd0e8e0db",
+        "data_cid": "16633061082686611675",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fddef8659fcb%3A0xe6d480edd0e8e0db&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7387314,
+          "longitude": 75.8979889
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJy59l-N79YjkR2-Do0O2A1OY",
+        "provider_id": "/g/11q1w1cx_b",
+        "rating": 4.8,
+        "reviews": 59,
+        "type": "Gym",
+        "types": [
+          "Gym",
+          "Fitness center",
+          "Nutritionist"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym",
+          "fitness_center",
+          "nutritionist"
+        ],
+        "address": "416, Shradha Shree Colony, Krishna Bagh Colony, Indore, Madhya Pradesh 452011, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "11 AM–2 PM, 5–10 PM",
+          "monday": "11 AM–2 PM, 5–10 PM",
+          "tuesday": "11 AM–2 PM, 5–10 PM",
+          "wednesday": "11 AM–2 PM, 5–10 PM",
+          "thursday": "11 AM–2 PM, 5–10 PM",
+          "friday": "11 AM–2 PM, 5–10 PM",
+          "saturday": "11 AM–2 PM, 5–10 PM"
+        },
+        "phone": "+91 98266 95005",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Google Pay"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "service_options": [
+              "Online classes"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true,
+          "online_classes": false
+        },
+        "user_review": "\"Best place for body\""
+      },
+      {
+        "position": 15,
+        "title": "Cult Gym Vijaynagar",
+        "place_id": "ChIJU4PX9v_9YjkRrNt7klebzSU",
+        "data_id": "0x3962fdfff6d78353:0x25cd9b57927bdbac",
+        "data_cid": "2724004150051068844",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fdfff6d78353%3A0x25cd9b57927bdbac&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.746209,
+          "longitude": 75.89273779999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU4PX9v_9YjkRrNt7klebzSU",
+        "provider_id": "/g/11spdczd91",
+        "rating": 4.6,
+        "reviews": 316,
+        "type": "Gym",
+        "types": [
+          "Gym",
+          "Boxing club",
+          "Boxing gym",
+          "Fitness center",
+          "Personal trainer",
+          "Physical fitness program",
+          "Training center",
+          "Weight loss service",
+          "Yoga instructor",
+          "Yoga studio"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym",
+          "boxing_club",
+          "boxing_gym",
+          "fitness_center",
+          "personal_trainer",
+          "physical_fitness_program",
+          "training_center",
+          "weight_loss_service",
+          "yoga_instructor",
+          "yoga_studio"
+        ],
+        "address": "3rd Floor, Gemini Mall, opp. Malhar Mall, Vijay Nagar, Scheme No 54, Indore, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "6 AM–10 PM",
+          "monday": "6 AM–10 PM",
+          "tuesday": "6 AM–10 PM",
+          "wednesday": "6 AM–10 PM",
+          "thursday": "6 AM–10 PM",
+          "friday": "6 AM–10 PM",
+          "saturday": "6 AM–10 PM"
+        },
+        "phone": "+91 120 634 1899",
+        "website": "https://www.cult.fit/cult/cult-pass/indore/cult-gym-vijay-nagar/347?utm_source=Google&utm_medium=organic&utm_content=Cult-Indore&utm_campaign=347",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom",
+              "Wi-Fi",
+              "Free Wi-Fi"
+            ]
+          },
+          {
+            "atmosphere": [
+              "Shower"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "On-site parking"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "service_options": [
+              "Online classes"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true,
+          "online_classes": false
+        },
+        "user_review": "\"Great gym with modern equipment and a motivating atmosphere.\""
+      },
+      {
+        "position": 16,
+        "title": "Warzish Fitness Club",
+        "place_id": "ChIJpcQYg-4dYzkRMsZSYQaRsBY",
+        "data_id": "0x39631dee8318c4a5:0x16b091066152c632",
+        "data_cid": "1634966121324135986",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39631dee8318c4a5%3A0x16b091066152c632&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7595341,
+          "longitude": 75.9130871
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpcQYg-4dYzkRMsZSYQaRsBY",
+        "provider_id": "/g/11mjk_swqy",
+        "rating": 4.6,
+        "reviews": 248,
+        "type": "Gym",
+        "types": [
+          "Gym",
+          "Fitness center"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym",
+          "fitness_center"
+        ],
+        "address": "896 R, Nariman point road, 897, MR- 4, Mahalaxmi Nagar, Indore, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "9 AM–1 PM",
+          "monday": "6 AM–11:30 PM",
+          "tuesday": "6 AM–11:30 PM",
+          "wednesday": "6 AM–11:30 PM",
+          "thursday": "6 AM–11:30 PM",
+          "friday": "6 AM–11:30 PM",
+          "saturday": "6 AM–11:30 PM"
+        },
+        "phone": "+91 74155 66680",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Membership required"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "service_options": [
+              "Online classes"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true,
+          "online_classes": false
+        },
+        "user_review": "\"Outstanding equipment and spacious facilities make workouts a breeze!\""
+      },
+      {
+        "position": 17,
+        "title": "Anytime Fitness",
+        "place_id": "ChIJIbT77aIDYzkRNPJ6OG5-dx8",
+        "data_id": "0x396303a2edfbb421:0x1f777e6e387af234",
+        "data_cid": "2267419949263417908",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396303a2edfbb421%3A0x1f777e6e387af234&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7545176,
+          "longitude": 75.89820929999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIbT77aIDYzkRNPJ6OG5-dx8",
+        "provider_id": "/g/11h23m5y8j",
+        "rating": 4.5,
+        "reviews": 605,
+        "type": "Gym",
+        "types": [
+          "Gym",
+          "Fitness center"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym",
+          "fitness_center"
+        ],
+        "address": "4th floor, Satya Sai Square, Benchmark Business Park, Unit no-415, Vijay Nagar, Scheme No 54, Indore, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours",
+          "saturday": "Open 24 hours"
+        },
+        "phone": "+91 92160 55345",
+        "website": "https://www.anytimefitness.com/en-in/locations/indore-madhya-pradesh-in-1074",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom",
+              "Wi-Fi",
+              "Free Wi-Fi"
+            ]
+          },
+          {
+            "atmosphere": [
+              "Shower"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Membership required"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "service_options": [
+              "Online classes",
+              "Onsite services"
+            ]
+          }
+        ],
+        "service_options": {
+          "online_classes": false,
+          "onsite_services": false
+        },
+        "user_review": "\"Well hygiene maintain, supportive trainers and friendly atmosphere 👍\""
+      },
+      {
+        "position": 18,
+        "title": "Revti Gym & Health Club",
+        "place_id": "ChIJSfXRJFr9YjkRM_pSRRD59Eo",
+        "data_id": "0x3962fd5a24d1f549:0x4af4f9104552fa33",
+        "data_cid": "5401215701401926195",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd5a24d1f549%3A0x4af4f9104552fa33&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.6897661,
+          "longitude": 75.8250363
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSfXRJFr9YjkRM_pSRRD59Eo",
+        "provider_id": "/g/11g1dstg8b",
+        "rating": 4.8,
+        "reviews": 145,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym"
+        ],
+        "address": "Hawa bangla main road In Relex Garden Garden, Indore, Madhya Pradesh 452009, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "6–11 AM, 4–11 PM",
+          "tuesday": "6–11 AM, 4–11 PM",
+          "wednesday": "6–11 AM, 4–11 PM",
+          "thursday": "6–11 AM, 4–11 PM",
+          "friday": "6–11 AM, 4–11 PM",
+          "saturday": "6–11 AM, 4–11 PM"
+        },
+        "phone": "+91 91116 62666",
+        "extensions": [
+          {
+            "service_options": [
+              "Online classes",
+              "Outdoor services",
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom",
+              "Wi-Fi",
+              "Free Wi-Fi"
+            ]
+          },
+          {
+            "atmosphere": [
+              "Shower"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Membership required"
+            ]
+          },
+          {
+            "payments": [
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "online_classes": true,
+          "outdoor_services": true,
+          "onsite_services": true
+        },
+        "user_review": "\"Nice gym and great place for workout for both male and female.\""
+      },
+      {
+        "position": 19,
+        "title": "The Fitness Lan Gym 2.0",
+        "place_id": "ChIJM-ChTU8DYzkRQgtpNeIHOxY",
+        "data_id": "0x3963034f4da1e033:0x163b07e235690b42",
+        "data_cid": "1601882760600423234",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3963034f4da1e033%3A0x163b07e235690b42&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7559111,
+          "longitude": 75.8930227
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM-ChTU8DYzkRQgtpNeIHOxY",
+        "provider_id": "/g/11mllfzczl",
+        "rating": 4.6,
+        "reviews": 53,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "type_id": "gym",
+        "type_ids": [
+          "gym"
+        ],
+        "address": "154, AB Rd, opposite golden gate hotel, above manak mewa, Scheme 54 PU4, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Closed · Opens 5 AM Mon",
+        "hours": "Closed · Opens 5 AM Mon",
+        "operating_hours": {
+          "sunday": "8 AM–2 PM",
+          "monday": "5 AM–11:30 PM",
+          "tuesday": "5 AM–11:30 PM",
+          "wednesday": "5 AM–11:30 PM",
+          "thursday": "5 AM–11:30 PM",
+          "friday": "5 AM–11:30 PM",
+          "saturday": "5 AM–11:30 PM"
+        },
+        "phone": "+91 97553 33452",
+        "extensions": [
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Membership required"
+            ]
+          }
+        ],
+        "user_review": "\"Good maintained , well behaved staff , good machines, nice cleanliness\""
+      },
+      {
+        "position": 20,
+        "title": "Bull strength gym",
+        "place_id": "ChIJSxC4REz9YjkReLyF5-1L0i0",
+        "data_id": "0x3962fd4c44b8104b:0x2dd24bede785bc78",
+        "data_cid": "3301784961979628664",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd4c44b8104b%3A0x2dd24bede785bc78&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.729545599999998,
+          "longitude": 75.8972938
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSxC4REz9YjkReLyF5-1L0i0",
+        "provider_id": "/g/11yyws39l8",
+        "rating": 5,
+        "reviews": 81,
+        "type": "Fitness center",
+        "types": [
+          "Fitness center"
+        ],
+        "type_id": "fitness_center",
+        "type_ids": [
+          "fitness_center"
+        ],
+        "address": "Chandralok Square, Khajrana Main Rd, opposite sns hospital, Shree Nagar Ext, Kalpana Lok Colony, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "6 AM–11 PM",
+          "tuesday": "6 AM–11 PM",
+          "wednesday": "6 AM–11 PM",
+          "thursday": "6 AM–11 PM",
+          "friday": "6 AM–11 PM",
+          "saturday": "6 AM–11 PM"
+        },
+        "phone": "+91 91111 89171",
+        "extensions": [
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Membership required"
+            ]
+          }
+        ],
+        "user_review": "\"Wonderful gym with powerful machines and experience and expert trainers.\""
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4022.7195687%2C75.8577258%2C14z&q=gym&start=20&type=search"
+    }
+  }
+}

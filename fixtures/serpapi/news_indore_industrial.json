@@ -1,0 +1,1216 @@
+{
+  "_meta": {
+    "label": "news Indore industry",
+    "engine": "google_news",
+    "params": {
+      "engine": "google_news",
+      "q": "Indore industrial",
+      "gl": "in",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:21:38.502567+00:00",
+    "http_status": 200,
+    "elapsed_s": 2.15,
+    "credit_delta_measured": 0,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac260ee2f5ea0a7d1370b55",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/UAqkZ-kZ0jwuBzGvnM7bKqg8gjAEqPUcOpzo6tFuUA0/6ac260ee2f5ea0a7d1370b55.md",
+      "created_at": "2026-10-04 14:21:34 UTC",
+      "processed_at": "2026-10-04 14:21:34 UTC",
+      "google_news_url": "https://news.google.com/search?q=Indore+industrial&hl=en&gl=IN",
+      "total_time_taken": 1.61
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "gl": "in",
+      "hl": "en",
+      "q": "Indore industrial"
+    },
+    "news_results": [
+      {
+        "position": 1,
+        "title": "‘Udyam Samagam’ in Indore on October 2-3: CM to attend; Laghu Udyog Bharati to bring entrepreneurs, govt an...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/indore-udyam-samagam-2026-micro-small-industries-event-139203507.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJUbmx5WlRCRE1uWnNVRzlSVFJEM0FoajBBeWdLTWdhVkFab1BsUWc",
+        "date": "09/30/2026, 04:27 PM, +0000 UTC",
+        "iso_date": "2026-09-30T16:27:19Z"
+      },
+      {
+        "position": 2,
+        "title": "D&H India acquires ₹18 crore industrial land in Indore for expansion",
+        "source": {
+          "name": "scanx.trade"
+        },
+        "link": "https://scanx.trade/stock-market-news/companies/d-h-india-acquires-18-crore-industrial-land-indore-expansion/51707947",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFkV0pVTlhWMlh6azNhMjlTVFJDaUF4amRCU2dLTWdZZGhvZ3FzZ1E",
+        "date": "09/23/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-23T07:00:00Z"
+      },
+      {
+        "position": 3,
+        "title": "D & H India Limited Executes Agreement to Acquire Industrial Land in Indore for ₹18 Crore",
+        "source": {
+          "name": "equitybulls.com"
+        },
+        "link": "https://www.equitybulls.com/category.php?id=375653",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdOa2xEV200eVRVZEthSGd3VFJDZEF4am5CU2dLTWdtTlVvSUgzV0p6YUFJ",
+        "date": "09/23/2026, 12:49 PM, +0000 UTC",
+        "iso_date": "2026-09-23T12:49:50Z"
+      },
+      {
+        "position": 4,
+        "title": "UJJAIN-INDORE METROPOLITAN REGION: One Destination, Infinite Opportunities",
+        "source": {
+          "name": "MillenniumPost"
+        },
+        "link": "https://www.millenniumpost.in/nation/ujjain-indore-metropolitan-region-one-destination-infinite-opportunities-675254",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBSMGQzVGpCdlIzcGtOa05xVFJDdEF4akxCU2dLTWdhWlU1SkpxUWc",
+        "date": "09/08/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-08T07:00:00Z"
+      },
+      {
+        "position": 5,
+        "title": "Plast Pack 2026: Indore to Host the Mega Industrial Expo from November 27 to 30",
+        "source": {
+          "name": "TheWire.in"
+        },
+        "link": "https://m.thewire.in/article/ptiprnews/plast-pack-2026-indore-to-host-the-mega-industrial-expo-from-november-27-to-30",
+        "date": "09/01/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-01T07:00:00Z"
+      },
+      {
+        "position": 6,
+        "title": "Padma Shri Nem Nath Jain dies: Founder of Prestige industrial and educational group passes away; mourning i...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/prestige-group-founder-padma-shri-nem-nath-jain-dies-indore-139120578.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5ZME5pYldremJVUnlaVWxEVFJEZ0F4aUFCU2dLTWdZcFpZak5zUVU",
+        "date": "09/23/2026, 04:36 AM, +0000 UTC",
+        "iso_date": "2026-09-23T04:36:45Z"
+      },
+      {
+        "position": 7,
+        "title": "Indore Pharma Summit: Mapping the future of India pharma",
+        "source": {
+          "name": "Express Pharma",
+          "authors": [
+            "Swati Rana"
+          ]
+        },
+        "link": "https://www.expresspharma.in/indore-pharma-summit-mapping-the-future-of-india-pharma/",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5RMkZPVjNSRlMzZFVRM05TVFJDUUF4anVCU2dLTWdrRk1KQmxJS2dzMEFF",
+        "date": "06/12/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-12T07:00:00Z"
+      },
+      {
+        "position": 8,
+        "title": "Gallard Steel Secures Letter Of Intent For Industrial Land In Indore",
+        "source": {
+          "name": "TradingView"
+        },
+        "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43I13M:0-gallard-steel-secures-letter-of-intent-for-industrial-land-in-indore/",
+        "date": "07/16/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-16T07:00:00Z"
+      },
+      {
+        "position": 9,
+        "title": "Two fire incidents reported in Indore’s industrial zones",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/two-fire-incidents-reported-in-indores-industrial-zones/articleshow/131145213.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "05/17/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-17T07:00:00Z"
+      },
+      {
+        "position": 10,
+        "title": "Madhya Pradesh Approves ₹600 Crore Logistics Park In Indore",
+        "source": {
+          "name": "Maritime Gateway"
+        },
+        "link": "https://www.maritimegateway.com/indore-logistics-park/",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUZSRUZ4YmpWcFZuaFlTbTFUVFJDNkFoallCQ2dLTWdNQllnSQ",
+        "date": "06/12/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-12T07:00:00Z"
+      },
+      {
+        "position": 11,
+        "title": "Madhya Pradesh plans mega Malwa growth region around Indore | Hindustan Times",
+        "source": {
+          "name": "Hindustan Times"
+        },
+        "link": "https://www.hindustantimes.com/genesis/madhya-pradesh-plans-mega-malwa-growth-region-around-indore-101781955795326.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJWbGRXVWxWUkxXMTVlRXRCVFJDZkF4ampCU2dLTWdZdEFKYndGQXM",
+        "date": "06/22/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-22T07:00:00Z"
+      },
+      {
+        "position": 12,
+        "title": "Indore set to anchor Central India’s next phase of industrial & logistics growth",
+        "source": {
+          "name": "Manufacturing Today India"
+        },
+        "link": "https://www.manufacturingtodayindia.com/indore-set-to-anchor-central-india",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZXbEpZT1hwSmVuaHJOV1pJVFJEZ0F4aUFCU2dLTWdZdE5acXVtUWs",
+        "date": "05/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-14T07:00:00Z"
+      },
+      {
+        "position": 13,
+        "title": "MPPTCL’s 132kV Polo Ground (Chambal) substation completes 60 years of service",
+        "source": {
+          "name": "T&D India"
+        },
+        "link": "https://www.tndindia.com/mpptcls-132kv-polo-ground-chambal-substation-completes-60-years-of-service/",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXdSSEI2UlVWUE9HcFBjMXBtVFJDZkF4ampCU2dLTWdB",
+        "date": "09/01/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-01T07:00:00Z"
+      },
+      {
+        "position": 14,
+        "title": "MP to develop 81 new industrial areas for MSMEs",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/mp-to-develop-81-new-industrial-areas-for-msmes/articleshow/132123639.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "07/02/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-02T07:00:00Z"
+      },
+      {
+        "position": 15,
+        "title": "70 KTPA green ammonia plant to come up at Hatod industrial area",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/70-ktpa-green-ammonia-plant-to-come-up-at-hatod-industrial-area/articleshow/131573461.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "06/08/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-08T07:00:00Z"
+      },
+      {
+        "position": 16,
+        "title": "Pithampur’s massive industrial hub still lacks testing lab: Proposed high-tech facility likely shifting to ...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/ujjain-high-tech-lab-shift-indore-pithampur-industrial-hub-lack-testing-facility-137956679.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVpVM0JCUjBRMFFYWkNRMmxKVFJEZ0F4aUFCU2dLTWdrQk1JQUlvV2JCU2dJ",
+        "date": "05/16/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-16T07:00:00Z"
+      },
+      {
+        "position": 17,
+        "title": "MPIDC cancels Hazargo Industries’ land allotment weeks after major fire",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/mpidc-cancels-hazargo-industries-land-allotment-weeks-after-major-fire/articleshow/131491417.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "06/04/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-04T07:00:00Z"
+      },
+      {
+        "position": 18,
+        "title": "PM MITRA Park secures ₹20,000 crore investment: Preparations begin for third-phase land allocation; allotme...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/pm-mitra-park-indore-land-allocation-phase-3-preparation-138324423.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdha3BVUjJjdE1rWnJiblF4VFJEZ0F4aUFCU2dLTWdrQk1JaEhzU1RKalFF",
+        "date": "06/30/2026, 05:18 AM, +0000 UTC",
+        "iso_date": "2026-06-30T05:18:04Z"
+      },
+      {
+        "position": 19,
+        "title": "Blackstone-backed XSIO to invest Rs 600 crore in logistics hub near Indore",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/blackstone-backed-xsio-to-invest-rs-600-crore-in-logistics-hub-near-indore/articleshow/131643778.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "06/11/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-11T07:00:00Z"
+      },
+      {
+        "position": 20,
+        "title": "Depleting groundwater pushes industries towards tankers, increases output cost",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/depleting-groundwater-pushes-industries-towards-tankers-increases-output-cost/articleshow/131145209.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDJVakp1YkRORU5UZGZjbEZwVFJDZkF4ampCU2dLTWdB",
+        "date": "05/17/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-17T07:00:00Z"
+      },
+      {
+        "position": 21,
+        "title": "Sylph Industries changes registered office address in Indore",
+        "source": {
+          "name": "scanx.trade"
+        },
+        "link": "https://scanx.trade/stock-market-news/companies/sylph-industries-changes-registered-office-address-indore/49726133",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUJORjlCUVRWaU1FUTBSbUl0VFJDZkF4ampCU2dLTWdNTjBnbw",
+        "date": "08/31/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-31T07:00:00Z"
+      },
+      {
+        "position": 22,
+        "title": "XSIO announces expansion in Madhya Pradesh",
+        "source": {
+          "name": "thehitavada.com"
+        },
+        "link": "https://www.thehitavada.com/Encyc/2026/6/14/xsio-announces-expansion-in-madhya-pradesh.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1aRVF4Y1hNd2NWZFZRazVGVFJDcEFSaXRBaWdLTWdhQk1Jd05JUVk",
+        "date": "06/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-14T07:00:00Z"
+      },
+      {
+        "position": 23,
+        "title": "MPIDC allots land to 7 firms in Pithampur",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/mpidc-allots-land-to-7-firms-in-pithampur/articleshow/131976951.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "06/25/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-25T07:00:00Z"
+      },
+      {
+        "position": 24,
+        "title": "Pharma firms lead fresh investments in MP: ₹2,246 crore projects aim to create jobs and boost exports signi...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/indore-pharma-investment-2246-crore-boost-exports-jobs-138345216.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZiVTlCWXpOT1RFcHJUMGRIVFJEZ0F4aUFCU2dLTWdZQllJYnFLUWc",
+        "date": "07/02/2026, 04:43 PM, +0000 UTC",
+        "iso_date": "2026-07-02T16:43:47Z"
+      },
+      {
+        "position": 25,
+        "title": "Indore Composite gets Kunal Asar as head-HR",
+        "source": {
+          "name": "HR Katha"
+        },
+        "link": "https://www.hrkatha.com/people/movement/indore-composite-gets-kunal-asar-as-head-hr/",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJaV2cxU1ZOTFdEUTJkMFU0VFJERkF4aWxCU2dLTWdhVmc1Sm90Z1k",
+        "date": "07/16/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-16T07:00:00Z"
+      },
+      {
+        "position": 26,
+        "title": "3 firecracker factories sealed in Indore district",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/3-firecracker-factories-sealed-in-indore-district/articleshow/131126680.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "05/16/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-16T07:00:00Z"
+      },
+      {
+        "position": 27,
+        "title": "Labour shortage hits MP industries, output down by 20%",
+        "source": {
+          "name": "The Times of India",
+          "authors": [
+            "meenakshi sharma"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/labour-shortage-hits-mp-industries-output-down-by-20/articleshow/130966349.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "05/09/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-09T07:00:00Z"
+      },
+      {
+        "position": 28,
+        "title": "MP plans to reclaim Patanjali's allotted land: 419 acres given to 3 major investors over decade, but none o...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/madhya-pradesh-reclaim-patanjali-land-pithampur-investment-controversy-138507377.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVdkMGh6ZFcxdlNFTnNOMkUwVFJEZ0F4aUFCU2dLTWdNOVFDQQ",
+        "date": "07/22/2026, 04:59 AM, +0000 UTC",
+        "iso_date": "2026-07-22T04:59:32Z"
+      },
+      {
+        "position": 29,
+        "title": "Summer power tripping disrupt industrial operations, MSMEs seek infra upgrade",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/summer-power-tripping-disrupt-industrial-operations-msmes-seek-infra-upgrade/articleshow/131126700.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "05/16/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-16T07:00:00Z"
+      },
+      {
+        "position": 30,
+        "title": "Pithampur land allotment row: Small-scale entrepreneurs allege bias in favour of large industries, demand f...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/pithampur-entrepreneurs-demand-40-percent-land-reservation-small-industries-economic-corridor-137989232.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhWWFZQYWpOMWVucFRWSE5WVFJEZ0F4aUFCU2dLTWdZVmdJenN3QVE",
+        "date": "05/20/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-20T07:00:00Z"
+      },
+      {
+        "position": 31,
+        "title": "MP finalises 500-post metropolitan authority set-up for Bhopal, Ujjain-Indore regions",
+        "source": {
+          "name": "The Times of India",
+          "authors": [
+            "Ankur Sirothia"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/bhopal/mp-finalises-500-post-metropolitan-authority-set-up-for-bhopal-ujjain-indore-regions/articleshow/132468858.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdkMk53VjFWQmRGWm1OWEZxVFJDZkF4amlCU2dLTWdZaEJZak1pUWM",
+        "date": "07/18/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-18T07:00:00Z"
+      },
+      {
+        "position": 32,
+        "title": "PCB seeks strengthening of industrial, city sewage systems ahead of Simhastha",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/pcb-seeks-strengthening-of-industrial-city-sewage-systems-ahead-of-simhastha/articleshow/131335336.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "05/26/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-26T07:00:00Z"
+      },
+      {
+        "position": 33,
+        "title": "From protests to approval: MP launches controversial Indore-Ujjain corridor after land row",
+        "source": {
+          "name": "The Indian Express",
+          "authors": [
+            "Anand Mohan"
+          ]
+        },
+        "link": "https://indianexpress.com/article/india/indore-ujjain-greenfield-four-lane-corridor-mohan-yadav-10749584/",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpUbDlwZGxCVU0wcGZWSE5aVFJDZkF4ampCU2dLTWdrQllKYXpwS2pBS3dJ",
+        "date": "06/20/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-20T07:00:00Z"
+      },
+      {
+        "position": 34,
+        "title": "Sarafa Bazar Didn’t Flinch: Indore Silver Holds ₹260/g Through Jackson Hole Noise",
+        "source": {
+          "name": "The Eastern Herald"
+        },
+        "link": "https://easternherald.com/2026/08/30/silver-rate-today-indore-august-31-2026/",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUNWMWRTYzI1WVJFcElia1ZpVFJDZUF4ajBBeWdLTWdNZHRoQQ",
+        "date": "08/31/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-31T07:00:00Z"
+      },
+      {
+        "position": 35,
+        "title": "MP to host investor summit for Nimar region",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/mp-to-host-investor-summit-for-nimar-region/articleshow/130869089.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "05/09/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-09T07:00:00Z"
+      },
+      {
+        "position": 36,
+        "title": "Sylph Industries shifts corporate office to Ahmedabad",
+        "source": {
+          "name": "scanx.trade"
+        },
+        "link": "https://scanx.trade/stock-market-news/companies/sylph-industries-shifts-corporate-office-to-ahmedabad/45920008",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVFlSGRxUkdOTWVYSnlkSGhYVFJDaUF4amRCU2dLTWdzQklJYUVtS1JLOThoRmtn",
+        "date": "07/18/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-18T07:00:00Z"
+      },
+      {
+        "position": 37,
+        "title": "Madhya Pradesh CM lays foundation of Indore-Pithampur economic corridor",
+        "source": {
+          "name": "economictimes.com"
+        },
+        "link": "https://m.economictimes.com/news/india/madhya-pradesh-cm-launches-indore-pithampur-economic-corridor-to-attract-1-lakh-crore-investments/articleshow/130731928.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhkMGRmVFZsb1dqUmlXRTB6VFJEZ0F4aUFCU2dLTWdtQmRaRE5xU2Z3VVFF",
+        "date": "05/03/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-03T07:00:00Z"
+      },
+      {
+        "position": 38,
+        "title": "Auri Grow India shifts registered office to Indore's Orbit Mall",
+        "source": {
+          "name": "scanx.trade"
+        },
+        "link": "https://scanx.trade/stock-market-news/companies/auri-grow-india-shifts-registered-office-to-indore-s-orbit-mall/43534076",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1SazlPVFZOMlZrVjZURWxvVFJDaUF4amRCU2dLTWdrQkFJWnFHV1JGRHdF",
+        "date": "06/20/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-20T07:00:00Z"
+      },
+      {
+        "position": 39,
+        "title": "Pithampur units seek second fire station amid rising incidents",
+        "source": {
+          "name": "The Times of India",
+          "authors": [
+            "meenakshi sharma"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/pithampur-units-seek-second-fire-station-amid-rising-incidents/articleshow/130522447.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJaRkIwTkU5dE0yeHFaVk56VFJDZkF4ampCU2dLTWdhbFZJcU1wUVE",
+        "date": "04/26/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-26T07:00:00Z"
+      },
+      {
+        "position": 40,
+        "title": "Lokayukta Raids Unearth Rs 9.5 Crore Assets From Indore Officer",
+        "source": {
+          "name": "Rediff"
+        },
+        "link": "https://www.rediff.com/news/report/lokayukta-raids-indore-officer-unearths-rs-95-cr-assets/20260610.htm",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhlbGxSUkhkek4zSlZRV05SVFJDQUJCaUFCQ2dLTWdhbGc1QndOUWM",
+        "date": "06/10/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-10T07:00:00Z"
+      },
+      {
+        "position": 41,
+        "title": "Fire at waste management plant raises old concerns over pollution & chemical odour",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/fire-at-waste-management-plant-raises-old-concerns-over-pollution-chemical-odour/articleshow/130451021.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZMV3d0VEhWWk5ubGhiWFpXVFJDZkF4ampCU2dLTWdZQk1veEtKUWM",
+        "date": "04/23/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-23T07:00:00Z"
+      },
+      {
+        "position": 42,
+        "title": "Madhya Pradesh launches ₹2,360 crore Indore-Pithampur Economic Corridor",
+        "source": {
+          "name": "The News Mill"
+        },
+        "link": "https://thenewsmill.com/2026/05/mp-cm-mohan-yadav-lays-foundation-for-rs-2360-crore-indore-pithampur-economic-corridor/",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWZORlpUV0ZkcFlXOXNOVzFJVFJEZ0F4aUFCU2dLTWdB",
+        "date": "05/03/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-03T07:00:00Z"
+      },
+      {
+        "position": 43,
+        "title": "Proposed high-tech facility likely shifting to Ujjain despite Indore region’s larger industrial presence",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/video/ujjain-high-tech-lab-shift-indore-pithampur-industrial-hub-lack-testing-facility-137956679.html?type=video",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFjM05aUm1NelpHNU9hbmt5VFJESEJSaVFBeWdLTWdhRkFhVG1EQXM",
+        "date": "05/16/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-16T07:00:00Z"
+      },
+      {
+        "position": 44,
+        "title": "Indore fully included, 59% of Ujjain under metro plan: Project to cover over 75 lakh population across 6 di...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/ujjain-indore-metro-region-plan-75-lakh-population-mp-districts-138163451.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFjVlJ2T0ZoU1QzUkdXVmhVVFJEZ0F4aUFCU2dLTWdZQlFJNExOUVk",
+        "date": "06/10/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-10T07:00:00Z"
+      },
+      {
+        "position": 45,
+        "title": "Big launch, bigger fall: CM Mohan Yadav unveils corridor with ₹20,000 crore plan, 1 lakh jobs expected; mai...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/indore-pithampur-economic-corridor-inauguration-cm-yadav-rs20000-crore-investment-137846497.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTNYMmxGYTBWbFZ6VjVTRzB6VFJEM0FoajBBeWdLTWdNQmNBbw",
+        "date": "05/03/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-03T07:00:00Z"
+      },
+      {
+        "position": 46,
+        "title": "'6 lakh new jobs': MP CM Yadav lays foundation stone for Rs 2,360 cr Indore-Pithampur Economic Corridor",
+        "source": {
+          "name": "aninews.in"
+        },
+        "link": "https://www.aninews.in/news/national/general-news/6-lakh-new-jobs-mp-cm-yadav-lays-foundation-stone-for-rs-2360-cr-indore-pithampur-economic-corridor20260503213758",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNMVGxFTURKMWVVUmFZMnBIVFJEZ0F4aUFCU2dLTWdrQlVKWnlxQ2ZJaGdJ",
+        "date": "05/03/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-03T07:00:00Z"
+      },
+      {
+        "position": 47,
+        "title": "Explosions at Pithampur waste treatment facility",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/explosions-at-pithampur-waste-treatment-facility/articleshow/130268048.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFVM0ZDUm5KVFZYSjVTaTFwVFJDZkF4ampCU2dLTWdhaFZJcU1wUVE",
+        "date": "04/15/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-15T07:00:00Z"
+      },
+      {
+        "position": 48,
+        "title": "Indore lags behind metropolitan race: Robbed of several key projects; city area keeps increasing, but not t...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/indore-metropolitan-region-expansion-ujjain-inclusion-project-delays-137725674.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJPRFphZG1jMmN6VXdWMkZ0VFJEZ0F4al9CQ2dLTWdhQmtZRHUxUUk",
+        "date": "04/17/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-17T07:00:00Z"
+      },
+      {
+        "position": 49,
+        "title": "Massive fire at chemical waste facility in Pithampur: Explosions in drums destroy JCB, Hydra crane; thick s...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/pithampur-chemical-fire-explosions-jcb-hydra-crane-smoke-137756952.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdVMVZtUzNaemJuVldaalZtVFJDQUF4aUFCQ2dLTWdtQlVZeWxxaVkxVVFF",
+        "date": "04/21/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-21T07:00:00Z"
+      },
+      {
+        "position": 50,
+        "title": "Allotment of plots in new industrial areas of Indore region to begin from April",
+        "source": {
+          "name": "ET Realty"
+        },
+        "link": "https://realty.economictimes.indiatimes.com/news/industry/indore-to-launch-new-industrial-zones-by-april-boosting-msme-growth/129741713",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVNbTFhZW10SlJGcERUM2hvVFJDZkF4ampCU2dLTWdZQlVJcVhSQVk",
+        "date": "03/23/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-23T07:00:00Z"
+      },
+      {
+        "position": 51,
+        "title": "Water demand in Indore & Pithampur industrial belts rises to 55 MLD",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/water-demand-in-indore-pithampur-industrial-belts-rises-to-55-mld/articleshow/129910728.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRWbFJhYlUxZmVVc3haREZoVFJDZkF4ampCU2dLTWdhaFJJcU5wUVE",
+        "date": "03/31/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-31T07:00:00Z"
+      },
+      {
+        "position": 52,
+        "title": "Indore industrial belt set to get three new substations as demand rises",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/indore-industrial-belt-set-to-get-three-new-substations-as-demand-rises/articleshow/127648343.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWFWRFYwUWpSMlNHbzJiMDVXVFJDZkF4ampCU2dLTWdB",
+        "date": "01/28/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-28T08:00:00Z"
+      },
+      {
+        "position": 53,
+        "title": "PNG supply to industries cut further to 55%, output risks mount",
+        "source": {
+          "name": "The Times of India",
+          "authors": [
+            "meenakshi sharma"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/png-supply-to-industries-cut-further-to-55-output-risks-mount/articleshow/129853970.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJUbXh2WVVGdlZURnVUV3d4VFJDZkF4ampCU2dLTWdhaFJJcXRwUVE",
+        "date": "03/28/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-28T07:00:00Z"
+      },
+      {
+        "position": 54,
+        "title": "Industries flag LPG shortage, PNG curbs in Pithampur, seek urgent intervention",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/industries-flag-lpg-shortage-png-curbs-in-pithampur-seek-urgent-intervention/articleshow/129724746.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBjbGxDWTJveWRuVjBMVGwwVFJDZkF4ampCU2dLTWdZQklZeU1MUWM",
+        "date": "03/22/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-22T07:00:00Z"
+      },
+      {
+        "position": 55,
+        "title": "250 firms put products, tech, services on display at engg & manufacturing expo in Indore",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/250-firms-put-products-tech-services-on-display-at-engg-manufacturing-expo-in-indore/articleshow/126442839.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVYMmszWTJSbVZFZHNielJCVFJDZkF4amlCU2dLTWdZZEJJek1DUW8",
+        "date": "01/10/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-10T08:00:00Z"
+      },
+      {
+        "position": 56,
+        "title": "PNG supply to industries capped at 80% of usage to meet domestic demands",
+        "source": {
+          "name": "The Times of India",
+          "authors": [
+            "meenakshi sharma"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/png-supply-to-industries-capped-at-80-of-usage-to-meet-domestic-demands/articleshow/129564066.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFVM0ZDUm5KVFZYSjVTaTFwVFJDZkF4ampCU2dLTWdhaFZJcU1wUVE",
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z"
+      },
+      {
+        "position": 57,
+        "title": "Nine new industrial areas to come up in Indore region this calendar year",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/nine-new-industrial-areas-to-come-up-in-indore-region-this-calendar-year/articleshow/126533611.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhTbXBGZWtsbGNtVmZlRkpCVFJDZkF4ampCU2dLTWdhaFJJcU5wUVE",
+        "date": "01/15/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-15T08:00:00Z"
+      },
+      {
+        "position": 58,
+        "title": "LPG curbs strike factory kitchens in state’s major industrial hubs",
+        "source": {
+          "name": "The Times of India",
+          "authors": [
+            "meenakshi sharma"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/lpg-curbs-strike-factory-kitchens-in-states-major-industrial-hubs/articleshow/129595457.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU9hV0pmTW05UE4wUlhkRWRNVFJDZ0F4amlCU2dLTWdB",
+        "date": "03/16/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-16T07:00:00Z"
+      },
+      {
+        "position": 59,
+        "title": "Freight forward: Multimodal logistics park draws early investors",
+        "source": {
+          "name": "The Times of India",
+          "authors": [
+            "meenakshi sharma"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/freight-forward-multimodal-logistics-park-draws-early-investors/articleshow/128128277.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhRWGxVWlVzNFQyMDNWVTk2VFJDZ0F4amlCU2dLTWdtWkE0eU9oU1ZWcEFJ",
+        "date": "02/10/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-10T08:00:00Z"
+      },
+      {
+        "position": 60,
+        "title": "Vision 2047 for Indore focuses on Malwa Nimar: 7 districts to be developed as economic zones based on their...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/malwa-nimar-economic-zones-indore-ivision-2047-plan-137409028.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVVZMHRCUlVoSVFWQkJSMEpGVFJEZ0F4aUFCU2dLTWdNTjZnNA",
+        "date": "03/11/2026, 03:25 PM, +0000 UTC",
+        "iso_date": "2026-03-11T15:25:40Z"
+      },
+      {
+        "position": 61,
+        "title": "PNG gas crisis hits Indore industries: Prices double, supply halved; 400 factories on verge of shutdown",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/indore-png-gas-crisis-factories-shutdown-prices-double-supply-halved-137592776.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpjRVJ3UXpJMGFscGpPRGxrVFJEZ0F4al9CQ2dLTWdZQkFLeGxBQTA",
+        "date": "04/01/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-01T07:00:00Z"
+      },
+      {
+        "position": 62,
+        "title": "TVS ILP begins work on ₹250 crore logistics park in Indore",
+        "source": {
+          "name": "ET Manufacturing"
+        },
+        "link": "https://manufacturing.economictimes.indiatimes.com/news/industry/tvs-ilp-begins-work-on-250-crore-logistics-park-in-indore/127243504",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDNSVFZwY0ZSVU1qa3lXazFsVFJDZkF4ampCU2dLTWdNQmdBWQ",
+        "date": "01/23/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-23T08:00:00Z"
+      },
+      {
+        "position": 63,
+        "title": "Hettich opens Indore plant amid growing global demand",
+        "source": {
+          "name": "Manufacturing Today India"
+        },
+        "link": "https://www.manufacturingtodayindia.com/hettich-opens-indore-plant",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTJiRXBEZFhOdVYyUmFaRUp4VFJEZ0F4ai1CQ2dLTWdzQklacWpuR290SkR2bW9n",
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z"
+      },
+      {
+        "position": 64,
+        "title": "Indore–Pithampur corridor project to boost central India’s manufacturing hub",
+        "source": {
+          "name": "ET Manufacturing"
+        },
+        "link": "https://manufacturing.economictimes.indiatimes.com/news/industry/indorepithampur-corridor-project-to-boost-central-indias-manufacturing-hub/128915455",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUhjMkZwUTNoamFWWTFXRFZsVFJDbEFoaXlBaWdLTWdNQmNBdw",
+        "date": "03/01/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-03-01T08:00:00Z"
+      },
+      {
+        "position": 65,
+        "title": "Another industrial area to be developed in Indore dist at cost of over Rs22 crore",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/another-industrial-area-to-be-developed-in-indore-dist-at-cost-of-over-rs22-crore/articleshow/126381552.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxUSFZzU3pWZk9XWk9aSFoxVFJDZkF4ampCU2dLTWdhQk1wb0lHZ2c",
+        "date": "01/07/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-07T08:00:00Z"
+      },
+      {
+        "position": 66,
+        "title": "Allotment of plots at Jaora industrial area to begin this month",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/allotment-of-plots-at-jaora-industrial-area-to-begin-this-month/articleshow/129175091.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZMV3d0VEhWWk5ubGhiWFpXVFJDZkF4ampCU2dLTWdZQk1veEtKUWM",
+        "date": "03/07/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-03-07T08:00:00Z"
+      },
+      {
+        "position": 67,
+        "title": "Industrial belts urge govt to cut VAT on fuel after hike in power tariff",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/industrial-belts-urge-govt-to-cut-vat-on-fuel-after-hike-in-power-tariff/articleshow/129854048.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1jelpwTFdSQ2VXNVJSMUZTVFJDZkF4ampCU2dLTWdZQk1veExLUWM",
+        "date": "03/28/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-28T07:00:00Z"
+      },
+      {
+        "position": 68,
+        "title": "Hettich Strengthens Made in India, Made for the World Strategy with Launch of New Indore Manufacturing Plant",
+        "source": {
+          "name": "TheWire.in"
+        },
+        "link": "https://m.thewire.in/article/ptiprnews/hettich-strengthens-made-in-india-made-for-the-world-strategy-with-launch-of-new-indore-manufacturing-plant",
+        "date": "03/12/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-12T07:00:00Z"
+      },
+      {
+        "position": 69,
+        "title": "Fire breaks out at pesticide factory in Indore, 12 workers hospitalised",
+        "source": {
+          "name": "aninews.in"
+        },
+        "link": "https://www.aninews.in/news/national/general-news/fire-breaks-out-at-pesticide-factory-in-indore-12-workers-hospitalised20260318171412",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZlbE0yY3pGbU5UQkpYM280VFJEZ0F4aUFCU2dLTWdZbE5ZVE5vUWc",
+        "date": "03/18/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-18T07:00:00Z"
+      },
+      {
+        "position": 70,
+        "title": "Gateway Distriparks acquires land to build ICD in Indore",
+        "source": {
+          "name": "Construction Week India"
+        },
+        "link": "https://www.constructionweekonline.in/business/gateway-distriparks",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhXalJOWWt0RGNGTjZiM3BaVFJDZkF4ampCU2dLTWdZQmNJNGhNd2M",
+        "date": "02/06/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-06T08:00:00Z"
+      },
+      {
+        "position": 71,
+        "title": "TVS ILP’s Rs 250 crore park in MP to begin ops in August 2026",
+        "source": {
+          "name": "Construction Week India"
+        },
+        "link": "https://www.constructionweekonline.in/business/tvs-ilps-rs-250-crore-park-in-mp-to-begin-ops-in-august-2026",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU1SbWQzTWs5RFYydzJRbkYwVFJDZkF4ampCU2dLTWdNQmNnWQ",
+        "date": "01/26/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-26T08:00:00Z"
+      },
+      {
+        "position": 72,
+        "title": "Gateway Distriparks acquires land for inland container depot in Indore, expanding to Central India",
+        "source": {
+          "name": "Projects Today"
+        },
+        "link": "https://www.projectstoday.ai/News/Gateway-Distriparks-acquires-land-for-inland-container-depot-in-Indore-expanding-to-Central-India",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlhWHBHTVRneE56Vm1XSGxrVFJERUF4aW1CU2dLTWdZQmdJaExRQVE",
+        "date": "02/03/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-03T08:00:00Z"
+      },
+      {
+        "position": 73,
+        "title": "TVS ILP to invest ₹250 crore in Indore logistics park",
+        "source": {
+          "name": "thehindubusinessline.com"
+        },
+        "link": "https://www.thehindubusinessline.com/economy/logistics/tvs-ilp-to-invest-250-crore-in-grade-a-logistics-park-in-indore/article70538132.ece",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDNSa3BQY0haS1pXVnpSWEpoVFJDZkF4ampCU2dLTWdNQmdBWQ",
+        "date": "01/22/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-22T08:00:00Z"
+      },
+      {
+        "position": 74,
+        "title": "Gateway Distriparks to set up new ICD in Indore",
+        "source": {
+          "name": "Manufacturing Today India"
+        },
+        "link": "https://www.manufacturingtodayindia.com/gateway-distriparks-to-set-up-icd",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRTVXRtUXpWSFlXWTBabTlzVFJEZ0F4ai1CQ2dLTWdZQllJNEJNd2M",
+        "date": "02/03/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-03T08:00:00Z"
+      },
+      {
+        "position": 75,
+        "title": "Fire at Indore Pesticide Factory Hospitalizes 12 Workers",
+        "source": {
+          "name": "The News Mill"
+        },
+        "link": "https://thenewsmill.com/2026/03/fire-at-indore-pesticide-factory-hospitalises-12-workers-with-breathing-issues/",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZlbE0yY3pGbU5UQkpYM280VFJEZ0F4aUFCU2dLTWdZbE5ZVE5vUWc",
+        "date": "03/18/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-18T07:00:00Z"
+      },
+      {
+        "position": 76,
+        "title": "Indore–Pithampur corridor project to boost central India’s manufacturing hub",
+        "source": {
+          "name": "Biltrax Media"
+        },
+        "link": "https://www.biltraxmedia.com/indore-pithampur-corridor-to-boost-indias-manufacturing-hub/",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNOMUZJYnpaa2NFSlhVR3BJVFJDbkF4alZCU2dLTWdrQlFKQUVwR2Q1MFFF",
+        "date": "03/02/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-03-02T08:00:00Z"
+      },
+      {
+        "position": 77,
+        "title": "High VAT, gas cuts squeeze MP industries, shutdown fears rise",
+        "source": {
+          "name": "The Times of India",
+          "authors": [
+            "meenakshi sharma"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/high-vat-gas-cuts-squeeze-mp-industries-shutdown-fears-rise/articleshow/129910543.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpaVFZ4WmtONFZYQnFkVkZmVFJDZkF4ampCU2dLTWdhQk1veExwUVk",
+        "date": "03/31/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-31T07:00:00Z"
+      },
+      {
+        "position": 78,
+        "title": "MPIDC mulls over new 250 hectare industrial belt near Nagda in Ujjain",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/mpidc-mulls-over-new-250-hectare-industrial-belt-near-nagda-in-ujjain/articleshow/126661028.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNjMlpXWlhOcVJWZFpiVWc0VFJDZkF4ampCU2dLTWdZQk1ZeUxyUWM",
+        "date": "01/19/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-19T08:00:00Z"
+      },
+      {
+        "position": 79,
+        "title": "High tension industrial consumers up in arms against mandatory power quality meters",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/high-tension-industrial-consumers-up-in-arms-against-mandatory-power-quality-meters/articleshow/126626695.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpObFZ3YkRZd0xXRm5aR05EVFJDZkF4ampCU2dLTWdhaFJJcU5wUVE",
+        "date": "01/18/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-18T08:00:00Z"
+      },
+      {
+        "position": 80,
+        "title": "Gateway Distriparks Limited acquires land to build ICD in Indore",
+        "source": {
+          "name": "Maritime Gateway"
+        },
+        "link": "https://www.maritimegateway.com/gateway-distriparks-limited-acquires-land-to-build-icd-in-indore/",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRRa1psWXpCVVdHaG9jbFp5VFJDUUF4ai1CU2dLTWdZQkVvQ1JFUW8",
+        "date": "02/02/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-02T08:00:00Z"
+      },
+      {
+        "position": 81,
+        "title": "Jaggakhedi Phase 2: 60 industrial plots to be allotted via e-bidding",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/jaggakhedi-phase-2-60-industrial-plots-to-be-allotted-via-e-bidding/articleshow/128687335.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpkRXBpTlhac1JFOURNalZYVFJDZkF4ampCU2dLTWdhaFZJcU1KUVE",
+        "date": "02/23/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-23T08:00:00Z"
+      },
+      {
+        "position": 82,
+        "title": "Gateway Distriparks acquires land parcel in Indore for ICD project",
+        "source": {
+          "name": "Indian Transport & Logistics"
+        },
+        "link": "https://www.itln.in/railway/gateway-distriparks-acquires-land-parcel-in-indore-for-icd-project-1358064",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRZVkpTVGxKRVFWUTBYeTB6VFJDdEF4akxCU2dLTWdZQlVJeGh0d1k",
+        "date": "02/05/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-05T08:00:00Z"
+      },
+      {
+        "position": 83,
+        "title": "CM Mohan Yadav pushes MSME drive, targets major industrial expansion in Bhopal and Indore",
+        "source": {
+          "name": "The Economic Times B2B"
+        },
+        "link": "https://b2b.economictimes.indiatimes.com/news/madhyapradesh/cm-mohan-yadav-pushes-msme-drive-targets-major-industrial-expansion-in-bhopal-and-indore/125868064",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlORXBuZURKMU1WaGZRa3RCVFJDUUF4ai1CU2dLTWdhcFpaVE9xUWM",
+        "date": "12/09/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-09T08:00:00Z"
+      },
+      {
+        "position": 84,
+        "title": "₹268 crore tender issued for Indore-Pithampur Economic Corridor: 17 villages to benefit, over 50,000 jobs e...",
+        "source": {
+          "name": "Bhaskar English",
+          "authors": [
+            "Abhishek Dubey"
+          ]
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/indore-pithampur-economic-corridor-farmers-land-tender-mp-137310196.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVpNSGt5TmpGRFNWSkJaa0ZMVFJEZ0F4al9CQ2dLTWdrWkVJaVNrT056WmdJ",
+        "date": "02/26/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-26T08:00:00Z"
+      },
+      {
+        "position": 85,
+        "title": "LPG & raw material shortages hit industries hard: Workers face layoffs, rising costs in Indore, other places",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/indore-confectionery-output-drops-drug-raw-material-costs-surge-137634185.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1jbGw1YW5CQ1YyZ3RXbUZwVFJEZ0F4al9CQ2dLTWdtQmNJaGxRbVExalFF",
+        "date": "04/06/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-06T07:00:00Z"
+      },
+      {
+        "position": 86,
+        "title": "TVS ILP to invest ₹250 crore in logistics park in Indore",
+        "source": {
+          "name": "Indian Transport & Logistics"
+        },
+        "link": "https://www.itln.in/logistics/tvs-ilp-to-invest-250-crore-in-logistics-park-in-indore-1357911",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHpVbTQxZEZWYVVEaGllVk5ZVFJDdEF4akxCU2dLTWdNQmdBWQ",
+        "date": "01/23/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-23T08:00:00Z"
+      },
+      {
+        "position": 87,
+        "title": "Industries in Pithampur demand power infra upgrade amid losses",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/industries-in-pithampur-demand-power-infra-upgrade-amid-losses/articleshow/125965916.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNVRVo1Y2s1bWRHZ3dUbTQ0VFJDZkF4ampCU2dLTWdZSk1veExKUWM",
+        "date": "12/15/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-15T08:00:00Z"
+      },
+      {
+        "position": 88,
+        "title": "Indore faces severe water supply and quality crisis: 50% groundwater contaminated, drainage and industrial ...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/indore-water-crisis-groundwater-contamination-leakage-chemicals-137502389.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1NRWMxU1c5blUyZ3dObGxRVFJEZ0F4al9CQ2dLTWdhQkVaSlFKUWc",
+        "date": "03/21/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-21T07:00:00Z"
+      },
+      {
+        "position": 89,
+        "title": "Indore tragedy should trigger action nationwide",
+        "source": {
+          "name": "newindianexpress.com"
+        },
+        "link": "https://www.newindianexpress.com/editorial/2026/Jan/02/indore-tragedy-should-trigger-action-nationwide",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVRSVVl3YVhGZlZYZ3dPVlpWVFJER0F4aWtCU2dLTWdB",
+        "date": "01/02/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-02T08:00:00Z"
+      },
+      {
+        "position": 90,
+        "title": "Gateway Distriparks rises on land acquisition for Indore ICD",
+        "source": {
+          "name": "Business Standard"
+        },
+        "link": "https://www.business-standard.com/markets/capital-market-news/gateway-distriparks-rises-on-land-acquisition-for-indore-icd-126020200652_1.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+        "date": "02/02/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-02T08:00:00Z"
+      },
+      {
+        "position": 91,
+        "title": "MPIDC begins land allotment to plastic manufacturing unit at Tilgara Industrial Zone in Dhar",
+        "source": {
+          "name": "Projects Today"
+        },
+        "link": "https://www.projectstoday.ai/News/MPIDC-begins-land-allotment-to-plastic-manufacturing-unit-at-Tilgara-Industrial-Zone-in-Dhar",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZkRzVsV1ZkUFZsWjVSV3hFVFJDZkF4ampCU2dLTWdrQkFJZ2xrV1NDOXdB",
+        "date": "01/05/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-05T08:00:00Z"
+      },
+      {
+        "position": 92,
+        "title": "MPIDC steps up work on two new industrial parks in Neemuch",
+        "source": {
+          "name": "The Times of India"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/mpidc-steps-up-work-on-two-new-industrial-parks-in-neemuch/articleshow/125573755.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFaRUpHVVZSeWNVbzVhR3R2VFJDZkF4ampCU2dLTWdhbFJJcXRwUVE",
+        "date": "11/26/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-26T08:00:00Z"
+      },
+      {
+        "position": 93,
+        "title": "MPIDC clears first land allotment at Tilgara industrial hub",
+        "source": {
+          "name": "Manufacturing Today India"
+        },
+        "link": "https://www.manufacturingtodayindia.com/mpidc-clears-first-land-allotment",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpZVGhmYWxWaWRVVlRkRWsxVFJEZ0F4ai1CQ2dLTWdZQmdJaUdNZ2M",
+        "date": "01/06/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-06T08:00:00Z"
+      },
+      {
+        "position": 94,
+        "title": "Indore-Pithampur economic corridor cleared: 21-km eight-lane stretch to shape new industrial future with fa...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/indore-pithampur-economic-corridor-farmer-participation-land-pooling-137179954.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVpNSGt5TmpGRFNWSkJaa0ZMVFJEZ0F4al9CQ2dLTWdrWkVJaVNrT056WmdJ",
+        "date": "02/11/2026, 01:51 PM, +0000 UTC",
+        "iso_date": "2026-02-11T13:51:01Z"
+      },
+      {
+        "position": 95,
+        "title": "Indore-Pithampur belt sees fresh investment proposals of more than Rs 1.7k crore",
+        "source": {
+          "name": "The Times of India",
+          "authors": [
+            "meenakshi sharma"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/indore-pithampur-belt-sees-fresh-investment-proposals-of-more-than-rs-1-7k-crore/articleshow/125525288.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJObmxoT1ZKbFQxTmxYMGRQVFJDZ0F4amlCU2dLTWdhWkE0ckxCUWs",
+        "date": "11/24/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-24T08:00:00Z"
+      },
+      {
+        "position": 96,
+        "title": "Fuel shift gathers pace in the city: Residents rush for PNG connections as LPG shortages hit amid global su...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/png-connections-surge-fuel-supply-worry-us-iran-tension-137544300.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5UR1pYY1dGNVoyeExTblpJVFJEZ0F4al9CQ2dLTWdZQk1JcUZ1QVU",
+        "date": "03/26/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-26T07:00:00Z"
+      },
+      {
+        "position": 97,
+        "title": "Textile and Apparel Investments Drive Industrial Land Demand in Indore Region | Manufacturing News India",
+        "source": {
+          "name": "apparelresources.com"
+        },
+        "link": "https://apparelresources.com/business-news/manufacturing/textile-apparel-investments-drive-industrial-land-demand-indore-region/",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdhekV0YWxCQmIzRmhSbmRUVFJDZkF4ampCU2dLTWdZQmtJWmtSZ1E",
+        "date": "01/05/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-05T08:00:00Z"
+      },
+      {
+        "position": 98,
+        "title": "ET Make in India SME Regional Summit arrives in Indore on March 13",
+        "source": {
+          "name": "economictimes.com"
+        },
+        "link": "https://m.economictimes.com/small-biz/sme-sector/et-make-in-india-sme-regional-summit-arrives-in-indore-on-march-13/articleshow/129138770.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFNMGx5Y1U1WmREZElTM0pvVFJEZ0F4aUFCU2dLTWdhRkNJaWtrZ3M",
+        "date": "03/06/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-03-06T08:00:00Z"
+      },
+      {
+        "position": 99,
+        "title": "Authorities act against firms dumping garbage and wastewater into drains: Municipal Corporation fines compa...",
+        "source": {
+          "name": "Bhaskar English"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/indore-municipal-corporation-fines-companies-1-80-lakh-137154203.html",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhaekZGYVdaZk1tSTBORVJmVFJEZ0F4al9CQ2dLTWdtQk1ZNmxKcWMxcEFJ",
+        "date": "02/08/2026, 12:07 PM, +0000 UTC",
+        "iso_date": "2026-02-08T12:07:18Z"
+      },
+      {
+        "position": 100,
+        "title": "Hettich India Expands Manufacturing With Indore Facility",
+        "source": {
+          "name": "SMEStreet"
+        },
+        "link": "https://smestreet.in/infocus/hettich-india-expands-manufacturing-with-indore-facility-11212606",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW9WMGhWVFRoWVl5MUdkSFF4VFJEZ0F4aUFCU2dLTWdB",
+        "date": "03/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-14T07:00:00Z"
+      }
+    ],
+    "menu_links": [
+      {
+        "title": "India",
+        "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+      },
+      {
+        "title": "World",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Your local news",
+        "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+      },
+      {
+        "title": "Business",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Technology",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Entertainment",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Sports",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Science",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Health",
+        "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+      }
+    ]
+  }
+}

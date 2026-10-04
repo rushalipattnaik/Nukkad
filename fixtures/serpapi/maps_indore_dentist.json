@@ -1,0 +1,2093 @@
+{
+  "_meta": {
+    "label": "maps Indore / dentist",
+    "engine": "google_maps",
+    "params": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "dentist",
+      "ll": "@22.7195687,75.8577258,14z",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:20:26.971930+00:00",
+    "http_status": 200,
+    "elapsed_s": 1.84,
+    "credit_delta_measured": 0,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac260a7a89e021eb03bc06f",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/XlCZs-bFFI1NprNnKW4AZk_uY8nTlP25gVGPtaswrdg/6ac260a7a89e021eb03bc06f.md",
+      "created_at": "2026-10-04 14:20:23 UTC",
+      "processed_at": "2026-10-04 14:20:23 UTC",
+      "google_maps_url": "https://www.google.com/maps/search/dentist/@22.7195687,75.8577258,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+      "total_time_taken": 1.32
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "dentist",
+      "ll": "@22.7195687,75.8577258,14z",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Results for exact spelling",
+      "query_displayed": "dentist"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "The Shining 32 Dental Clinic",
+        "place_id": "ChIJ-yavYBb9YjkR3PuLB-_O3Es",
+        "data_id": "0x3962fd1660af26fb:0x4bdcceef078bfbdc",
+        "data_cid": "5466471573740059612",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd1660af26fb%3A0x4bdcceef078bfbdc&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.723737999999997,
+          "longitude": 75.87438499999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-yavYBb9YjkR3PuLB-_O3Es",
+        "provider_id": "/g/11gdqtmxbl",
+        "rating": 4.9,
+        "reviews": 1576,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Dental implants provider",
+          "Denture care center",
+          "Endodontist",
+          "Oral surgeon",
+          "Orthodontist",
+          "Periodontist",
+          "Prosthodontist"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "dental_implants_provider",
+          "denture_care_center",
+          "endodontist",
+          "oral_surgeon",
+          "orthodontist",
+          "periodontist",
+          "prosthodontist"
+        ],
+        "address": "104, First Floor, Starlit Tower, Yeshwant Niwas Rd, near Lantern Square, Sanghi Colony, Yeshwant Colony, Indore, Madhya Pradesh 452003, India",
+        "country": "India",
+        "open_state": "Closed · Opens 10:30 AM Mon",
+        "hours": "Closed · Opens 10:30 AM Mon",
+        "operating_hours": {
+          "sunday": "10:15 AM–2:30 PM",
+          "monday": "10:30 AM–9:15 PM",
+          "tuesday": "10:30 AM–9:15 PM",
+          "wednesday": "10:30 AM–9:15 PM",
+          "thursday": "10:30 AM–9:15 PM",
+          "friday": "10:30 AM–9:15 PM",
+          "saturday": "10:30 AM–9:15 PM"
+        },
+        "phone": "+91 86021 79039",
+        "website": "https://theshining32.in/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"She did root Canal very smoothly almost without much pain.\""
+      },
+      {
+        "position": 2,
+        "title": "Smile Multispeciality Dental Clinic",
+        "place_id": "ChIJDaGHcCL9YjkREqKkCAvOtks",
+        "data_id": "0x3962fd227087a10d:0x4bb6ce0b08a4a212",
+        "data_cid": "5455774545390903826",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd227087a10d%3A0x4bb6ce0b08a4a212&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.701805,
+          "longitude": 75.91306469999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDaGHcCL9YjkREqKkCAvOtks",
+        "provider_id": "/g/1q665rmhw",
+        "rating": 4.9,
+        "reviews": 1511,
+        "type": "Dental clinic",
+        "types": [
+          "Dental clinic",
+          "Dental implants periodontist",
+          "Dental implants provider",
+          "Denture care center",
+          "Oral and maxillofacial surgeon",
+          "Oral surgeon",
+          "Orthodontist"
+        ],
+        "type_id": "dental_clinic",
+        "type_ids": [
+          "dental_clinic",
+          "dental_implants_periodontist",
+          "dental_implants_provider",
+          "denture_care_center",
+          "oral_maxillofacial_surgeon",
+          "oral_surgeon",
+          "orthodontist"
+        ],
+        "address": "322, Greater Brajeshwari, near agrawal fresh, Pipliyahana, Indore, Madhya Pradesh 452016, India",
+        "country": "India",
+        "open_state": "Closed · Opens 11 AM Mon",
+        "hours": "Closed · Opens 11 AM Mon",
+        "operating_hours": {
+          "sunday": "11 AM–5 PM",
+          "monday": "11 AM–9 PM",
+          "tuesday": "11 AM–9 PM",
+          "wednesday": "11 AM–9 PM",
+          "thursday": "11 AM–9 PM",
+          "friday": "11 AM–9 PM",
+          "saturday": "11 AM–9 PM"
+        },
+        "phone": "+91 98260 92665",
+        "website": "http://smiledentalclinicindore.in/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Prompt and efficient treatment for every type of dental condition.\""
+      },
+      {
+        "position": 3,
+        "title": "DENT ''N'' GUM , DR AKSHAT SHARMA 'S Dental clinic । dentist indore",
+        "place_id": "ChIJI480wQf9YjkRsBFsmTKsr7U",
+        "data_id": "0x3962fd07c1348f23:0xb5afac32996c11b0",
+        "data_cid": "13091871975111659952",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd07c1348f23%3A0xb5afac32996c11b0&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.754088199999998,
+          "longitude": 75.90785009999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI480wQf9YjkRsBFsmTKsr7U",
+        "provider_id": "/g/11dzdhck6v",
+        "rating": 4.9,
+        "reviews": 364,
+        "type": "Dentist",
+        "types": [
+          "Dentist"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist"
+        ],
+        "address": "1st FLOOR , 344 A, Near Mahalaxmi Gate , opp to bombay hospital Mahalaxmi nagar, vijay nagar, Nipania, Indore, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Closes soon · 8 PM · Opens 11 AM Mon",
+        "hours": "Closes soon · 8 PM · Opens 11 AM Mon",
+        "operating_hours": {
+          "sunday": "10 AM–8 PM",
+          "monday": "11 AM–9 PM",
+          "tuesday": "11 AM–9 PM",
+          "wednesday": "11 AM–9 PM",
+          "thursday": "11 AM–9 PM",
+          "friday": "11 AM–9 PM",
+          "saturday": "11 AM–9 PM"
+        },
+        "phone": "+91 98730 63208",
+        "website": "https://www.instagram.com/dent_n_gum?igsh=Y3Fyd2Z4M3F2bTl3",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Did my mom’s (painless) root canal & cleaned up my teeth.\""
+      },
+      {
+        "position": 4,
+        "title": "UK Dental | Kalani Nagar | Indore",
+        "place_id": "ChIJwy7ONiT9YjkR1YEZVG36Vv8",
+        "data_id": "0x3962fd2436ce2ec3:0xff56fa6d541981d5",
+        "data_cid": "18399168675138077141",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd2436ce2ec3%3A0xff56fa6d541981d5&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7247658,
+          "longitude": 75.82520749999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwy7ONiT9YjkR1YEZVG36Vv8",
+        "provider_id": "/g/11vw_vstz1",
+        "rating": 4.9,
+        "reviews": 575,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Cosmetic dentist",
+          "Dental implants provider",
+          "Dental clinic",
+          "Denture care center",
+          "Oral and maxillofacial surgeon",
+          "Oral surgeon",
+          "Teeth whitening service"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "cosmetic_dentist",
+          "dental_implants_provider",
+          "dental_clinic",
+          "denture_care_center",
+          "oral_maxillofacial_surgeon",
+          "oral_surgeon",
+          "teeth_whitening_service"
+        ],
+        "address": "10, Airport Rd, Anjani Nagar, Parihar Market, Kalani Nagar, Indore, Madhya Pradesh 452005, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "6 AM–11 PM",
+          "monday": "6 AM–11 PM",
+          "tuesday": "6 AM–11 PM",
+          "wednesday": "6 AM–11 PM",
+          "thursday": "6 AM–11 PM",
+          "friday": "6 AM–11 PM",
+          "saturday": "6 AM–11 PM"
+        },
+        "phone": "+91 99267 77225",
+        "website": "https://ukdental.in/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care",
+              "Sedation dentistry"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments",
+              "Payment plans"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Assistive hearing loop"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Excellent\nPainless extraction done\nFive star\""
+      },
+      {
+        "position": 5,
+        "title": "The Dental 360",
+        "place_id": "ChIJR3_i9oD9YjkRIxemw_Q0RyY",
+        "data_id": "0x3962fd80f6e27f47:0x264734f4c3a61723",
+        "data_cid": "2758231522646824739",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd80f6e27f47%3A0x264734f4c3a61723&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7019464,
+          "longitude": 75.84171789999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR3_i9oD9YjkRIxemw_Q0RyY",
+        "provider_id": "/g/11rmsdj5vv",
+        "rating": 5,
+        "reviews": 416,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Dental clinic"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "dental_clinic"
+        ],
+        "address": "Mahavar Nagar, Annapurna Rd, next to HP Gas Agency, Usha Nagar, Mahawar Nagar, Indore, Madhya Pradesh 452009, India",
+        "country": "India",
+        "open_state": "Open · Closes 9 PM",
+        "hours": "Open · Closes 9 PM",
+        "operating_hours": {
+          "sunday": "10 AM–9 PM",
+          "monday": "10 AM–9 PM",
+          "tuesday": "10 AM–9 PM",
+          "wednesday": "10 AM–9 PM",
+          "thursday": "10 AM–9 PM",
+          "friday": "10 AM–9 PM",
+          "saturday": "10 AM–9 PM"
+        },
+        "phone": "+91 99260 86732",
+        "website": "https://canva.link/thedental360",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Assisted listening devices",
+              "Assistive hearing loop",
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care",
+              "Sedation dentistry"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Google Pay",
+              "NFC mobile payments",
+              "Payment plans"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible restroom"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Very professional and skilled Dentist who uses latest technology.\""
+      },
+      {
+        "position": 6,
+        "title": "Grace Dental Clinic Dr. Shubhda Gandhi | Top/Best Dentist in Indore | Root canal treatment | Dental Crowns & Bridges",
+        "place_id": "ChIJqVEN_VHjYjkRVBl0aL2Esmg",
+        "data_id": "0x3962e351fd0d51a9:0x68b284bd68741954",
+        "data_cid": "7544238274835126612",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962e351fd0d51a9%3A0x68b284bd68741954&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7040249,
+          "longitude": 75.91282749999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqVEN_VHjYjkRVBl0aL2Esmg",
+        "provider_id": "/g/11r7dm82bz",
+        "rating": 5,
+        "reviews": 202,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Cosmetic dentist",
+          "Dental implants periodontist",
+          "Dental clinic",
+          "Emergency dental service",
+          "Endodontist",
+          "Orthodontist",
+          "Prosthodontist",
+          "Teeth whitening service"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "cosmetic_dentist",
+          "dental_implants_periodontist",
+          "dental_clinic",
+          "emergency_dental_service",
+          "endodontist",
+          "orthodontist",
+          "prosthodontist",
+          "teeth_whitening_service"
+        ],
+        "address": "GREATER BRIJESHWARI, B-90, near vatsalya clinic, Sector A, Pipliyahana, Indore, Madhya Pradesh 452016, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "9 AM–10 PM",
+          "monday": "9 AM–10 PM",
+          "tuesday": "9 AM–10 PM",
+          "wednesday": "9 AM–10 PM",
+          "thursday": "9 AM–10 PM",
+          "friday": "9 AM–10 PM",
+          "saturday": "9 AM–10 PM"
+        },
+        "phone": "+91 85190 88998",
+        "website": "https://drshubhdagandhi.in/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"She took no time to cure my teeth illness.\""
+      },
+      {
+        "position": 7,
+        "title": "ODent Dental Care",
+        "place_id": "ChIJCfPBWQD9YjkRRnvpvnEI6TI",
+        "data_id": "0x3962fd0059c1f309:0x32e90871bee97b46",
+        "data_cid": "3668472656097278790",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd0059c1f309%3A0x32e90871bee97b46&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.696386399999998,
+          "longitude": 75.87921639999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCfPBWQD9YjkRRnvpvnEI6TI",
+        "provider_id": "/g/11lmjv570t",
+        "rating": 5,
+        "reviews": 224,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Cosmetic dentist",
+          "Dental clinic",
+          "Dental implants periodontist",
+          "Endodontist",
+          "Orthodontist",
+          "Pediatric dentist",
+          "Periodontist",
+          "Prosthodontist",
+          "Teeth whitening service"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "cosmetic_dentist",
+          "dental_clinic",
+          "dental_implants_periodontist",
+          "endodontist",
+          "orthodontist",
+          "pediatric_dentist",
+          "periodontist",
+          "prosthodontist",
+          "teeth_whitening_service"
+        ],
+        "address": "55/5 Nemawar chitawad road ,Navlakha,Indore top dentists, Navlakha, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Open · Closes 9 PM",
+        "hours": "Open · Closes 9 PM",
+        "operating_hours": {
+          "sunday": "9 AM–9 PM",
+          "monday": "9 AM–9 PM",
+          "tuesday": "9 AM–9 PM",
+          "wednesday": "9 AM–9 PM",
+          "thursday": "9 AM–9 PM",
+          "friday": "9 AM–9 PM",
+          "saturday": "9 AM–9 PM"
+        },
+        "phone": "+91 91312 27332",
+        "website": "http://www.odent.in/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Pediatric care"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments",
+              "Payment plans"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Assistive hearing loop"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Had removed my wisdom teeth there it was painless and shift .\""
+      },
+      {
+        "position": 8,
+        "title": "Saklecha's Dental and Braces Clinic & Implant Centre",
+        "place_id": "ChIJX8dFb87iYjkRbsoF8efCMJo",
+        "data_id": "0x3962e2ce6f45c75f:0x9a30c2e7f105ca6e",
+        "data_cid": "11110594582159936110",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962e2ce6f45c75f%3A0x9a30c2e7f105ca6e&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7184278,
+          "longitude": 75.906562
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX8dFb87iYjkRbsoF8efCMJo",
+        "provider_id": "/g/11bbt15xwm",
+        "rating": 4.9,
+        "reviews": 596,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Dental implants provider",
+          "Dental laboratory",
+          "Dental clinic",
+          "Denture care center",
+          "Orthodontist"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "dental_implants_provider",
+          "dental_lab",
+          "dental_clinic",
+          "denture_care_center",
+          "orthodontist"
+        ],
+        "address": "G3, Goyal Nagar Apartment, Bangali Square, Goyal Nagar, Indore, Madhya Pradesh 452016, India",
+        "country": "India",
+        "open_state": "Open · Closes 9 PM",
+        "hours": "Open · Closes 9 PM",
+        "operating_hours": {
+          "sunday": "10 AM–9 PM",
+          "monday": "10 AM–9 PM",
+          "tuesday": "10 AM–9 PM",
+          "wednesday": "10 AM–9 PM",
+          "thursday": "10 AM–9 PM",
+          "friday": "10 AM–9 PM",
+          "saturday": "10 AM–9 PM"
+        },
+        "phone": "+91 89890 92971",
+        "website": "https://saklechadental.com/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Excellent treatment.. my root canal treatment very painless...nice 👍\""
+      },
+      {
+        "position": 9,
+        "title": "Dr. Supriya Jadon - Dentist | Root Canal | Implant's | Aligner's | Teeth Whitening & Cleaning | Vijay Nagar | Indore",
+        "place_id": "ChIJtRvlyZwDYzkRs7LudEI5MDk",
+        "data_id": "0x3963039cc9e51bb5:0x3930394274eeb2b3",
+        "data_cid": "4120856616636428979",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3963039cc9e51bb5%3A0x3930394274eeb2b3&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7562435,
+          "longitude": 75.8883804
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtRvlyZwDYzkRs7LudEI5MDk",
+        "provider_id": "/g/11jtyr8rls",
+        "rating": 4.9,
+        "reviews": 289,
+        "type": "Dental clinic",
+        "types": [
+          "Dental clinic"
+        ],
+        "type_id": "dental_clinic",
+        "type_ids": [
+          "dental_clinic"
+        ],
+        "address": "A-101 Bliss Avenue, Main Rd, Vijay Nagar, Scheme No 54, Indore, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Closed · Opens 11 AM Mon",
+        "hours": "Closed · Opens 11 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "11 AM–7 PM",
+          "tuesday": "11 AM–7 PM",
+          "wednesday": "11 AM–7 PM",
+          "thursday": "11 AM–7 PM",
+          "friday": "11 AM–7 PM",
+          "saturday": "11 AM–7 PM"
+        },
+        "phone": "+91 93011 71770",
+        "website": "https://www.drsupriyasclinic.in/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free street parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"My root canal went smoothly, and I'm grateful for their expertise and care\""
+      },
+      {
+        "position": 10,
+        "title": "Shivaay Dental Clinic & Implant Center",
+        "place_id": "ChIJCTrquUD9YjkR-EmEbKfpFYY",
+        "data_id": "0x3962fd40b9ea3a09:0x8615e9a76c8449f8",
+        "data_cid": "9661885480882686456",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd40b9ea3a09%3A0x8615e9a76c8449f8&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.727031999999998,
+          "longitude": 75.881801
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCTrquUD9YjkR-EmEbKfpFYY",
+        "provider_id": "/g/11gfhyv0z7",
+        "rating": 4.9,
+        "reviews": 1241,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Dental implants provider",
+          "Dental clinic",
+          "Emergency dental service",
+          "Endodontist",
+          "Oral surgeon",
+          "Orthodontist",
+          "Periodontist",
+          "Prosthodontist",
+          "Teeth whitening service"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "dental_implants_provider",
+          "dental_clinic",
+          "emergency_dental_service",
+          "endodontist",
+          "oral_surgeon",
+          "orthodontist",
+          "periodontist",
+          "prosthodontist",
+          "teeth_whitening_service"
+        ],
+        "address": "201, Krishna Tower, 2/1, Janjeerwala Square, above Meera Chemist, opp. Curewell Hospital Road, New Palasia, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Closes soon · 8 PM · Opens 9 AM Mon",
+        "hours": "Closes soon · 8 PM · Opens 9 AM Mon",
+        "operating_hours": {
+          "sunday": "9 AM–8 PM",
+          "monday": "9 AM–8 PM",
+          "tuesday": "9 AM–8 PM",
+          "wednesday": "9 AM–8 PM",
+          "thursday": "9 AM–8 PM",
+          "friday": "9 AM–8 PM",
+          "saturday": "9 AM–8 PM"
+        },
+        "phone": "+91 78695 84612",
+        "website": "http://www.shivaaydentalclinic.com/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care",
+              "Sedation dentistry"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free street parking"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": false
+        },
+        "user_review": "\"They removed whole caries from my tooth and did proper filling in my tooth.\""
+      },
+      {
+        "position": 11,
+        "title": "Infinity Dental Clinic",
+        "place_id": "ChIJhwhrOqkCYzkRo-8U68GX_gA",
+        "data_id": "0x396302a93a6b0887:0xfe97c1eb14efa3",
+        "data_cid": "71661503213006755",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396302a93a6b0887%3A0xfe97c1eb14efa3&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.754917199999998,
+          "longitude": 75.8921809
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhwhrOqkCYzkRo-8U68GX_gA",
+        "provider_id": "/g/1q62mmml1",
+        "rating": 4.9,
+        "reviews": 500,
+        "type": "Dentist",
+        "types": [
+          "Dentist"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist"
+        ],
+        "address": "ground floor, infront choudhary cycle and tyre house, 34, Vijay Nagar Main Rd, Vijay Nagar, Scheme No 54, Indore, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Closed · Opens 9:30 AM Mon",
+        "hours": "Closed · Opens 9:30 AM Mon",
+        "operating_hours": {
+          "sunday": "9:30 AM–2 PM",
+          "monday": "9:30 AM–9 PM",
+          "tuesday": "9:30 AM–9 PM",
+          "wednesday": "9:30 AM–9 PM",
+          "thursday": "9:30 AM–9 PM",
+          "friday": "9:30 AM–9 PM",
+          "saturday": "9:30 AM–9 PM"
+        },
+        "phone": "+91 94250 88167",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments",
+              "Payment plans"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"My teeth feel incredibly clean, and the entire process was painless.\""
+      },
+      {
+        "position": 12,
+        "title": "Dr.Prashant's Dental Clinic",
+        "place_id": "ChIJ2QuynnMCYzkR9D_kB7dtqqk",
+        "data_id": "0x396302739eb20bd9:0xa9aa6db707e43ff4",
+        "data_cid": "12225704771329474548",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396302739eb20bd9%3A0xa9aa6db707e43ff4&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7474955,
+          "longitude": 75.840051
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2QuynnMCYzkR9D_kB7dtqqk",
+        "provider_id": "/g/11hd6vm6g2",
+        "rating": 4.8,
+        "reviews": 3257,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Dental clinic"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "dental_clinic"
+        ],
+        "address": "बाण गंगा, Kushwah Nagar Square Sabji Mandi, कुशवहा नगर चोराहा, Banganga, Indore, Madhya Pradesh 452015, India",
+        "country": "India",
+        "open_state": "Open · Closes 9:30 PM",
+        "hours": "Open · Closes 9:30 PM",
+        "operating_hours": {
+          "sunday": "9 AM–2:30 PM, 5–9:30 PM",
+          "monday": "9:30 AM–2 PM, 5:15–9 PM",
+          "tuesday": "9:30 AM–2 PM, 5–9 PM",
+          "wednesday": "9:30 AM–2 PM, 5–9 PM",
+          "thursday": "9:30 AM–2 PM, 5–9 PM",
+          "friday": "9:30 AM–2 PM, 5–9 PM",
+          "saturday": "9:30 AM–2 PM, 5–9 PM"
+        },
+        "phone": "+91 92296 65744",
+        "website": "https://www.drprashant.co.in/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care",
+              "Sedation dentistry"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments",
+              "Payment plans"
+            ]
+          },
+          {
+            "parking": [
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"I got removed my wisdom tooth and it was painless treatment.\""
+      },
+      {
+        "position": 13,
+        "title": "Dr Jatin Agarwal's Dental Perfection Centre Indore",
+        "place_id": "ChIJMWBblqwCYzkRCnrNRQpdZjg",
+        "data_id": "0x396302ac965b6031:0x38665d0a45cd7a0a",
+        "data_cid": "4064038012450601482",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396302ac965b6031%3A0x38665d0a45cd7a0a&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7571685,
+          "longitude": 75.8982844
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMWBblqwCYzkRCnrNRQpdZjg",
+        "provider_id": "/g/1tz944bj",
+        "rating": 4.9,
+        "reviews": 340,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Cosmetic dentist",
+          "Dental clinic",
+          "Dental implants periodontist",
+          "Dental implants provider",
+          "Emergency dental service"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "cosmetic_dentist",
+          "dental_clinic",
+          "dental_implants_periodontist",
+          "dental_implants_provider",
+          "emergency_dental_service"
+        ],
+        "address": "Bh. Satya Sai School, A-9, AB Rd, Vasant Vihar Colony, Indore, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Closed · Opens 11 AM Mon",
+        "hours": "Closed · Opens 11 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "11 AM–8 PM",
+          "tuesday": "11 AM–8 PM",
+          "wednesday": "11 AM–8 PM",
+          "thursday": "11 AM–8 PM",
+          "friday": "11 AM–8 PM",
+          "saturday": "11 AM–8 PM"
+        },
+        "phone": "+91 79990 35453",
+        "website": "http://www.dentalperfectioncentre.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments",
+              "Payment plans"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Assistive hearing loop",
+              "Wheelchair accessible restroom"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": false
+        },
+        "user_review": "\"The root canal procedure was smooth and painless.\""
+      },
+      {
+        "position": 14,
+        "title": "Dr Priya joshi - Dentist | Dental Surgeon | Implant | Teeth Whitening | Tooth Extraction | Bengali Square | Indore",
+        "place_id": "ChIJF4ycwc3iYjkRofBsaJ_Pv8A",
+        "data_id": "0x3962e2cdc19c8c17:0xc0bfcf9f686cf0a1",
+        "data_cid": "13889048059392618657",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962e2cdc19c8c17%3A0xc0bfcf9f686cf0a1&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7175661,
+          "longitude": 75.9046394
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF4ycwc3iYjkRofBsaJ_Pv8A",
+        "provider_id": "/g/11dfqz2jj2",
+        "rating": 5,
+        "reviews": 673,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Cosmetic dentist",
+          "Dental hygienist",
+          "Dental implants periodontist",
+          "Dental implants provider",
+          "Denture care center",
+          "Emergency dental service"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "cosmetic_dentist",
+          "dental_hygienist",
+          "dental_implants_periodontist",
+          "dental_implants_provider",
+          "denture_care_center",
+          "emergency_dental_service"
+        ],
+        "address": "Medident 55, Goyal Nagar Ring Rd, near bengali square, Sector A, Goyal Nagar, Indore, Madhya Pradesh 452018, India",
+        "country": "India",
+        "open_state": "Closed · Opens 11 AM Mon",
+        "hours": "Closed · Opens 11 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "11 AM–5 PM",
+          "tuesday": "11 AM–5 PM",
+          "wednesday": "11 AM–5 PM",
+          "thursday": "11 AM–5 PM",
+          "friday": "11 AM–5 PM",
+          "saturday": "11 AM–5 PM"
+        },
+        "phone": "+91 731 496 9589",
+        "website": "https://medidentclinic.com/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care",
+              "Sedation dentistry"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot"
+            ]
+          }
+        ],
+        "user_review": "\"My root canal treatment was smooth and almost painless.\""
+      },
+      {
+        "position": 15,
+        "title": "Eminent Dental Clinic - Dr. Kumar Prashant",
+        "place_id": "ChIJW-N4zrX9YjkRcIyfYwD4PsM",
+        "data_id": "0x3962fdb5ce78e35b:0xc33ef800639f8c70",
+        "data_cid": "14068954966507097200",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fdb5ce78e35b%3A0xc33ef800639f8c70&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7235904,
+          "longitude": 75.8888369
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW-N4zrX9YjkRcIyfYwD4PsM",
+        "provider_id": "/g/11sfqvkz65",
+        "rating": 4.9,
+        "reviews": 241,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Dental implants periodontist",
+          "Dental implants provider",
+          "Dental clinic",
+          "Doctor",
+          "Emergency dental service",
+          "Orthodontist",
+          "Periodontist"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "dental_implants_periodontist",
+          "dental_implants_provider",
+          "dental_clinic",
+          "doctor",
+          "emergency_dental_service",
+          "orthodontist",
+          "periodontist"
+        ],
+        "address": "First Floor 1, Eminent Hospital, Barwani Plaza Residential Rd, opposite Pristyn care, Near Eureka Hospital, Old Palasia, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours",
+          "saturday": "Open 24 hours"
+        },
+        "phone": "+91 83700 03232",
+        "website": "https://eminentdentalclinicindore.blogspot.com/",
+        "extensions": [
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments",
+              "Payment plans"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": false
+        },
+        "user_review": "\"Dr. Prashant extracted my tooth expertly and diligently.\""
+      },
+      {
+        "position": 16,
+        "title": "Confident Dental Clinic and Implant Centre",
+        "place_id": "ChIJtWKdChr9YjkR1UvYuAVPRro",
+        "data_id": "0x3962fd1a0a9d62b5:0xba464f05b8d84bd5",
+        "data_cid": "13422502625418955733",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd1a0a9d62b5%3A0xba464f05b8d84bd5&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7336478,
+          "longitude": 75.89088749999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtWKdChr9YjkR1UvYuAVPRro",
+        "provider_id": "/g/11yshqcrhb",
+        "rating": 4.9,
+        "reviews": 120,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Cosmetic dentist",
+          "Dental clinic",
+          "Dental implants provider",
+          "Emergency dental service",
+          "Orthodontist",
+          "Pediatric dentist",
+          "Prosthodontist",
+          "Teeth whitening service"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "cosmetic_dentist",
+          "dental_clinic",
+          "dental_implants_provider",
+          "emergency_dental_service",
+          "orthodontist",
+          "pediatric_dentist",
+          "prosthodontist",
+          "teeth_whitening_service"
+        ],
+        "address": "1st floor, Singapore Business Park, Shop no, 114-B, AB Rd, LIG Square, Anoop Nagar, Indore, Madhya Pradesh 452011, India",
+        "country": "India",
+        "open_state": "Open · Closes 9 PM",
+        "hours": "Open · Closes 9 PM",
+        "operating_hours": {
+          "sunday": "10:30 AM–9 PM",
+          "monday": "10:30 AM–9 PM",
+          "tuesday": "10:30 AM–9 PM",
+          "wednesday": "10:30 AM–9 PM",
+          "thursday": "10:30 AM–9 PM",
+          "friday": "10:30 AM–9 PM",
+          "saturday": "10:30 AM–9 PM"
+        },
+        "phone": "+91 70246 19249",
+        "website": "https://sites.google.com/view/confident-dental-clinic-indore/home",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Google Pay"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking garage",
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The tooth extraction was done very smoothly and completely pain-free.\""
+      },
+      {
+        "position": 17,
+        "title": "My Dentist Indore | Dentist near Me | Dental clinic indore",
+        "place_id": "ChIJ0RUey7f9YjkR9ulaKJkMKSQ",
+        "data_id": "0x3962fdb7cb1e15d1:0x24290c99285ae9f6",
+        "data_cid": "2605627711357118966",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fdb7cb1e15d1%3A0x24290c99285ae9f6&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7306457,
+          "longitude": 75.8885494
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0RUey7f9YjkR9ulaKJkMKSQ",
+        "provider_id": "/g/11ghrd75yb",
+        "rating": 4.9,
+        "reviews": 181,
+        "type": "Dental clinic",
+        "types": [
+          "Dental clinic"
+        ],
+        "type_id": "dental_clinic",
+        "type_ids": [
+          "dental_clinic"
+        ],
+        "address": "A-2, AB Rd, behind Hotel Amaltas, Mig Colony, RK Puram, Indore, Madhya Pradesh 452011, India",
+        "country": "India",
+        "open_state": "Closed · Opens 10:30 AM Mon",
+        "hours": "Closed · Opens 10:30 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "10:30 AM–7 PM",
+          "tuesday": "10:30 AM–7 PM",
+          "wednesday": "10:30 AM–7 PM",
+          "thursday": "10:30 AM–7 PM",
+          "friday": "10:30 AM–7 PM",
+          "saturday": "10:30 AM–7 PM"
+        },
+        "phone": "+91 87704 72878",
+        "website": "https://www.mydentistindore.com/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Dr. Mimansha makes sure that the treatment is as painless as possible.\""
+      },
+      {
+        "position": 18,
+        "title": "Kidz Dental Care & Orthodontics",
+        "place_id": "ChIJ-b11NW_9YjkRXglH55FQRaQ",
+        "data_id": "0x3962fd6f3575bdf9:0xa4455091e747095e",
+        "data_cid": "11836955783193889118",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd6f3575bdf9%3A0xa4455091e747095e&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.6982376,
+          "longitude": 75.86542299999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-b11NW_9YjkRXglH55FQRaQ",
+        "provider_id": "/g/11gr415ww2",
+        "rating": 4.9,
+        "reviews": 339,
+        "type": "Pediatric dentist",
+        "types": [
+          "Pediatric dentist",
+          "Child health care center",
+          "Dental clinic",
+          "Dentist",
+          "Pediatrician"
+        ],
+        "type_id": "pediatric_dentist",
+        "type_ids": [
+          "pediatric_dentist",
+          "child_health_care_centre",
+          "dental_clinic",
+          "dentist",
+          "pediatrician"
+        ],
+        "address": "Microwave Tower Square, Sapna Sangeeta Rd, next to bajaj sojatya show room, Swadesh Nagar, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "phone": "+91 94250 68322",
+        "website": "https://kidz-dental-care-ji0l1in.gamma.site/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care",
+              "Sedation dentistry"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Dr. Khandelwal has healed my tooth ache problem very easily.\""
+      },
+      {
+        "position": 19,
+        "title": "Seraphic Dental Clinic",
+        "place_id": "ChIJywhRVSf9YjkR3UpPPb4DHEI",
+        "data_id": "0x3962fd27555108cb:0x421c03be3d4f4add",
+        "data_cid": "4763686621458418397",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd27555108cb%3A0x421c03be3d4f4add&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.719559399999998,
+          "longitude": 75.88157919999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJywhRVSf9YjkR3UpPPb4DHEI",
+        "provider_id": "/g/11hdnyg4s8",
+        "rating": 4.9,
+        "reviews": 571,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Cosmetic dentist",
+          "Dental clinic",
+          "Dental implants periodontist",
+          "Emergency dental service",
+          "Endodontist",
+          "Oral and maxillofacial surgeon",
+          "Orthodontist",
+          "Prosthodontist",
+          "Teeth whitening service"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "cosmetic_dentist",
+          "dental_clinic",
+          "dental_implants_periodontist",
+          "emergency_dental_service",
+          "endodontist",
+          "oral_maxillofacial_surgeon",
+          "orthodontist",
+          "prosthodontist",
+          "teeth_whitening_service"
+        ],
+        "address": "30, Banwari Lal Jaju Marg, behind Ithlati Sarees, near Geeta Bhawan Square, South Tukoganj, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Closed · Opens 10 AM Mon",
+        "hours": "Closed · Opens 10 AM Mon",
+        "operating_hours": {
+          "sunday": "10:30 AM–6 PM",
+          "monday": "10 AM–9 PM",
+          "tuesday": "10 AM–9 PM",
+          "wednesday": "10 AM–9 PM",
+          "thursday": "10 AM–9 PM",
+          "friday": "10 AM–9 PM",
+          "saturday": "10 AM–9 PM"
+        },
+        "phone": "+91 99933 84941",
+        "website": "https://www.seraphicdental.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Assisted listening devices",
+              "Assistive hearing loop",
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care",
+              "Sedation dentistry"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments",
+              "Payment plans"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking garage",
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible restroom"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Got my wisdom tooth extracted and it was totally painless.\""
+      },
+      {
+        "position": 20,
+        "title": "Dental Studio by Dr.Komal | Best Dental Clinic in Indore | Best Dental Surgeon in Indore| best cosmetic care|",
+        "place_id": "ChIJX6KFKyjjYjkRnOCFAQHqfKc",
+        "data_id": "0x3962e3282b85a25f:0xa77cea010185e09c",
+        "data_cid": "12068778391487504540",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962e3282b85a25f%3A0xa77cea010185e09c&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.716798,
+          "longitude": 75.9128638
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX6KFKyjjYjkRnOCFAQHqfKc",
+        "provider_id": "/g/11w28xv989",
+        "rating": 5,
+        "reviews": 107,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Cosmetic dentist",
+          "Dental clinic",
+          "Dental implants periodontist",
+          "Dental radiology",
+          "Dental school",
+          "Emergency dental service"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "cosmetic_dentist",
+          "dental_clinic",
+          "dental_implants_periodontist",
+          "dental_radiology",
+          "dental_school",
+          "emergency_dental_service"
+        ],
+        "address": "377, Sri Mangal Nagar, Indore, Madhya Pradesh 452016, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "8 AM–10 PM",
+          "monday": "8 AM–10 PM",
+          "tuesday": "8 AM–10 PM",
+          "wednesday": "8 AM–10 PM",
+          "thursday": "8 AM–10 PM",
+          "friday": "8 AM–10 PM",
+          "saturday": "8 AM–10 PM"
+        },
+        "phone": "+91 72300 95361",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking garage",
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Exceptional care and perfect results for a confident smile 😊\""
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4022.7195687%2C75.8577258%2C14z&q=dentist&start=20&type=search"
+    }
+  }
+}

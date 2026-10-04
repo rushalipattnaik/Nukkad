@@ -1,0 +1,183 @@
+{
+  "_meta": {
+    "label": "reviews sort_by=ratingLow",
+    "engine": "google_maps_reviews",
+    "params": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x3962fd2794a0e223:0xd934a166dfd28b26",
+      "hl": "en",
+      "sort_by": "ratingLow"
+    },
+    "recorded_at": "2026-10-04T14:20:51.338266+00:00",
+    "http_status": 200,
+    "elapsed_s": 1.13,
+    "credit_delta_measured": 1,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac260c0f89c97e352c5ca19",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/PWSzquvKyoThNvmfsuGEgF6o7ieO9nUxDJi6IJWs31w/6ac260c0f89c97e352c5ca19.md",
+      "created_at": "2026-10-04 14:20:48 UTC",
+      "processed_at": "2026-10-04 14:20:48 UTC",
+      "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3962fd2794a0e223:0xd934a166dfd28b26!5m2!4m1!1i2!9m1!1b1?hl=en",
+      "total_time_taken": 0.76
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x3962fd2794a0e223:0xd934a166dfd28b26",
+      "hl": "en",
+      "sort_by": "ratingLow"
+    },
+    "place_info": {
+      "title": "DAWAIWALA MEDICAL STORE",
+      "address": "Ranawat Trade Center, G08, Bhawarkua Main Rd, Bhavarkuan Square, Professor Colony, Indore, Madhya Pradesh 452014, India",
+      "rating": 4.8,
+      "reviews": 126,
+      "type": "Drug store"
+    },
+    "topics": [
+      {
+        "keyword": "medicine availability",
+        "mentions": 29,
+        "id": "YjjPkTDMluI"
+      },
+      {
+        "keyword": "discount",
+        "mentions": 12,
+        "id": "QXyGwYg8xiI"
+      },
+      {
+        "keyword": "rate",
+        "mentions": 4,
+        "id": "QgqaTCkKE0s"
+      },
+      {
+        "keyword": "treatment",
+        "mentions": 2,
+        "id": "NDLtCDKcRKw"
+      },
+      {
+        "keyword": "medical store",
+        "mentions": 10,
+        "id": "FxxH6fHatsI"
+      },
+      {
+        "keyword": "behaviour",
+        "mentions": 4,
+        "id": "FErO0DXJTaA"
+      }
+    ],
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURCMGNxNlNBEAE!2m1!1s0x0:0xd934a166dfd28b26!3m1!1s2@1:CIHM0ogKEICAgIDB0cq6SA%7C%7C?hl=en-US",
+        "rating": 1.0,
+        "date": "Edited 3 years ago",
+        "iso_date": "2023-01-22T00:54:01Z",
+        "iso_date_of_last_edit": "2023-05-21T09:31:15Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCMGNxNlNBEAE",
+        "user": {
+          "name": "REDACTED_REVIEWER",
+          "local_guide": true,
+          "reviews": 25
+        },
+        "snippet": "Not a good behaviour\nDon't go here\nLooting not even discount on generic medicines written 20 percent discount on flex",
+        "extracted_snippet": {
+          "original": "Not a good behaviour\nDon't go here\nLooting not even discount on generic medicines written 20 percent discount on flex"
+        },
+        "likes": 0
+      },
+      {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNtdVpHR3R3RRAB!2m1!1s0x0:0xd934a166dfd28b26!3m1!1s2@1:CIHM0ogKEICAgICmuZGGtwE%7C%7C?hl=en-US",
+        "rating": 1.0,
+        "date": "Edited 4 years ago",
+        "iso_date": "2022-01-03T08:14:31Z",
+        "iso_date_of_last_edit": "2022-01-09T04:47:59Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtdVpHR3R3RRAB",
+        "user": {
+          "name": "REDACTED_REVIEWER",
+          "local_guide": true,
+          "reviews": 2
+        },
+        "snippet": "All medicin available पर पैसों के मामले में लूटते हैं ये लोग मेने दवाई li 70रू की ओर 100रू लिए मैडिकल वाले मरीज़ को गंभीर हालत में देख कर मन मर्ज़ी से लूटते हैं",
+        "extracted_snippet": {
+          "original": "All medicin available पर पैसों के मामले में लूटते हैं ये लोग मेने दवाई li 70रू की ओर 100रू लिए मैडिकल वाले मरीज़ को गंभीर हालत में देख कर मन मर्ज़ी से लूटते हैं",
+          "translated": "All medicine is available but these people loot in terms of money. I bought medicine for Rs. 70 and Rs. 100. Seeing the patient in critical condition, the medical people loot as per their wish."
+        },
+        "likes": 0,
+        "response": {
+          "date": "4 years ago",
+          "iso_date": "2022-01-11T13:26:09Z",
+          "iso_date_of_last_edit": "2022-01-11T13:26:09Z",
+          "snippet": "Sir please aap btae kab hua h ye",
+          "extracted_snippet": {
+            "original": "Sir please aap btae kab hua h ye",
+            "translated": "Sir, please tell me when did this happen?"
+          }
+        }
+      },
+      {
+        "position": 3,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNwOXViVHdnRRAB!2m1!1s0x0:0xd934a166dfd28b26!3m1!1s2@1:CIHM0ogKEICAgICp9ubTwgE%7C%7C?hl=en-US",
+        "rating": 1.0,
+        "date": "3 years ago",
+        "iso_date": "2023-08-03T14:48:15Z",
+        "iso_date_of_last_edit": "2023-08-03T14:48:15Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwOXViVHdnRRAB",
+        "user": {
+          "name": "REDACTED_REVIEWER",
+          "local_guide": true,
+          "reviews": 14
+        },
+        "snippet": "इनसे सालो से दवाई लेने के बाद जब मेरा एक आर्डर देने के बाद डॉक्टर द्वारा मेरी दवाई बदल देने के कारण इनसे दवाई बदलवाने गया तो इन्होंने भद्दे तरीक़े से बात की और कहा की दवाई अब वापस नहीं होती लेना हो तो लो वर्ना मत लो ।\n\nसरकार द्वारा बनाई गई व्यवस्था को ऐसे व्यापारी चुनौती दे रहे है ।\n\nमेरा ज़्यादा नहीं 800 रुपए का नुक़सान हुआ है कृपाया ध्यान रखे आपका नुक़सान होने से बचे ।",
+        "extracted_snippet": {
+          "original": "इनसे सालो से दवाई लेने के बाद जब मेरा एक आर्डर देने के बाद डॉक्टर द्वारा मेरी दवाई बदल देने के कारण इनसे दवाई बदलवाने गया तो इन्होंने भद्दे तरीक़े से बात की और कहा की दवाई अब वापस नहीं होती लेना हो तो लो वर्ना मत लो ।\n\nसरकार द्वारा बनाई गई व्यवस्था को ऐसे व्यापारी चुनौती दे रहे है ।\n\nमेरा ज़्यादा नहीं 800 रुपए का नुक़सान हुआ है कृपाया ध्यान रखे आपका नुक़सान होने से बचे ।",
+          "translated": "After buying medicines from them for years, when I went to get my medicine replaced because the doctor changed my medicine after placing an order, they spoke rudely to me and said that the medicine is not returnable now, if you want to take it then take it, otherwise don't take it.\n\nSuch traders are challenging the system created by the government.\n\nI have suffered a loss of not more than 800 rupees, please be careful and avoid any loss."
+        },
+        "likes": 0
+      },
+      {
+        "position": 4,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNtejl1WkNnEAE!2m1!1s0x0:0xd934a166dfd28b26!3m1!1s2@1:CIHM0ogKEICAgICmz9uZCg%7C%7C?hl=en-US",
+        "rating": 1.0,
+        "date": "4 years ago",
+        "iso_date": "2022-01-13T14:05:50Z",
+        "iso_date_of_last_edit": "2022-01-13T14:05:50Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtejl1WkNnEAE",
+        "user": {
+          "name": "REDACTED_REVIEWER",
+          "local_guide": true,
+          "reviews": 0
+        },
+        "likes": 0
+      },
+      {
+        "position": 5,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQtaXM2Q1N3EAE!2m1!1s0x0:0xd934a166dfd28b26!3m1!1s2@1:CIHM0ogKEICAgID-is6CSw%7C%7C?hl=en-US",
+        "rating": 2.0,
+        "date": "3 years ago",
+        "iso_date": "2022-11-26T12:19:05Z",
+        "iso_date_of_last_edit": "2022-11-26T12:20:08Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtaXM2Q1N3EAE",
+        "user": {
+          "name": "REDACTED_REVIEWER",
+          "local_guide": true,
+          "reviews": 6
+        },
+        "likes": 0
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?data_id=0x3962fd2794a0e223%3A0xd934a166dfd28b26&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7_LImIJ____EhArORETk_z1IA9bFHMAAAAAGgn93i4CZKV_gM0YACIA&sort_by=ratingLow",
+      "next_page_token": "CjEIARIpCgoAP7_LImIJ____EhArORETk_z1IA9bFHMAAAAAGgn93i4CZKV_gM0YACIA"
+    }
+  }
+}

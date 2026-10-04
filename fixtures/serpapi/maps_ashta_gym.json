@@ -1,0 +1,700 @@
+{
+  "_meta": {
+    "label": "maps Ashta / gym",
+    "engine": "google_maps",
+    "params": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "gym",
+      "ll": "@23.0180474,76.715972,14z",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:19:56.044478+00:00",
+    "http_status": 200,
+    "elapsed_s": 1.14,
+    "credit_delta_measured": 1,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac260893b93e3a454eee1dd",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/qthx1kZ7XwFUChr80VNKyEhOaouiNLNS3MlRNqHTdQA/6ac260893b93e3a454eee1dd.md",
+      "created_at": "2026-10-04 14:19:53 UTC",
+      "processed_at": "2026-10-04 14:19:53 UTC",
+      "google_maps_url": "https://www.google.com/maps/search/gym/@23.0180474,76.715972,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+      "total_time_taken": 0.77
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "gym",
+      "ll": "@23.0180474,76.715972,14z",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Results for exact spelling",
+      "query_displayed": "gym"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "Pal's Fitness Club",
+        "place_id": "ChIJLVkomjXFfDkRI9-dvGaZ7yI",
+        "data_id": "0x397cc5359a28592d:0x22ef9966bc9ddf23",
+        "data_cid": "2517399383253573411",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc5359a28592d%3A0x22ef9966bc9ddf23&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0134531,
+          "longitude": 76.723922
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLVkomjXFfDkRI9-dvGaZ7yI",
+        "provider_id": "/g/11trv39p1d",
+        "rating": 4.7,
+        "reviews": 28,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "2P7F+9HF, Kannod Rd, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "6 AM–12 PM, 4–11 PM",
+          "tuesday": "6 AM–12 PM, 4–11 PM",
+          "wednesday": "6 AM–12 PM, 4–11 PM",
+          "thursday": "6 AM–12 PM, 4–11 PM",
+          "friday": "6 AM–12 PM, 4–11 PM",
+          "saturday": "6 AM–12 PM, 4–11 PM"
+        },
+        "phone": "+91 88896 79378"
+      },
+      {
+        "position": 2,
+        "title": "Reshape Fitness And Crossfit Zone",
+        "place_id": "ChIJ9-DQ5g3FfDkRMatycTmvQqg",
+        "data_id": "0x397cc50de6d0e0f7:0xa842af397172ab31",
+        "data_cid": "12124445808086133553",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc50de6d0e0f7%3A0xa842af397172ab31&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.017721899999998,
+          "longitude": 76.7262526
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9-DQ5g3FfDkRMatycTmvQqg",
+        "provider_id": "/g/11sd0b94dg",
+        "rating": 4.9,
+        "reviews": 178,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "Kannod Rd, near bank of Baroda, Sai Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Closed · Opens 5 AM Mon",
+        "hours": "Closed · Opens 5 AM Mon",
+        "operating_hours": {
+          "sunday": "10 AM–12 PM",
+          "monday": "5 AM–10 PM",
+          "tuesday": "5 AM–10 PM",
+          "wednesday": "5 AM–10 PM",
+          "thursday": "5 AM–10 PM",
+          "friday": "5 AM–10 PM",
+          "saturday": "5 AM–10 PM"
+        },
+        "phone": "+91 88275 46474"
+      },
+      {
+        "position": 3,
+        "title": "ZENITH FITNESS",
+        "place_id": "ChIJj5BouZzFfDkRVWZCLJoSDrc",
+        "data_id": "0x397cc59cb968908f:0xb70e129a2c426655",
+        "data_cid": "13190500811991574101",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc59cb968908f%3A0xb70e129a2c426655&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0111784,
+          "longitude": 76.7292159
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj5BouZzFfDkRVWZCLJoSDrc",
+        "provider_id": "/g/11xdr_3y3k",
+        "rating": 4.8,
+        "reviews": 37,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "Semnari Rd, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Closed · Opens 5 AM Mon",
+        "hours": "Closed · Opens 5 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "5 AM–11 PM",
+          "tuesday": "5 AM–11 PM",
+          "wednesday": "5 AM–11 PM",
+          "thursday": "5 AM–11 PM",
+          "friday": "5 AM–11 PM",
+          "saturday": "5 AM–11 PM"
+        },
+        "phone": "+91 62655 20900"
+      },
+      {
+        "position": 4,
+        "title": "balaji gym",
+        "place_id": "ChIJ_QlGWKHbfDkRM_e4_UMq_3w",
+        "data_id": "0x397cdba1584609fd:0x7cff2a43fdb8f733",
+        "data_cid": "9006964251272214323",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cdba1584609fd%3A0x7cff2a43fdb8f733&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0055315,
+          "longitude": 76.7222857
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_QlGWKHbfDkRM_e4_UMq_3w",
+        "provider_id": "/g/11r41l53m2",
+        "rating": 4.7,
+        "reviews": 46,
+        "unclaimed_listing": true,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "2P4C+6W7, MP SH 41, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Closed · Opens 5 AM Mon",
+        "hours": "Closed · Opens 5 AM Mon",
+        "operating_hours": {
+          "sunday": "3–6 AM",
+          "monday": "5–9 AM, 5–9 PM",
+          "tuesday": "5–9 AM, 5–9 PM",
+          "wednesday": "5–9 AM, 5–9 PM",
+          "thursday": "5–9 AM, 5–9 PM",
+          "friday": "5–9 AM, 5–9 PM",
+          "saturday": "5–9 AM, 5–9 PM"
+        }
+      },
+      {
+        "position": 5,
+        "title": "Shree Gym",
+        "place_id": "ChIJaflGTgDFfDkRnPeDVD_ndVQ",
+        "data_id": "0x397cc5004e46f969:0x5475e73f5483f79c",
+        "data_cid": "6086024730647984028",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc5004e46f969%3A0x5475e73f5483f79c&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.012306,
+          "longitude": 76.7306576
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaflGTgDFfDkRnPeDVD_ndVQ",
+        "provider_id": "/g/11vt68vp83",
+        "rating": 3.7,
+        "reviews": 25,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "Semnari Rd, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open · Closes 12 AM",
+        "hours": "Open · Closes 12 AM",
+        "operating_hours": {
+          "sunday": "Open 24 hours",
+          "monday": "6:19 PM–12 AM",
+          "tuesday": "6:19 PM–12 AM",
+          "wednesday": "6:19 PM–12 AM",
+          "thursday": "6:19 PM–12 AM",
+          "friday": "6:19 PM–12 AM",
+          "saturday": "6:19 PM–12 AM"
+        }
+      },
+      {
+        "position": 6,
+        "title": "SR FITNESS ZONE",
+        "place_id": "ChIJ3zYzfPnFfDkRmYBN1VVRBcs",
+        "data_id": "0x397cc5f97c3336df:0xcb055155d54d8099",
+        "data_cid": "14629188393675620505",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc5f97c3336df%3A0xcb055155d54d8099&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.019084199999998,
+          "longitude": 76.7206096
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3zYzfPnFfDkRmYBN1VVRBcs",
+        "provider_id": "/g/11yk1wnlbh",
+        "rating": 4.8,
+        "reviews": 20,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "bada bazar, Sai Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "6–9 AM, 5–10:30 PM",
+          "tuesday": "6–9 AM, 5–10:30 PM",
+          "wednesday": "6–9 AM, 5–10:30 PM",
+          "thursday": "6–9 AM, 5–10:30 PM",
+          "friday": "6–9 AM, 5–10:30 PM",
+          "saturday": "6–9 AM, 5–10:30 PM"
+        },
+        "website": "https://the-workout-zone.grexa.site/"
+      },
+      {
+        "position": 7,
+        "title": "Transformation Gym",
+        "place_id": "ChIJWQgr3ejFfDkRL_CZSJYlzSQ",
+        "data_id": "0x397cc5e8dd2b0859:0x24cd25964899f02f",
+        "data_cid": "2651817082984460335",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc5e8dd2b0859%3A0x24cd25964899f02f&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0206581,
+          "longitude": 76.7258189
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWQgr3ejFfDkRL_CZSJYlzSQ",
+        "provider_id": "/g/11h3thwh0j",
+        "rating": 4.3,
+        "reviews": 12,
+        "unclaimed_listing": true,
+        "type": "Gymnastics center",
+        "types": [
+          "Gymnastics center",
+          "Gymnastics club"
+        ],
+        "address": "Kannod Rd, Sai Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "phone": "+91 74709 94849"
+      },
+      {
+        "position": 8,
+        "title": "The War House Gym",
+        "place_id": "ChIJJfQfZonFfDkRFuM43mDbzo4",
+        "data_id": "0x397cc589661ff425:0x8ecedb60de38e316",
+        "data_cid": "10290403407679775510",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc589661ff425%3A0x8ecedb60de38e316&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0340019,
+          "longitude": 76.7116795
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJfQfZonFfDkRFuM43mDbzo4",
+        "provider_id": "/g/11s5yvj2wc",
+        "rating": 3.6,
+        "reviews": 8,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "Dabri Rd, Alipur, Ashta, Bahadarpura, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "6 AM–10 PM",
+          "monday": "6 AM–10 PM",
+          "tuesday": "6 AM–10 PM",
+          "wednesday": "6 AM–10 PM",
+          "thursday": "6 AM–10 PM",
+          "friday": "6 AM–10 PM",
+          "saturday": "6 AM–10 PM"
+        },
+        "phone": "+91 88198 08420"
+      },
+      {
+        "position": 9,
+        "title": "Indian fitness academy",
+        "place_id": "ChIJbfFVTAHFfDkRBE9rXSBf7ak",
+        "data_id": "0x397cc5014c55f16d:0xa9ed5f205d6b4f04",
+        "data_cid": "12244547554501152516",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc5014c55f16d%3A0xa9ed5f205d6b4f04&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.021701699999998,
+          "longitude": 76.7318883
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbfFVTAHFfDkRBE9rXSBf7ak",
+        "provider_id": "/g/11hyn7k3zd",
+        "rating": 4.6,
+        "reviews": 11,
+        "type": "Fitness center",
+        "types": [
+          "Fitness center"
+        ],
+        "address": "Bajrang Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Closed · Opens 12 AM Mon",
+        "hours": "Closed · Opens 12 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours",
+          "saturday": "Open 24 hours"
+        },
+        "phone": "+91 87658 94320"
+      },
+      {
+        "position": 10,
+        "title": "Sport Ground Complex Nagar Parishad Ashta",
+        "place_id": "ChIJheaCPLfbfDkRiDs0YX8c7Ik",
+        "data_id": "0x397cdbb73c82e685:0x89ec1c7f61343b88",
+        "data_cid": "9938349811117079432",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cdbb73c82e685%3A0x89ec1c7f61343b88&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.000333299999998,
+          "longitude": 76.7217172
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJheaCPLfbfDkRiDs0YX8c7Ik",
+        "provider_id": "/g/11py_lx3n6",
+        "rating": 4,
+        "reviews": 5,
+        "unclaimed_listing": true,
+        "type": "Playground",
+        "types": [
+          "Playground"
+        ],
+        "address": "2P2C+4MP, in front of Saheed Bhagat Singh College, Ashta, Madhya Pradesh 466116, India",
+        "country": "India"
+      },
+      {
+        "position": 11,
+        "title": "English Speaking and Personality Development Classes",
+        "place_id": "ChIJkWIlDEHFfDkR980intjYBWE",
+        "data_id": "0x397cc5410c256291:0x6105d8d89e22cdf7",
+        "data_cid": "6991232421440179703",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc5410c256291%3A0x6105d8d89e22cdf7&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.040760499999998,
+          "longitude": 76.71209449999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkWIlDEHFfDkR980intjYBWE",
+        "provider_id": "/g/11rn22gmh2",
+        "unclaimed_listing": true,
+        "type": "Education center",
+        "types": [
+          "Education center"
+        ],
+        "address": "2PR6+8R5, Shujalpur Rd, near Lion Gym, near Kajikhedi, Ashta, Kaji Khedi, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Closed · Opens 8 AM Mon",
+        "hours": "Closed · Opens 8 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "8 AM–6:30 PM",
+          "tuesday": "Closed",
+          "wednesday": "Closed",
+          "thursday": "Closed",
+          "friday": "Closed",
+          "saturday": "Closed"
+        },
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 12,
+        "title": "Pillar fitness gym",
+        "place_id": "ChIJMZ6CGS_pfDkR8gHpY-uqx6I",
+        "data_id": "0x397ce92f19829e31:0xa2c7aaeb63e901f2",
+        "data_cid": "11729531682479997426",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397ce92f19829e31%3A0xa2c7aaeb63e901f2&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.078705799999998,
+          "longitude": 76.8440826
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMZ6CGS_pfDkR8gHpY-uqx6I",
+        "provider_id": "/g/11lcpjjyv0",
+        "rating": 4.9,
+        "reviews": 27,
+        "type": "Fitness center",
+        "types": [
+          "Fitness center"
+        ],
+        "address": "Ward no.7, VIT, Indore - Bhopal Rd, near Kotri, Kothri Kalan, Kothri, Madhya Pradesh 466114, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "6–11 AM, 4–10 PM",
+          "tuesday": "6–11 AM, 4–10 PM",
+          "wednesday": "6–11 AM, 4–10 PM",
+          "thursday": "6–11 AM, 4–10 PM",
+          "friday": "6–11 AM, 4–10 PM",
+          "saturday": "6–11 AM, 4–10 PM"
+        },
+        "phone": "+91 83199 17857"
+      },
+      {
+        "position": 13,
+        "title": "Brother's Fitness Hub sehore",
+        "place_id": "ChIJTztlZWHzfDkRKr7BfSfdrfM",
+        "data_id": "0x397cf36165653b4f:0xf3addd277dc1be2a",
+        "data_cid": "17558933683870744106",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cf36165653b4f%3A0xf3addd277dc1be2a&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.1919538,
+          "longitude": 77.0805015
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTztlZWHzfDkRKr7BfSfdrfM",
+        "provider_id": "/g/11mt2zqrfb",
+        "rating": 5,
+        "reviews": 95,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "jhagariya road, Bramhapuri Colony, Sehore, Madhya Pradesh 466001, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "6–10 AM, 4–10 PM",
+          "tuesday": "6–10 AM, 4–10 PM",
+          "wednesday": "6–10 AM, 4–10 PM",
+          "thursday": "6–10 AM, 4–10 PM",
+          "friday": "6–10 AM, 4–10 PM",
+          "saturday": "6–10 AM, 4–10 PM"
+        },
+        "phone": "+91 78289 03632"
+      },
+      {
+        "position": 14,
+        "title": "Parth fitness GYM",
+        "place_id": "ChIJs2OqAdrpfDkREx5V3Eramec",
+        "data_id": "0x397ce9da01aa63b3:0xe799da4adc551e13",
+        "data_cid": "16688609909257084435",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397ce9da01aa63b3%3A0xe799da4adc551e13&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0811533,
+          "longitude": 76.8422221
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJs2OqAdrpfDkREx5V3Eramec",
+        "provider_id": "/g/11nvm436tp",
+        "rating": 5,
+        "reviews": 1,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "Parth fitness, VIT University, Indore - Bhopal Rd, nearby gavakheda road, Kothri, Madhya Pradesh 466114, India",
+        "country": "India",
+        "phone": "+91 62600 03050"
+      },
+      {
+        "position": 15,
+        "title": "STAR FITNESS GYM",
+        "place_id": "ChIJrxmMJwDzfDkRVBzgIUXCO64",
+        "data_id": "0x397cf300278c19af:0xae3bc24521e01c54",
+        "data_cid": "12554841988402256980",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cf300278c19af%3A0xae3bc24521e01c54&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.193389,
+          "longitude": 77.0749
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrxmMJwDzfDkRVBzgIUXCO64",
+        "provider_id": "/g/11ync_fd9f",
+        "rating": 5,
+        "reviews": 29,
+        "unclaimed_listing": true,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "INDORE NAKA, Indore - Bhopal Rd, near Bharat Petroleum, Gulab Vihar, Sehore, Madhya Pradesh 466001, India",
+        "country": "India",
+        "open_state": "Closed · Opens 5:30 AM Mon",
+        "hours": "Closed · Opens 5:30 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "5:30–10 AM, 4–10 PM",
+          "tuesday": "5:30–10 AM, 4–10 PM",
+          "wednesday": "5:30–10 AM, 4–10 PM",
+          "thursday": "5:30–10 AM, 4–10 PM",
+          "friday": "5:30–10 AM, 4–10 PM",
+          "saturday": "5:30–10 AM, 4–10 PM"
+        }
+      },
+      {
+        "position": 16,
+        "title": "Crunch Fitness - Valdosta",
+        "place_id": "ChIJ03PkV8Rn7ogRBlu-WqjoVQo",
+        "data_id": "0x88ee67c457e473d3:0xa55e8a85abe5b06",
+        "data_cid": "744757123174259462",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x88ee67c457e473d3%3A0xa55e8a85abe5b06&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 30.8434773,
+          "longitude": -83.32052329999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ03PkV8Rn7ogRBlu-WqjoVQo",
+        "provider_id": "/g/11kxs93p8w",
+        "rating": 4.5,
+        "reviews": 653,
+        "type": "Gym",
+        "types": [
+          "Gym",
+          "Body shaping class",
+          "Fitness center",
+          "Indoor cycling",
+          "Personal trainer",
+          "Physical fitness program",
+          "Spa and health club",
+          "Weightlifting area"
+        ],
+        "address": "1710 Norman Dr Ste A-1, Valdosta, GA 31602",
+        "country": "United States",
+        "open_state": "Open · Closes 9 PM",
+        "hours": "Open · Closes 9 PM",
+        "operating_hours": {
+          "sunday": "5 AM–9 PM",
+          "monday": "4 AM–11 PM",
+          "tuesday": "4 AM–11 PM",
+          "wednesday": "4 AM–11 PM",
+          "thursday": "4 AM–11 PM",
+          "friday": "4 AM–11 PM",
+          "saturday": "5 AM–9 PM"
+        },
+        "phone": "(229) 437-0521",
+        "website": "https://www.crunch.com/locations/valdosta",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 17,
+        "title": "AK Desi fitness ka ghar",
+        "place_id": "ChIJeXd2EgDpfDkRRRDxXoUhkAs",
+        "data_id": "0x397ce90012767779:0xb9021855ef11045",
+        "data_cid": "833202787770765381",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397ce90012767779%3A0xb9021855ef11045&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0357982,
+          "longitude": 76.84956249999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeXd2EgDpfDkRRRDxXoUhkAs",
+        "provider_id": "/g/11x1jggd2w",
+        "unclaimed_listing": true,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "2RPX+8R7, Mullani, Madhya Pradesh 466114, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours",
+          "saturday": "Open 24 hours"
+        }
+      },
+      {
+        "position": 18,
+        "title": "Paid GYM",
+        "place_id": "ChIJRW-iZwDpfDkRSHvkD7EtzSk",
+        "data_id": "0x397ce90067a26f45:0x29cd2db10fe47b48",
+        "data_cid": "3012113964279823176",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397ce90067a26f45%3A0x29cd2db10fe47b48&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.072214199999998,
+          "longitude": 76.85761339999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRW-iZwDpfDkRSHvkD7EtzSk",
+        "provider_id": "/g/11nt_cg8s7",
+        "unclaimed_listing": true,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "3VC5+X3Q, Kothri Kalan, Madhya Pradesh 466114, India",
+        "country": "India"
+      },
+      {
+        "position": 19,
+        "title": "The shaan fitness club",
+        "place_id": "ChIJZ8hp3uJDfjkR7K_FxSSM7FA",
+        "data_id": "0x397e43e2de69c867:0x50ec8c24c5c5afec",
+        "data_cid": "5831189707102728172",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397e43e2de69c867%3A0x50ec8c24c5c5afec&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7506637,
+          "longitude": 78.3545898
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ8hp3uJDfjkR7K_FxSSM7FA",
+        "provider_id": "/g/11j94qwhlw",
+        "rating": 4.9,
+        "reviews": 134,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "94 Raghuwanshi ji complex 2nd floor, Pipariya, Madhya Pradesh 461775, India",
+        "country": "India",
+        "open_state": "Closed · Opens 5 AM Mon",
+        "hours": "Closed · Opens 5 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "5 AM–10:30 PM",
+          "tuesday": "5 AM–10:30 PM",
+          "wednesday": "5 AM–10:30 PM",
+          "thursday": "5 AM–10:30 PM",
+          "friday": "5 AM–10:30 PM",
+          "saturday": "5 AM–10:30 PM"
+        },
+        "phone": "+91 88711 11568",
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 20,
+        "title": "Barista Lounge",
+        "place_id": "ChIJd5gN8B_FfDkRvAkbRzcLJnE",
+        "data_id": "0x397cc51ff00d9877:0x71260b37471b09bc",
+        "data_cid": "8153216507444922812",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc51ff00d9877%3A0x71260b37471b09bc&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0176148,
+          "longitude": 76.7262147
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd5gN8B_FfDkRvAkbRzcLJnE",
+        "provider_id": "/g/11v3_tgxv1",
+        "rating": 4.1,
+        "reviews": 18,
+        "type": "Restaurant",
+        "types": [
+          "Restaurant"
+        ],
+        "address": "Kannod Rd, above Reshap Gym, Sai Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Temporarily closed",
+        "hours": "Temporarily closed",
+        "website": "https://play.google.com/store/apps/details?id=com.eatmefoods.app"
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4023.0180474%2C76.715972%2C14z&q=gym&start=20&type=search"
+    }
+  }
+}

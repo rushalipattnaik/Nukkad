@@ -1,0 +1,106 @@
+{
+  "_meta": {
+    "label": "autocomplete 'medical store Ashta'",
+    "engine": "google_autocomplete",
+    "params": {
+      "engine": "google_autocomplete",
+      "q": "medical store Ashta",
+      "gl": "in",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:21:23.550299+00:00",
+    "http_status": 200,
+    "elapsed_s": 0.81,
+    "credit_delta_measured": 1,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac260e195e950293cc0914e",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/UjEs3GmJYQ96hUnQcuao04nTUMhVMN8btJh0OAyBYQk/6ac260e195e950293cc0914e.md",
+      "created_at": "2026-10-04 14:21:21 UTC",
+      "processed_at": "2026-10-04 14:21:21 UTC",
+      "google_autocomplete_url": "https://www.google.com/complete/search?q=medical+store+Ashta&gl=in&hl=en&client=chrome&dpr=1",
+      "total_time_taken": 0.39
+    },
+    "search_parameters": {
+      "engine": "google_autocomplete",
+      "q": "medical store Ashta",
+      "gl": "in",
+      "hl": "en"
+    },
+    "search_information": {
+      "autocomplete_results_state": "Showing completion results."
+    },
+    "suggestions": [
+      {
+        "value": "medical shop ashtamichira",
+        "relevance": 601,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=medical+shop+ashtamichira"
+      },
+      {
+        "value": "drug store ashta",
+        "relevance": 600,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=drug+store+ashta"
+      },
+      {
+        "value": "medical supply store ashtabula ohio",
+        "relevance": 558,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=medical+supply+store+ashtabula+ohio"
+      },
+      {
+        "value": "neethi medical store ashtamichira",
+        "relevance": 557,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=neethi+medical+store+ashtamichira"
+      },
+      {
+        "value": "astha medical store",
+        "relevance": 556,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=astha+medical+store"
+      },
+      {
+        "value": "hariom medical store ashta",
+        "relevance": 555,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=hariom+medical+store+ashta"
+      },
+      {
+        "value": "hariom medical store ashta photos",
+        "relevance": 554,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=hariom+medical+store+ashta+photos"
+      },
+      {
+        "value": "tulsi medical store ashta photos",
+        "relevance": 553,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=tulsi+medical+store+ashta+photos"
+      },
+      {
+        "value": "ashtabhuja medical store",
+        "relevance": 552,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=ashtabhuja+medical+store"
+      },
+      {
+        "value": "ashtavinayak medical store",
+        "relevance": 551,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=ashtavinayak+medical+store"
+      },
+      {
+        "value": "ashtang medical store aminabad",
+        "relevance": 550,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=ashtang+medical+store+aminabad"
+      }
+    ],
+    "verbatim_relevance": 851
+  }
+}

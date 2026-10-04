@@ -1,0 +1,46 @@
+{
+  "_meta": {
+    "label": "trends GEO_MAP region=DMA",
+    "engine": "google_trends",
+    "params": {
+      "engine": "google_trends",
+      "q": "medical store,dentist,gym,coaching classes,tiffin service",
+      "geo": "IN-MP",
+      "date": "today 12-m",
+      "hl": "en",
+      "tz": "-330",
+      "data_type": "GEO_MAP",
+      "region": "DMA"
+    },
+    "recorded_at": "2026-10-04T14:21:13.718777+00:00",
+    "http_status": 200,
+    "elapsed_s": 2.26,
+    "credit_delta_measured": 0,
+    "error": "Google Trends hasn't returned any results for this query."
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac260d5d3982c1f6fcfb864",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/QKyC17dRjkgKvZyi2NWmTwsXkXKfzKp2fzyYvmAWSpI/6ac260d5d3982c1f6fcfb864.md",
+      "created_at": "2026-10-04 14:21:09 UTC",
+      "processed_at": "2026-10-04 14:21:09 UTC",
+      "google_trends_url": "https://trends.google.com/trends/embed/explore/GEO_MAP?hl=en&tz=-330&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22medical+store%22%2C%22geo%22%3A%22IN-MP%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22dentist%22%2C%22geo%22%3A%22IN-MP%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22gym%22%2C%22geo%22%3A%22IN-MP%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22coaching+classes%22%2C%22geo%22%3A%22IN-MP%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22tiffin+service%22%2C%22geo%22%3A%22IN-MP%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+      "total_time_taken": 1.95
+    },
+    "search_parameters": {
+      "engine": "google_trends",
+      "q": "medical store,dentist,gym,coaching classes,tiffin service",
+      "hl": "en",
+      "geo": "IN-MP",
+      "date": "today 12-m",
+      "tz": "-330",
+      "data_type": "GEO_MAP",
+      "region": "DMA"
+    },
+    "search_information": {
+      "organic_results_state": "Fully empty"
+    },
+    "error": "Google Trends hasn't returned any results for this query."
+  }
+}

@@ -1,0 +1,1855 @@
+{
+  "_meta": {
+    "label": "maps Bhopal / dentist",
+    "engine": "google_maps",
+    "params": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "dentist",
+      "ll": "@23.2599333,77.412615,14z",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:20:10.651337+00:00",
+    "http_status": 200,
+    "elapsed_s": 1.03,
+    "credit_delta_measured": 0,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac260986c4c0c770ab2ddfc",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/_7He20d2JohHq5F2E5drZ0Fy9wBOMa7ZzVprVFXnSRg/6ac260986c4c0c770ab2ddfc.md",
+      "created_at": "2026-10-04 14:20:08 UTC",
+      "processed_at": "2026-10-04 14:20:08 UTC",
+      "google_maps_url": "https://www.google.com/maps/search/dentist/@23.2599333,77.412615,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+      "total_time_taken": 0.51
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "dentist",
+      "ll": "@23.2599333,77.412615,14z",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Results for exact spelling",
+      "query_displayed": "dentist"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "Dr. Prashant Tripathi Dental Hospital - Best Dental Clinic/Dentist In Bhopal - Root Canal | Implant Specialist - Oral Surgeon",
+        "place_id": "ChIJydfVBPtBfDkR4SG-fr9AG0E",
+        "data_id": "0x397c41fb04d5d7c9:0x411b40bf7ebe21e1",
+        "data_cid": "4691414628045824481",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c41fb04d5d7c9%3A0x411b40bf7ebe21e1&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2508715,
+          "longitude": 77.4801114
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJydfVBPtBfDkR4SG-fr9AG0E",
+        "provider_id": "/g/11fx8l7br7",
+        "rating": 4.8,
+        "reviews": 4122,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Cosmetic surgeon",
+          "Dental clinic",
+          "Dental implants periodontist",
+          "Dental implants provider",
+          "Plastic surgery clinic",
+          "Skin care clinic"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "cosmetic_surgeon",
+          "dental_clinic",
+          "dental_implants_periodontist",
+          "dental_implants_provider",
+          "plastic_surgery_clinic",
+          "skin_care_clinic"
+        ],
+        "address": "First Floor, Ratnagiri Square, 161, Raisen Rd, near Canara Bank, Piplani, BHEL, Bhopal, Madhya Pradesh 462022, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours",
+          "saturday": "Open 24 hours"
+        },
+        "phone": "+91 92002 00300",
+        "website": "https://denasia.org/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The analysis was accurate, had root canal done and wisdom tooth removed.\""
+      },
+      {
+        "position": 2,
+        "title": "Denasia Dental Hospital - Dentist - Best Implant and Root Canal - CGHS,ESI & NABH Clinic In Bhopal",
+        "place_id": "ChIJx1lHF_tBfDkRfIss69oT1bM",
+        "data_id": "0x397c41fb174759c7:0xb3d513daeb2c8b7c",
+        "data_cid": "12958285333797833596",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c41fb174759c7%3A0xb3d513daeb2c8b7c&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2509318,
+          "longitude": 77.4801466
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx1lHF_tBfDkRfIss69oT1bM",
+        "provider_id": "/g/11fzb29wtz",
+        "rating": 4.7,
+        "reviews": 1203,
+        "type": "Dental clinic",
+        "types": [
+          "Dental clinic"
+        ],
+        "type_id": "dental_clinic",
+        "type_ids": [
+          "dental_clinic"
+        ],
+        "address": "MIG-2, Ratanagiri Tiraha, Piplani, BHEL, Bhopal, Madhya Pradesh 462022, India",
+        "country": "India",
+        "open_state": "Open · Closes 9 PM",
+        "hours": "Open · Closes 9 PM",
+        "operating_hours": {
+          "sunday": "9 AM–9 PM",
+          "monday": "9 AM–9 PM",
+          "tuesday": "9 AM–9 PM",
+          "wednesday": "9 AM–9 PM",
+          "thursday": "9 AM–9 PM",
+          "friday": "9 AM–9 PM",
+          "saturday": "9 AM–9 PM"
+        },
+        "phone": "+91 81202 02052",
+        "website": "https://denasia.org/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care",
+              "Sedation dentistry"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments",
+              "Payment plans"
+            ]
+          },
+          {
+            "parking": [
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The analysis was accurate, had root canal done and wisdom tooth removed.\""
+      },
+      {
+        "position": 3,
+        "title": "Dr. Pooja Tripathi - Best Dentist In Bhopal - Pedodontist/Braces Specialist/Cosmetic Dental Surgeon - CGHS,ESI & NABH Clinic",
+        "place_id": "ChIJHR4c2J5DfDkRRy8J2VpZJY8",
+        "data_id": "0x397c439ed81c1e1d:0x8f25595ad9092f47",
+        "data_cid": "10314748768285175623",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c439ed81c1e1d%3A0x8f25595ad9092f47&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.266941199999998,
+          "longitude": 77.4575182
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHR4c2J5DfDkRRy8J2VpZJY8",
+        "provider_id": "/g/11fml2bcy3",
+        "rating": 4.9,
+        "reviews": 666,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Cosmetic dentist",
+          "Dental clinic",
+          "Dental implants periodontist",
+          "Dental implants provider",
+          "Plastic surgery clinic",
+          "Skin care clinic"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "cosmetic_dentist",
+          "dental_clinic",
+          "dental_implants_periodontist",
+          "dental_implants_provider",
+          "plastic_surgery_clinic",
+          "skin_care_clinic"
+        ],
+        "address": "Infront of Kwality Sweets, Minal Gate, 35-36, JK Rd, near Omni Bakers, Chanakyapuri, Bhopal, Madhya Pradesh 462041, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "10 AM–10 PM",
+          "monday": "10 AM–10 PM",
+          "tuesday": "10 AM–10 PM",
+          "wednesday": "10 AM–10 PM",
+          "thursday": "10 AM–10 PM",
+          "friday": "10 AM–10 PM",
+          "saturday": "10 AM–10 PM"
+        },
+        "phone": "+91 92002 00300",
+        "website": "https://denasia.org/",
+        "extensions": [
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          }
+        ],
+        "user_review": "\"Best dental hospital dr prashant os great my root canal is almost pain free\""
+      },
+      {
+        "position": 4,
+        "title": "DENTORAL",
+        "place_id": "ChIJxaVSZUVCfDkR-MKAIFtB-Jw",
+        "data_id": "0x397c42456552a5c5:0x9cf8415b2080c2f8",
+        "data_cid": "11310862323784139512",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c42456552a5c5%3A0x9cf8415b2080c2f8&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.229515499999998,
+          "longitude": 77.4337966
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxaVSZUVCfDkR-MKAIFtB-Jw",
+        "provider_id": "/g/11b7ch586r",
+        "rating": 4.9,
+        "reviews": 434,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Dental implants periodontist",
+          "Dental radiology",
+          "Dental clinic",
+          "Emergency dental service",
+          "Endodontist",
+          "Hospital",
+          "Orthodontist",
+          "Prosthodontist",
+          "Teeth whitening service"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "dental_implants_periodontist",
+          "dental_radiology",
+          "dental_clinic",
+          "emergency_dental_service",
+          "endodontist",
+          "hospital",
+          "orthodontist",
+          "prosthodontist",
+          "teeth_whitening_service"
+        ],
+        "address": "In the service lane of the Motel Shiraz, Jr HIG 08, near Board Office Square, opposite Pragati Petrol Pump, Shivaji Nagar, Madhya Pradesh 462011, India",
+        "country": "India",
+        "open_state": "Closes soon · 8 PM · Opens 10:30 AM Mon",
+        "hours": "Closes soon · 8 PM · Opens 10:30 AM Mon",
+        "operating_hours": {
+          "sunday": "12–8 PM",
+          "monday": "10:30 AM–9:30 PM",
+          "tuesday": "10:30 AM–9:30 PM",
+          "wednesday": "10:30 AM–9:30 PM",
+          "thursday": "10:30 AM–9:30 PM",
+          "friday": "10:30 AM–9:30 PM",
+          "saturday": "10:30 AM–9:30 PM"
+        },
+        "phone": "+91 99816 65065",
+        "website": "https://dentoral.in/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care",
+              "Sedation dentistry"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments",
+              "Payment plans"
+            ]
+          },
+          {
+            "children": [
+              "Has changing table(s)",
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"My root canal treatment and capping were completely painless.\""
+      },
+      {
+        "position": 5,
+        "title": "Dhameja Dental Clinic",
+        "place_id": "ChIJO2NnXnFDfDkR5rLzh4foa7U",
+        "data_id": "0x397c43715e67633b:0xb56be88787f3b2e6",
+        "data_cid": "13072798012172120806",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c43715e67633b%3A0xb56be88787f3b2e6&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2183019,
+          "longitude": 77.4565523
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO2NnXnFDfDkR5rLzh4foa7U",
+        "provider_id": "/g/11pv0d6m59",
+        "rating": 5,
+        "reviews": 339,
+        "type": "Dentist",
+        "types": [
+          "Dentist"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist"
+        ],
+        "address": "M13, 3 A, beside ICICI ATM, Panchvati Market, Saket Nagar, Habib Ganj, Bhopal, Madhya Pradesh 462024, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "9 AM–10 PM",
+          "monday": "9 AM–10 PM",
+          "tuesday": "9 AM–10 PM",
+          "wednesday": "9 AM–10 PM",
+          "thursday": "9 AM–10 PM",
+          "friday": "9 AM–10 PM",
+          "saturday": "9 AM–10 PM"
+        },
+        "phone": "+91 96301 11187",
+        "website": "https://www.apnabusinesscard.com/DHAMEJA-DENTAL-CLINIC",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"The dentist quickly diagnosed and treated my issue very smoothly.\""
+      },
+      {
+        "position": 6,
+        "title": "Dent O Care Dental Clinic",
+        "place_id": "ChIJGXob3dVpfDkRN12jSkwVkgc",
+        "data_id": "0x397c69d5dd1b7a19:0x792154c4aa35d37",
+        "data_cid": "545521922279169335",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c69d5dd1b7a19%3A0x792154c4aa35d37&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2564547,
+          "longitude": 77.42934079999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGXob3dVpfDkRN12jSkwVkgc",
+        "provider_id": "/g/11bbs_yvl8",
+        "rating": 4.9,
+        "reviews": 286,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Cosmetic dentist",
+          "Dental implants periodontist",
+          "Dental clinic",
+          "Orthodontist",
+          "Teeth whitening service"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "cosmetic_dentist",
+          "dental_implants_periodontist",
+          "dental_clinic",
+          "orthodontist",
+          "teeth_whitening_service"
+        ],
+        "address": "Shop No. 4, Mohini Complex, near Vivekanand Sqaure, Near Indian Bank, Gyan Kunj, New Ashoka Garden, Ashoka Garden, Bhopal, Madhya Pradesh 462010, India",
+        "country": "India",
+        "open_state": "Open · Closes 9 PM",
+        "hours": "Open · Closes 9 PM",
+        "operating_hours": {
+          "sunday": "11 AM–2:30 PM, 5:30–9 PM",
+          "monday": "11 AM–2:30 PM, 5:30–9 PM",
+          "tuesday": "11 AM–2:30 PM, 5:30–9 PM",
+          "wednesday": "11 AM–2:30 PM, 5:30–9 PM",
+          "thursday": "11 AM–2:30 PM, 5:30–9 PM",
+          "friday": "11 AM–2:30 PM, 5:30–9 PM",
+          "saturday": "11 AM–2:30 PM, 5:30–9 PM"
+        },
+        "phone": "+91 98269 71831",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "planning": [
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"She’s really experienced, and her root canal treatments are almost painless.\""
+      },
+      {
+        "position": 7,
+        "title": "Ur Dentist Dr Baghel Clinic",
+        "place_id": "ChIJoSTX1N1nfDkRtBL61EzWGTc",
+        "data_id": "0x397c67ddd4d724a1:0x3719d64cd4fa12b4",
+        "data_cid": "3970440171982820020",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c67ddd4d724a1%3A0x3719d64cd4fa12b4&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2765617,
+          "longitude": 77.3725297
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoSTX1N1nfDkRtBL61EzWGTc",
+        "provider_id": "/g/11c30w8vyg",
+        "rating": 4.9,
+        "reviews": 550,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Dental implants periodontist",
+          "Dental clinic",
+          "Orthodontist",
+          "Pain control clinic",
+          "Prosthodontist"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "dental_implants_periodontist",
+          "dental_clinic",
+          "orthodontist",
+          "pain_control_clinic",
+          "prosthodontist"
+        ],
+        "address": "Infront of PNB bank, 1st floor, Navri Road, Gufa Mandir Rd, Lalghati, Bhopal, Madhya Pradesh 462001, India",
+        "country": "India",
+        "open_state": "Closed · Opens 11 AM Mon",
+        "hours": "Closed · Opens 11 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "11 AM–2 PM, 5–9 PM",
+          "tuesday": "11 AM–2 PM, 5–9 PM",
+          "wednesday": "11 AM–2 PM, 5–9 PM",
+          "thursday": "11 AM–2 PM, 5–9 PM",
+          "friday": "11 AM–2 PM, 5–9 PM",
+          "saturday": "11 AM–1 PM, 5–9 PM"
+        },
+        "phone": "+91 82331 44250",
+        "website": "http://drarjunbaghel.website3.me/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "book_online": "https://www.justdial.com/online-consult/hospital?action=BA&extRdt=1&wkwebview=1&docid=0755PX755.X755.171231224327.S5Z5&rwg_token=AE37R_h_X93SpzRMrCIpAWdEIJPvJKX9GukROUBsoSJDF2n8JbjgyA0Mc3B96SF3WjMMuP3Uk_s6D1n_5qJOAEhlep9wdhtpQA%3D%3D",
+        "user_review": "\"Painless experience\nThanks Dr.\nImplants done so smoothly\nVery nicely done\""
+      },
+      {
+        "position": 8,
+        "title": "Dr. Goyal's , Advance Dental Care Minal residency",
+        "place_id": "ChIJFdrOY-VpfDkRbG22lUc6v2M",
+        "data_id": "0x397c69e563ceda15:0x63bf3a4795b66d6c",
+        "data_cid": "7187527609435450732",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c69e563ceda15%3A0x63bf3a4795b66d6c&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.268735799999998,
+          "longitude": 77.4570763
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFdrOY-VpfDkRbG22lUc6v2M",
+        "provider_id": "/g/11b6syl4rw",
+        "rating": 4.9,
+        "reviews": 411,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Cosmetic dentist",
+          "Dental clinic",
+          "Dental implants periodontist"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "cosmetic_dentist",
+          "dental_clinic",
+          "dental_implants_periodontist"
+        ],
+        "address": "UG-50, J K Road, minal shopping mall, Minal Residency, Indrapuri, Bhopal, Madhya Pradesh 462023, India",
+        "country": "India",
+        "open_state": "Closed · Opens 10 AM Mon",
+        "hours": "Closed · Opens 10 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "10 AM–2 PM, 5–9 PM",
+          "tuesday": "10 AM–2 PM, 5–9 PM",
+          "wednesday": "10 AM–2 PM, 5–9 PM",
+          "thursday": "10 AM–2 PM, 5–9 PM",
+          "friday": "10 AM–2 PM, 5–9 PM",
+          "saturday": "10 AM–2 PM, 5–9 PM"
+        },
+        "phone": "+91 99778 32333",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Google Pay"
+            ]
+          }
+        ],
+        "user_review": "\"Easy and painless tooth extraction and the doctor is very humble and polite.\""
+      },
+      {
+        "position": 9,
+        "title": "Smile Care Dental Clinic",
+        "place_id": "ChIJ8ZEffftpfDkROA3ea39jGUE",
+        "data_id": "0x397c69fb7d1f91f1:0x4119637f6bde0d38",
+        "data_cid": "4690889885804793144",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c69fb7d1f91f1%3A0x4119637f6bde0d38&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2633147,
+          "longitude": 77.4610804
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8ZEffftpfDkROA3ea39jGUE",
+        "provider_id": "/g/11cs1ftk1x",
+        "rating": 4.8,
+        "reviews": 459,
+        "type": "Cosmetic dentist",
+        "types": [
+          "Cosmetic dentist",
+          "Dental clinic",
+          "Dental implants periodontist",
+          "Dental implants provider",
+          "Teeth whitening service"
+        ],
+        "type_id": "cosmetic_dentist",
+        "type_ids": [
+          "cosmetic_dentist",
+          "dental_clinic",
+          "dental_implants_periodontist",
+          "dental_implants_provider",
+          "teeth_whitening_service"
+        ],
+        "address": "No.1, Milnal Gate, 3/33, JK Rd, near BHEL, Chhatrasal Nagar Phase-2, Bharat Nagar, Indrapuri, Bhopal, Madhya Pradesh 462023, India",
+        "country": "India",
+        "open_state": "Closed · Opens 10 AM Mon",
+        "hours": "Closed · Opens 10 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "10 AM–9 PM",
+          "tuesday": "10 AM–9 PM",
+          "wednesday": "10 AM–9 PM",
+          "thursday": "10 AM–9 PM",
+          "friday": "10 AM–9 PM",
+          "saturday": "10 AM–9 PM"
+        },
+        "phone": "+91 93001 17987",
+        "website": "https://www.drjoshismilecare.com/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The dentist was professional, polite, and explained the procedure clearly.\""
+      },
+      {
+        "position": 10,
+        "title": "𝐒𝐚𝐢 𝐎𝐫𝐚𝐥 & 𝐃𝐞𝐧𝐭𝐚𝐥 𝐂𝐚𝐫𝐞 𝐂𝐞𝐧𝐭𝐞𝐫",
+        "place_id": "ChIJJ17uHWlCfDkRFT1KDvB8vIA",
+        "data_id": "0x397c42691dee5e27:0x80bc7cf00e4a3d15",
+        "data_cid": "9276426702950120725",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c42691dee5e27%3A0x80bc7cf00e4a3d15&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2371448,
+          "longitude": 77.4393377
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJ17uHWlCfDkRFT1KDvB8vIA",
+        "provider_id": "/g/1hm5s5xvy",
+        "rating": 4.9,
+        "reviews": 923,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Cosmetic dentist",
+          "Dental implants periodontist",
+          "Dental clinic",
+          "Doctor",
+          "Emergency dental service",
+          "Endodontist",
+          "Oral and maxillofacial surgeon",
+          "Orthodontist",
+          "Pediatric dentist"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "cosmetic_dentist",
+          "dental_implants_periodontist",
+          "dental_clinic",
+          "doctor",
+          "emergency_dental_service",
+          "endodontist",
+          "oral_maxillofacial_surgeon",
+          "orthodontist",
+          "pediatric_dentist"
+        ],
+        "address": "House No. 304, in front of Bank of India Colony, near Vijaya Nursing Home, Gautam Nagar, Housing Board Colony, Govindpura, Bhopal, Madhya Pradesh 462023, India",
+        "country": "India",
+        "open_state": "Closed · Opens 10:30 AM Mon",
+        "hours": "Closed · Opens 10:30 AM Mon",
+        "operating_hours": {
+          "sunday": "10:30 AM–3 PM",
+          "monday": "10:30 AM–9 PM",
+          "tuesday": "10:30 AM–9 PM",
+          "wednesday": "10:30 AM–9 PM",
+          "thursday": "10:30 AM–9 PM",
+          "friday": "10:30 AM–9 PM",
+          "saturday": "10:30 AM–9 PM"
+        },
+        "phone": "+91 91796 67477",
+        "website": "http://saidentalclinics.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care",
+              "Sedation dentistry"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Their gentle approach turned our dental anxiety into confidence.\""
+      },
+      {
+        "position": 11,
+        "title": "THE DENTAL CASTLE - HOUSE OF ORTHODONTIST",
+        "place_id": "ChIJmflBacxpfDkR_iDea2UUbIM",
+        "data_id": "0x397c69cc6941f999:0x836c14656bde20fe",
+        "data_cid": "9469966542287282430",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c69cc6941f999%3A0x836c14656bde20fe&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.264795799999998,
+          "longitude": 77.4654742
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmflBacxpfDkR_iDea2UUbIM",
+        "provider_id": "/g/11rrqb6l7g",
+        "rating": 4.9,
+        "reviews": 83,
+        "type": "Dentist",
+        "types": [
+          "Dentist"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist"
+        ],
+        "address": "Infront of kanta Shrawan palace, Nizamuddin Rd, beside axis bank, Narela Shankari, Bhopal, Madhya Pradesh 462041, India",
+        "country": "India",
+        "open_state": "Open · Closes 9 PM",
+        "hours": "Open · Closes 9 PM",
+        "operating_hours": {
+          "sunday": "4–9 PM",
+          "monday": "12–9 PM",
+          "tuesday": "12–9 PM",
+          "wednesday": "12–9 PM",
+          "thursday": "12–9 PM",
+          "friday": "12–9 PM",
+          "saturday": "12–9 PM"
+        },
+        "phone": "+91 89591 89041",
+        "extensions": [
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "user_review": "\"They provide precise solution to all the dental related issues.\""
+      },
+      {
+        "position": 12,
+        "title": "Raj Multispeciality Dental Clinic",
+        "place_id": "ChIJIX62i-9pfDkRWxky3d4wHWs",
+        "data_id": "0x397c69ef8bb67e21:0x6b1d30dedd32195b",
+        "data_cid": "7718379070134819163",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c69ef8bb67e21%3A0x6b1d30dedd32195b&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2688338,
+          "longitude": 77.4572
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIX62i-9pfDkRWxky3d4wHWs",
+        "provider_id": "/g/11b6yd_639",
+        "rating": 4.8,
+        "reviews": 120,
+        "type": "Dental clinic",
+        "types": [
+          "Dental clinic"
+        ],
+        "type_id": "dental_clinic",
+        "type_ids": [
+          "dental_clinic"
+        ],
+        "address": "UG 47, Minal Mall, JK Rd, near Astha medical, Minal Residency, Bhopal, Madhya Pradesh 462023, India",
+        "country": "India",
+        "open_state": "Open · Closes 9 PM",
+        "hours": "Open · Closes 9 PM",
+        "operating_hours": {
+          "sunday": "10 AM–2 PM, 5–9 PM",
+          "monday": "10 AM–2 PM, 5–9 PM",
+          "tuesday": "10 AM–2 PM, 5–9 PM",
+          "wednesday": "10 AM–2 PM, 5–9 PM",
+          "thursday": "10 AM–2 PM, 5–9 PM",
+          "friday": "10 AM–2 PM, 5–9 PM",
+          "saturday": "10 AM–2 PM, 5–9 PM"
+        },
+        "phone": "+91 98262 37602",
+        "website": "https://www.rajmultispecialitydentalclinic.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "planning": [
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "book_online": "https://www.docindia.org/clinics/mp/bhopal/raj-multi-speciality-dental-clinic?rwg_token=AE37R_jOy0-Nw7E_Vd8Qy-2h72z_h2uSPdoKglJ8cgO2sQ2bhvKJrzg-HOiEXHQM2Swdudkp3A5YlwM9T-Mwc4DR6i_5d3qzXw%3D%3D",
+        "user_review": "\"Went to Dr. Priyanka with pain and got relieved in first sitting only.\""
+      },
+      {
+        "position": 13,
+        "title": "Dr. Soni's Just Smile Dental",
+        "place_id": "ChIJGVB0rwZCfDkR7aS7Qp3jb9I",
+        "data_id": "0x397c4206af745019:0xd26fe39d42bba4ed",
+        "data_cid": "15163588734948713709",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c4206af745019%3A0xd26fe39d42bba4ed&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2520067,
+          "longitude": 77.46314
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGVB0rwZCfDkR7aS7Qp3jb9I",
+        "provider_id": "/g/11c2l0pg45",
+        "rating": 4.9,
+        "reviews": 172,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Cosmetic dentist",
+          "Dental clinic",
+          "Dental implants provider",
+          "Denture care center"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "cosmetic_dentist",
+          "dental_clinic",
+          "dental_implants_provider",
+          "denture_care_center"
+        ],
+        "address": "MIG 20, in front of STATE BANK OF INDIA, Indrapuri B Sector, Sector B, Indrapuri, Bhopal, Madhya Pradesh 462023, India",
+        "country": "India",
+        "open_state": "Closed · Opens 10:30 AM Mon",
+        "hours": "Closed · Opens 10:30 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "10:30 AM–2:30 PM, 5–9 PM",
+          "tuesday": "10:30 AM–2:30 PM, 5–9 PM",
+          "wednesday": "10:30 AM–2:30 PM, 5–9 PM",
+          "thursday": "10:30 AM–2:30 PM, 5–9 PM",
+          "friday": "10:30 AM–2:30 PM, 5–9 PM",
+          "saturday": "10:30 AM–2:30 PM, 5–9 PM"
+        },
+        "phone": "+91 89892 09705",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": false
+        },
+        "user_review": "\"The doctor explained everything clearly, and the treatment was painless.\""
+      },
+      {
+        "position": 14,
+        "title": "Rai Dental Clinic",
+        "place_id": "ChIJG0stpnxpfDkRX7163zJAMw4",
+        "data_id": "0x397c697ca62d4b1b:0xe334032df7abd5f",
+        "data_cid": "1023232127585140063",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c697ca62d4b1b%3A0xe334032df7abd5f&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2766716,
+          "longitude": 77.4559707
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG0stpnxpfDkRX7163zJAMw4",
+        "provider_id": "/g/11jly618r4",
+        "rating": 4.9,
+        "reviews": 138,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Dental hygienist",
+          "Dental implants periodontist",
+          "Dental implants provider",
+          "Dental clinic",
+          "Denture care center",
+          "Emergency dental service",
+          "Orthodontist",
+          "Teeth whitening service"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "dental_hygienist",
+          "dental_implants_periodontist",
+          "dental_implants_provider",
+          "dental_clinic",
+          "denture_care_center",
+          "emergency_dental_service",
+          "orthodontist",
+          "teeth_whitening_service"
+        ],
+        "address": "A-26, near gate no 3, New Minal Residency, Minal Residency, Bhopal, Madhya Pradesh 462023, India",
+        "country": "India",
+        "open_state": "Open · Closes 12 AM",
+        "hours": "Open · Closes 12 AM",
+        "operating_hours": {
+          "sunday": "10:30 AM–12 AM",
+          "monday": "10:30 AM–9:30 PM",
+          "tuesday": "10:30 AM–9:30 PM",
+          "wednesday": "10:30 AM–9:30 PM",
+          "thursday": "10:30 AM–9:30 PM",
+          "friday": "10:30 AM–9:30 PM",
+          "saturday": "10:30 AM–9:30 PM"
+        },
+        "phone": "+91 95894 68124",
+        "website": "https://theraidentalclinic.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Sedation dentistry"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "book_online": "https://www.justdial.com/online-consult/hospital?action=BA&extRdt=1&wkwebview=1&docid=0755PX755.X755.170810162558.X4Q7&rwg_token=AE37R_gjjqCBMslT6jV64rC6h1b7voqzZNzFrEm9StFD6BUNyb8QPLQ0Rn5EFblp9VhnbA5zyNQYHZTEtfnLUFvzECdnl83-Ag%3D%3D",
+        "user_review": "\"2025: My two-teeth root canal was painless and very well handled.\""
+      },
+      {
+        "position": 15,
+        "title": "City Dental Clinic",
+        "place_id": "ChIJoR1MdgRCfDkRUwGypTSQczo",
+        "data_id": "0x397c4204764c1da1:0x3a739034a5b20153",
+        "data_cid": "4211868632314151251",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c4204764c1da1%3A0x3a739034a5b20153&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.250513599999998,
+          "longitude": 77.46427
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoR1MdgRCfDkRUwGypTSQczo",
+        "provider_id": "/g/1q69jdw11",
+        "rating": 4.9,
+        "reviews": 431,
+        "type": "Dental clinic",
+        "types": [
+          "Dental clinic",
+          "Cosmetic dentist",
+          "Dental implants periodontist",
+          "Dental implants provider",
+          "Denture care center",
+          "Doctor",
+          "Emergency dental service",
+          "Orthodontist",
+          "Teeth whitening service"
+        ],
+        "type_id": "dental_clinic",
+        "type_ids": [
+          "dental_clinic",
+          "cosmetic_dentist",
+          "dental_implants_periodontist",
+          "dental_implants_provider",
+          "denture_care_center",
+          "doctor",
+          "emergency_dental_service",
+          "orthodontist",
+          "teeth_whitening_service"
+        ],
+        "address": "Raisen Rd, next to apex bank, Indrapuri C sector, Sector 9c, Indrapuri, Bhopal, Madhya Pradesh 462001, India",
+        "country": "India",
+        "open_state": "Closed · Opens 10 AM Mon",
+        "hours": "Closed · Opens 10 AM Mon",
+        "operating_hours": {
+          "sunday": "10 AM–2 PM",
+          "monday": "10 AM–2 PM, 5–9 PM",
+          "tuesday": "10 AM–9 PM",
+          "wednesday": "10 AM–9 PM",
+          "thursday": "10 AM–9 PM",
+          "friday": "10 AM–9 PM",
+          "saturday": "10 AM–9 PM"
+        },
+        "phone": "+91 94244 54986",
+        "website": "https://www.citydentalclinicbhopal.com/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care",
+              "Sedation dentistry"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking garage",
+              "Free parking lot",
+              "Free street parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"My tooth extraction done by mam it was done very comfortably and smoothly\""
+      },
+      {
+        "position": 16,
+        "title": "Bhartia Dental Clinic",
+        "place_id": "ChIJzS_dmuFnfDkR6DrwsUspEos",
+        "data_id": "0x397c67e19add2fcd:0x8b12294bb1f03ae8",
+        "data_cid": "10021117525937371880",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c67e19add2fcd%3A0x8b12294bb1f03ae8&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2681445,
+          "longitude": 77.377008
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzS_dmuFnfDkR6DrwsUspEos",
+        "provider_id": "/g/11bzr66cj3",
+        "rating": 4.9,
+        "reviews": 978,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Dental implants periodontist",
+          "Dental clinic",
+          "Endodontist",
+          "Teeth whitening service"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "dental_implants_periodontist",
+          "dental_clinic",
+          "endodontist",
+          "teeth_whitening_service"
+        ],
+        "address": "A-37, Housing Board Colony, Bhopal, Madhya Pradesh 462001, India",
+        "country": "India",
+        "open_state": "Closed · Opens 9 AM Mon",
+        "hours": "Closed · Opens 9 AM Mon",
+        "operating_hours": {
+          "sunday": "10 AM–2 PM",
+          "monday": "9 AM–9 PM",
+          "tuesday": "9 AM–9 PM",
+          "wednesday": "9 AM–9 PM",
+          "thursday": "9 AM–9 PM",
+          "friday": "9 AM–9 PM",
+          "saturday": "9 AM–9 PM"
+        },
+        "phone": "+91 89822 00558",
+        "website": "https://bhartiasgroup.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care",
+              "Sedation dentistry"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The treatment was smooth, painless, and professionally done.\""
+      },
+      {
+        "position": 17,
+        "title": "Arihant Cosmetic and Implant Dentistry",
+        "place_id": "ChIJAQAAwOtpfDkR8kaP3eolvf8",
+        "data_id": "0x397c69ebc0000001:0xffbd25eadd8f46f2",
+        "data_cid": "18427926940939667186",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c69ebc0000001%3A0xffbd25eadd8f46f2&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2727044,
+          "longitude": 77.46052519999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAQAAwOtpfDkR8kaP3eolvf8",
+        "provider_id": "/g/11dyn3y8gp",
+        "rating": 4.9,
+        "reviews": 134,
+        "type": "Dental clinic",
+        "types": [
+          "Dental clinic",
+          "Training center"
+        ],
+        "type_id": "dental_clinic",
+        "type_ids": [
+          "dental_clinic",
+          "training_center"
+        ],
+        "address": "Raj business park, 2, Minal Shopping St, Narela, Narela Shankri, Ayodhya Nagar, Bhopal, Madhya Pradesh 462023, India",
+        "country": "India",
+        "open_state": "Closed · Opens 10 AM Mon",
+        "hours": "Closed · Opens 10 AM Mon",
+        "operating_hours": {
+          "sunday": "11 AM–6 PM",
+          "monday": "10 AM–8 PM",
+          "tuesday": "10 AM–8 PM",
+          "wednesday": "10 AM–8 PM",
+          "thursday": "10 AM–8 PM",
+          "friday": "10 AM–8 PM",
+          "saturday": "10 AM–8 PM"
+        },
+        "phone": "+91 755 317 0540",
+        "website": "http://www.arihantdentistry.com/",
+        "extensions": [
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          }
+        ],
+        "user_review": "\"Dr. Nimit gave me ample time to listen my concerns and addressed very well.\""
+      },
+      {
+        "position": 18,
+        "title": "Dr. Bharti's Multispeciality Dental clinic: centre for advanced orthodontics & Invisalign : Clear Aligners specialist",
+        "place_id": "ChIJkV8_a71nfDkRA9AAS9Y1Asc",
+        "data_id": "0x397c67bd6b3f5f91:0xc70235d64b00d003",
+        "data_cid": "14340083357998698499",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c67bd6b3f5f91%3A0xc70235d64b00d003&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.272788499999997,
+          "longitude": 77.3456107
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkV8_a71nfDkRA9AAS9Y1Asc",
+        "provider_id": "/g/11b6q1d0gf",
+        "rating": 5,
+        "reviews": 96,
+        "type": "Dental clinic",
+        "types": [
+          "Dental clinic",
+          "Cosmetic dentist",
+          "Dental implants provider",
+          "Emergency dental service",
+          "Endodontist",
+          "Orthodontist"
+        ],
+        "type_id": "dental_clinic",
+        "type_ids": [
+          "dental_clinic",
+          "cosmetic_dentist",
+          "dental_implants_provider",
+          "emergency_dental_service",
+          "endodontist",
+          "orthodontist"
+        ],
+        "address": "indrani hospital, Dr. Bharti's Multispeciality Clinic, 12/4, near Christ memorial school Infront of government Vetenary hospital, Block A, Hemu Kalani, Bairagarh, Bhopal, Madhya Pradesh 462030, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "10 AM–10 PM",
+          "monday": "10 AM–2 PM, 5–10 PM",
+          "tuesday": "10 AM–2 PM, 5–10 PM",
+          "wednesday": "10 AM–2 PM, 5–10 PM",
+          "thursday": "10 AM–2 PM, 5–10 PM",
+          "friday": "10 AM–2 PM, 5–10 PM",
+          "saturday": "10 AM–10 PM"
+        },
+        "phone": "+91 98934 43882",
+        "website": "http://www.drharshbharti.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "On-site parking"
+            ]
+          }
+        ],
+        "book_online": "https://book.healthplix.com/dr-harsh-vibhor-bharti-orthodontics--near-christ-memorial-school-playground-bhopal?utm_source=gmb_cta&rwg_token=AE37R_igUNd_daRBABZLurnTOk9u6THah7Zm8e7OudsaLOWZCzRYTQT4f1rr0f1qFEeeDsuzfW_nrlj3TfC53NCLm-gNIwkQUA%3D%3D",
+        "user_review": "\"The care and precision were top-notch—my smile’s back, and it looks natural.\""
+      },
+      {
+        "position": 19,
+        "title": "Amitossh Dental Care | Dental Clinic in Bhopal",
+        "place_id": "ChIJd-7HHcVCfDkRHnC5jBnESOA",
+        "data_id": "0x397c42c51dc7ee77:0xe048c4198cb9701e",
+        "data_cid": "16161382876833214494",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c42c51dc7ee77%3A0xe048c4198cb9701e&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.218721199999997,
+          "longitude": 77.3930705
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd-7HHcVCfDkRHnC5jBnESOA",
+        "provider_id": "/g/11dx9fmbrj",
+        "rating": 5,
+        "reviews": 98,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Cosmetic dentist",
+          "Dental clinic",
+          "Denture care center",
+          "Doctor",
+          "Emergency dental service",
+          "Endodontist",
+          "Orthodontist",
+          "Periodontist",
+          "Teeth whitening service"
+        ],
+        "type_id": "dentist",
+        "type_ids": [
+          "dentist",
+          "cosmetic_dentist",
+          "dental_clinic",
+          "denture_care_center",
+          "doctor",
+          "emergency_dental_service",
+          "endodontist",
+          "orthodontist",
+          "periodontist",
+          "teeth_whitening_service"
+        ],
+        "address": "B-22 Flat G-1 kanhakunj apartment, near bank of baroda, Kamla Nagar, Bhopal, Madhya Pradesh 462003, India",
+        "country": "India",
+        "open_state": "Open · Closes 9 PM",
+        "hours": "Open · Closes 9 PM",
+        "operating_hours": {
+          "sunday": "11 AM–2 PM, 5–9 PM",
+          "monday": "11 AM–2 PM, 5–9 PM",
+          "tuesday": "11 AM–2 PM, 5–9 PM",
+          "wednesday": "11 AM–2 PM, 5–9 PM",
+          "thursday": "11 AM–2 PM, 5–9 PM",
+          "friday": "11 AM–2 PM, 5–9 PM",
+          "saturday": "11 AM–2 PM, 5–9 PM"
+        },
+        "phone": "+91 83598 05973",
+        "website": "https://amitosshdentalcare.in/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Cosmetic dentistry",
+              "Emergency services",
+              "Pediatric care",
+              "Sedation dentistry"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "planning": [
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The treatment was painless, and everything was explained clearly\""
+      },
+      {
+        "position": 20,
+        "title": "Dr. Zakir Husain | BDS, MDS, FICE | Consultant Endodontist and Family Dentistry | Royale Dental Clinic Bhopal",
+        "place_id": "ChIJyd_t_A9ofDkRRz-bl3AwQjo",
+        "data_id": "0x397c680ffceddfc9:0x3a423070979b3f47",
+        "data_cid": "4197971062800727879",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c680ffceddfc9%3A0x3a423070979b3f47&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2631417,
+          "longitude": 77.3815484
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyd_t_A9ofDkRRz-bl3AwQjo",
+        "provider_id": "/g/11bwqbgd57",
+        "rating": 4.9,
+        "reviews": 310,
+        "type": "Dental clinic",
+        "types": [
+          "Dental clinic",
+          "Dental implants provider"
+        ],
+        "type_id": "dental_clinic",
+        "type_ids": [
+          "dental_clinic",
+          "dental_implants_provider"
+        ],
+        "address": "6, Mansab Manzil, Main Rd, near Old Secretariat, Kohefiza, Bhopal, Madhya Pradesh 462001, India",
+        "country": "India",
+        "open_state": "Closed · Opens 11 AM Mon",
+        "hours": "Closed · Opens 11 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "11 AM–3 PM, 7–9:40 PM",
+          "tuesday": "11 AM–3 PM, 7–9:40 PM",
+          "wednesday": "11 AM–3 PM, 7–9:40 PM",
+          "thursday": "11 AM–3 PM, 7–9:40 PM",
+          "friday": "11 AM–3 PM, 7–9:40 PM",
+          "saturday": "11 AM–3 PM, 7–9:40 PM"
+        },
+        "phone": "+91 99778 41111",
+        "website": "http://royaledentalclinic.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "planning": [
+              "Appointment required",
+              "Appointments recommended"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "Google Pay",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"My teeth are now perfectly aligned, and my smile has never looked better.\""
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4023.2599333%2C77.412615%2C14z&q=dentist&start=20&type=search"
+    }
+  }
+}

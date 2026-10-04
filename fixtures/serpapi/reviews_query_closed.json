@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "label": "reviews query=closed",
+    "engine": "google_maps_reviews",
+    "params": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x3962fd2794a0e223:0xd934a166dfd28b26",
+      "hl": "en",
+      "query": "closed"
+    },
+    "recorded_at": "2026-10-04T14:20:55.910973+00:00",
+    "http_status": 200,
+    "elapsed_s": 1.85,
+    "credit_delta_measured": 0,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac260c42f47f85191b66c56",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/fXuNe_aeBQp8jhNEl-b5aJ8fXozXFXXVasqLRRaYsrM/6ac260c42f47f85191b66c56.md",
+      "created_at": "2026-10-04 14:20:52 UTC",
+      "processed_at": "2026-10-04 14:20:52 UTC",
+      "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3962fd2794a0e223:0xd934a166dfd28b26!5m2!4m1!1i2!9m1!1b1?hl=en",
+      "total_time_taken": 1.53
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x3962fd2794a0e223:0xd934a166dfd28b26",
+      "hl": "en",
+      "query": "closed"
+    },
+    "search_information": {
+      "reviews_results_state": "No reviews"
+    }
+  }
+}

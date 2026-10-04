@@ -1,0 +1,194 @@
+========================================================================
+SERPAPI PROBES
+========================================================================
+[P1] Account API (free)
+     plan_name: Free Plan
+     searches_per_month: 250
+     plan_searches_left: 250
+     extra_credits: 0
+     total_searches_left: 250
+     this_month_usage: 0
+     this_hour_searches: 0
+     account_rate_limit_per_hour: 250
+     plan_renewal_date: 2026-11-04
+
+[P2] Ashta: locate town centre with Google Maps
+  [ok] maps geocode Ashta: HTTP 200, 0.88s, credits used (measured): 0
+     centre from place_results: (23.0180474, 76.715972)
+[P3] Ashta: supply scan (page 1) for 3 categories
+  [ok] maps Ashta / medical store: HTTP 200, 1.85s, credits used (measured): 1
+     medical store: 20 results (20 unique), next page: True
+       ids: data_id 20/20, place_id 20/20 | rating 18/20, review count 18/20
+       HOURS: weekly schedule 16/20 (80%), status text 16/20
+       locality: within 3 km 19, within 10 km 20, median distance 1.0 km
+       hour samples: ['9\u202fAM–10\u202fPM', '9\u202fAM–11\u202fPM', 'Open 24 hours', '8\u202fAM–12\u202fAM', '12–8:30\u202fAM', '8\u202fAM–11\u202fPM']
+       non-ASCII chars inside hour strings (parser must handle): ['U+2013', 'U+202F']
+  [ok] maps Ashta / dentist: HTTP 200, 1.11s, credits used (measured): 1
+     dentist: 11 results (11 unique), next page: False
+       ids: data_id 11/11, place_id 11/11 | rating 7/11, review count 7/11
+       HOURS: weekly schedule 9/11 (82%), status text 9/11
+       locality: within 3 km 11, within 10 km 11, median distance 0.9 km
+       hour samples: ['Closed', '10:30\u202fAM–7:30\u202fPM', '9:30\u202fAM–7:30\u202fPM', '10\u202fAM–8\u202fPM', '10\u202fAM–7\u202fPM', '10\u202fAM–6\u202fPM']
+       non-ASCII chars inside hour strings (parser must handle): ['U+2013', 'U+202F']
+  [ok] maps Ashta / gym: HTTP 200, 1.14s, credits used (measured): 1
+     gym: 20 results (20 unique), next page: True
+       ids: data_id 20/20, place_id 20/20 | rating 17/20, review count 17/20
+       HOURS: weekly schedule 15/20 (75%), status text 16/20
+       locality: within 3 km 12, within 10 km 12, median distance 2.1 km
+       hour samples: ['Closed', '6\u202fAM–12\u202fPM, 4–11\u202fPM', '10\u202fAM–12\u202fPM', '5\u202fAM–10\u202fPM', '5\u202fAM–11\u202fPM', '3–6\u202fAM']
+       non-ASCII chars inside hour strings (parser must handle): ['U+2013', 'U+202F']
+
+[P2] Bhopal: locate town centre with Google Maps
+  [ok] maps geocode Bhopal: HTTP 200, 1.84s, credits used (measured): 1
+     centre from place_results: (23.2599333, 77.412615)
+[P3] Bhopal: supply scan (page 1) for 3 categories
+  [ok] maps Bhopal / medical store: HTTP 200, 3.65s, credits used (measured): 1
+     medical store: 20 results (20 unique), next page: True
+       ids: data_id 20/20, place_id 20/20 | rating 20/20, review count 20/20
+       HOURS: weekly schedule 20/20 (100%), status text 20/20
+       locality: within 3 km 4, within 10 km 20, median distance 4.9 km
+       hour samples: ['8\u202fAM–11\u202fPM', '10:30\u202fAM–12\u202fAM', '9\u202fAM–10:30\u202fPM', '8:30\u202fAM–10\u202fPM', '10\u202fAM–10\u202fPM', 'Closed']
+       non-ASCII chars inside hour strings (parser must handle): ['U+2013', 'U+202F']
+  [ok] maps Bhopal / dentist: HTTP 200, 1.03s, credits used (measured): 0
+     dentist: 20 results (20 unique), next page: True
+       ids: data_id 20/20, place_id 20/20 | rating 20/20, review count 20/20
+       HOURS: weekly schedule 20/20 (100%), status text 20/20
+       locality: within 3 km 1, within 10 km 20, median distance 5.0 km
+       hour samples: ['Open 24 hours', '9\u202fAM–9\u202fPM', '10\u202fAM–10\u202fPM', '12–8\u202fPM', '10:30\u202fAM–9:30\u202fPM', '9\u202fAM–10\u202fPM']
+       non-ASCII chars inside hour strings (parser must handle): ['U+2013', 'U+202F']
+  [ok] maps Bhopal / gym: HTTP 200, 1.14s, credits used (measured): 1
+     gym: 20 results (20 unique), next page: True
+       ids: data_id 20/20, place_id 20/20 | rating 20/20, review count 20/20
+       HOURS: weekly schedule 20/20 (100%), status text 20/20
+       locality: within 3 km 8, within 10 km 20, median distance 4.1 km
+       hour samples: ['7–10\u202fAM, 5–9\u202fPM', '5\u202fAM–10\u202fPM', '9\u202fAM–12\u202fAM', '6\u202fAM–12\u202fAM', '8\u202fAM–9\u202fPM', '5–9\u202fPM']
+       non-ASCII chars inside hour strings (parser must handle): ['U+2013', 'U+202F']
+
+[P2] Indore: locate town centre with Google Maps
+  [ok] maps geocode Indore: HTTP 200, 1.04s, credits used (measured): 0
+     centre from place_results: (22.7195687, 75.8577258)
+[P3] Indore: supply scan (page 1) for 3 categories
+  [ok] maps Indore / medical store: HTTP 200, 1.64s, credits used (measured): 1
+     medical store: 20 results (20 unique), next page: True
+       ids: data_id 20/20, place_id 20/20 | rating 20/20, review count 20/20
+       HOURS: weekly schedule 19/20 (95%), status text 19/20
+       locality: within 3 km 2, within 10 km 20, median distance 4.6 km
+       hour samples: ['9\u202fAM–10\u202fPM', '11\u202fAM–11:30\u202fPM', '10\u202fAM–11:30\u202fPM', '10\u202fAM–12\u202fAM', '10:30\u202fAM–12\u202fAM', '8\u202fAM–12\u202fAM']
+       non-ASCII chars inside hour strings (parser must handle): ['U+2013', 'U+202F']
+  [ok] maps Indore / dentist: HTTP 200, 1.84s, credits used (measured): 0
+     dentist: 20 results (20 unique), next page: True
+       ids: data_id 20/20, place_id 20/20 | rating 20/20, review count 20/20
+       HOURS: weekly schedule 19/20 (95%), status text 19/20
+       locality: within 3 km 5, within 10 km 20, median distance 3.7 km
+       hour samples: ['10:15\u202fAM–2:30\u202fPM', '10:30\u202fAM–9:15\u202fPM', '11\u202fAM–5\u202fPM', '11\u202fAM–9\u202fPM', '10\u202fAM–8\u202fPM', '6\u202fAM–11\u202fPM']
+       non-ASCII chars inside hour strings (parser must handle): ['U+2013', 'U+202F']
+  [ok] maps Indore / gym: HTTP 200, 1.07s, credits used (measured): 1
+     gym: 20 results (20 unique), next page: True
+       ids: data_id 20/20, place_id 20/20 | rating 20/20, review count 20/20
+       HOURS: weekly schedule 20/20 (100%), status text 20/20
+       locality: within 3 km 2, within 10 km 20, median distance 4.6 km
+       hour samples: ['8\u202fAM–10\u202fPM', '6\u202fAM–10\u202fPM', '6\u202fAM–12\u202fPM, 4–10\u202fPM', 'Closed', '5:30\u202fAM–10\u202fPM', '5:30\u202fAM–10:30\u202fPM']
+       non-ASCII chars inside hour strings (parser must handle): ['U+2013', 'U+202F']
+
+[P3b] Pagination: page 2 (start=20) - is it a real second page?
+  [ok] maps Indore / medical store start=20: HTTP 200, 1.51s, credits used (measured): 1
+     page 2: 20 results (20 unique), next page: True
+       ids: data_id 20/20, place_id 20/20 | rating 20/20, review count 20/20
+       HOURS: weekly schedule 19/20 (95%), status text 19/20
+       locality: within 3 km 5, within 10 km 20, median distance 4.3 km
+       hour samples: ['8\u202fAM–11:30\u202fPM', '7:30\u202fAM–11\u202fPM', '9\u202fAM–2\u202fPM, 5–10:30\u202fPM', '9\u202fAM–12\u202fAM', '9\u202fAM–11\u202fPM', '10\u202fAM–11\u202fPM']
+       non-ASCII chars inside hour strings (parser must handle): ['U+2013', 'U+202F']
+       overlap between page 1 and page 2: 2 places
+
+[P3c] Locality variant for Ashta: put the town in the query text instead of using ll
+  [ok] maps Ashta text-query / medical store: HTTP 200, 1.03s, credits used (measured): 1
+     text-query: 20 results (20 unique), next page: True
+       ids: data_id 20/20, place_id 20/20 | rating 19/20, review count 19/20
+       HOURS: weekly schedule 15/20 (75%), status text 15/20
+       locality: within 3 km 20, within 10 km 20, median distance 1.0 km
+       hour samples: ['Open 24 hours', '9\u202fAM–10\u202fPM', '9\u202fAM–11\u202fPM', '8\u202fAM–11\u202fPM', '9:30\u202fAM–11\u202fPM', '8\u202fAM–12\u202fAM']
+       non-ASCII chars inside hour strings (parser must handle): ['U+2013', 'U+202F']
+
+[P4] Open-hour filter: open_on_day=mon + open_at_hour=23 (does it really filter?)
+  [ok] maps Indore / medical store open Mon 23h: HTTP 200, 1.34s, credits used (measured): 1
+     filtered: 20 results (20 unique), next page: True
+       ids: data_id 20/20, place_id 20/20 | rating 20/20, review count 20/20
+       HOURS: weekly schedule 20/20 (100%), status text 20/20
+       locality: within 3 km 5, within 10 km 20, median distance 5.0 km
+       hour samples: ['8\u202fAM–12\u202fAM', '8:30\u202fAM–12\u202fAM', '9\u202fAM–11:30\u202fPM', '9\u202fAM–12\u202fAM', '11\u202fAM–11:30\u202fPM', '10\u202fAM–11:30\u202fPM']
+       non-ASCII chars inside hour strings (parser must handle): ['U+2013', 'U+202F']
+       unfiltered result count: 20  vs  filtered: 20
+
+[P5] Reviews for one busy place (126 reviews in listing)
+  [ok] reviews default: HTTP 200, 2.25s, credits used (measured): 1
+     default: 5 reviews, 5 with text, topics: 6 [('medicine availability', 29), ('discount', 12), ('rate', 4), ('treatment', 2), ('medical store', 10), ('behaviour', 4)]
+       next_page_token present: True, hindi/devanagari texts: 0
+  [ok] reviews sort_by=ratingLow: HTTP 200, 1.13s, credits used (measured): 1
+     ratingLow: 5 reviews, first ratings: [1.0, 1.0, 1.0, 1.0, 2.0], with text: 3
+  [ok] reviews query=closed: HTTP 200, 1.85s, credits used (measured): 0
+     query='closed': 0 reviews, with text: 0
+
+[P6] Google Trends, geo=IN-MP, 5 terms in one call
+  [ok] trends TIMESERIES x5: HTTP 200, 1.31s, credits used (measured): 1
+     timeseries: keys ['interest_over_time'], points 54
+  [ok] trends GEO_MAP region=CITY: HTTP 200, 6.2s, credits used (measured): 2
+     GEO_MAP CITY: 2 regions, sample ['Badnawar', 'Kanai Tola'], demo towns present: []
+  [EMPTY] trends GEO_MAP region=DMA: HTTP 200, 2.26s, credits used (measured): 0
+     GEO_MAP DMA: 0 regions, sample []
+  [ok] trends RELATED_QUERIES x1: HTTP 200, 3.68s, credits used (measured): 1
+     related queries: rising 10, top 24
+
+[P7] Google Autocomplete
+  [ok] autocomplete 'medical store Ashta': HTTP 200, 0.81s, credits used (measured): 1
+     11 suggestions, fields: ['relevance', 'serpapi_link', 'type', 'value']
+     sample: ['medical shop ashtamichira', 'drug store ashta', 'medical supply store ashtabula ohio', 'neethi medical store ashtamichira', 'astha medical store', 'hariom medical store ashta']
+  [ok] autocomplete 'medical store Indore': HTTP 200, 0.76s, credits used (measured): 1
+[P8] Cache probe: repeat the IDENTICAL autocomplete call (expect 0 credits if cached)
+  [ok] autocomplete REPEAT (cache test): HTTP 200, 0.04s, credits used (measured): 1
+
+[P9] Google News
+  [ok] news Ashta: HTTP 200, 1.44s, credits used (measured): 1
+     54 items, 'source' field types: {'dict': 54}, with date: 54
+     sample title: Ashta Air Quality Index (AQI) and India Air Pollution
+  [ok] news Indore industry: HTTP 200, 2.15s, credits used (measured): 0
+     100 items, 'source' field types: {'dict': 100}, with date: 100
+     sample title: ‘Udyam Samagam’ in Indore on October 2-3: CM to attend; Laghu Udyog Bharati to bring entrepreneurs, govt an...
+
+[P10] Error probe: Maps search with no query (expect an error and 0 credits)
+  [ERROR] maps missing q (error probe): HTTP 400, 0.41s, credits used (measured): 0
+       error message: Missing query `q` parameter.
+
+TOTAL credits consumed this run (Account API): 25  | calls attempted: 28
+
+========================================================================
+SUMMARY
+========================================================================
+  Ashta   medical store  results 20 | within 10 km 20 | within 3 km 19 | weekly hours  80% | DENSE
+  Ashta   dentist        results 11 | within 10 km 11 | within 3 km 11 | weekly hours  82% | USABLE
+  Ashta   gym            results 20 | within 10 km 12 | within 3 km 12 | weekly hours  75% | USABLE
+  Bhopal  medical store  results 20 | within 10 km 20 | within 3 km  4 | weekly hours 100% | DENSE
+  Bhopal  dentist        results 20 | within 10 km 20 | within 3 km  1 | weekly hours 100% | DENSE
+  Bhopal  gym            results 20 | within 10 km 20 | within 3 km  8 | weekly hours 100% | DENSE
+  Indore  medical store  results 20 | within 10 km 20 | within 3 km  2 | weekly hours  95% | DENSE
+  Indore  dentist        results 20 | within 10 km 20 | within 3 km  5 | weekly hours  95% | DENSE
+  Indore  gym            results 20 | within 10 km 20 | within 3 km  2 | weekly hours 100% | DENSE
+  pagination overlap page1/page2: 2
+  open-hour filter counts (unfiltered, filtered): (20, 20)
+  reviews topics available: True | ratingLow returns low stars: True
+  trends CITY regions: 2 | demo towns in CITY data: []
+  cache repeat credit delta (0 = cached & free): 1
+  error probe credit delta (0 = errors free): 0
+  total credits used by this run: 25
+
+========================================================================
+GEMINI PROBES
+========================================================================
+[G1] Key works. 61 models visible to this key.
+     flash-family models supporting generateContent: ['gemini-2.5-flash', 'gemini-2.5-flash-image', 'gemini-2.5-flash-lite', 'gemini-2.5-flash-preview-tts', 'gemini-3-flash-preview', 'gemini-3.1-flash-image', 'gemini-3.1-flash-image-preview', 'gemini-3.1-flash-lite', 'gemini-3.1-flash-lite-image', 'gemini-3.1-flash-lite-preview', 'gemini-3.1-flash-tts-preview', 'gemini-3.5-flash', 'gemini-3.5-flash-lite', 'gemini-3.6-flash', 'gemini-3.7-flash', 'gemini-3.8-flash', 'gemini-3.8-flash-lite-tts', 'gemini-3.8-flash-tts', 'gemini-flash-latest', 'gemini-flash-lite-latest', 'gemini-omni-1.1-flash', 'gemini-omni-flash-preview']
+[G2] Structured-JSON probe on candidates (in preference order): ['gemini-3.8-flash', 'gemini-3.7-flash', 'gemini-3.6-flash', 'gemini-3.5-flash']
+     gemini-3.8-flash: PASS | HTTP 200 | latency 9.05s | schema field: responseJsonSchema | grounded quotes: 3/3 | injection followed: False
+     gemini-3.7-flash: PASS | HTTP 200 | latency 6.27s | schema field: responseJsonSchema | grounded quotes: 3/3 | injection followed: False
+     gemini-3.6-flash: PASS | HTTP 200 | latency 4.95s | schema field: responseJsonSchema | grounded quotes: 3/3 | injection followed: False
+     gemini-3.5-flash: PASS | HTTP 200 | latency 4.49s | schema field: responseJsonSchema | grounded quotes: 3/3 | injection followed: False
+[G3] Recommended GEMINI_MODEL for .env: gemini-3.8-flash
+     (A 429 with 'limit: 0' usually means that model is not on your free tier.)

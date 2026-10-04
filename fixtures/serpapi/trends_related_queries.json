@@ -1,0 +1,284 @@
+{
+  "_meta": {
+    "label": "trends RELATED_QUERIES x1",
+    "engine": "google_trends",
+    "params": {
+      "engine": "google_trends",
+      "q": "medical store",
+      "geo": "IN-MP",
+      "date": "today 12-m",
+      "hl": "en",
+      "tz": "-330",
+      "data_type": "RELATED_QUERIES"
+    },
+    "recorded_at": "2026-10-04T14:21:19.993993+00:00",
+    "http_status": 200,
+    "elapsed_s": 3.68,
+    "credit_delta_measured": 1,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac260daeeabd3c1c76d521f",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/7mr0k30i5ongh1-wYhee4kMY-dSCcg8EXnCdeVLcbEU/6ac260daeeabd3c1c76d521f.md",
+      "created_at": "2026-10-04 14:21:14 UTC",
+      "processed_at": "2026-10-04 14:21:14 UTC",
+      "google_trends_url": "https://trends.google.com/trends/embed/explore/RELATED_QUERIES?hl=en&tz=-330&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22medical+store%22%2C%22geo%22%3A%22IN-MP%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+      "total_time_taken": 3.37
+    },
+    "search_parameters": {
+      "engine": "google_trends",
+      "q": "medical store",
+      "hl": "en",
+      "geo": "IN-MP",
+      "date": "today 12-m",
+      "tz": "-330",
+      "data_type": "RELATED_QUERIES"
+    },
+    "related_queries": {
+      "rising": [
+        {
+          "query": "big medical store near me",
+          "value": "Breakout",
+          "extracted_value": 38450,
+          "link": "https://trends.google.com/trends/explore?q=big+medical+store+near+me&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=big+medical+store+near+me&tz=-330"
+        },
+        {
+          "query": "jan aushadhi medical store ka sambandh hai",
+          "value": "Breakout",
+          "extracted_value": 23450,
+          "link": "https://trends.google.com/trends/explore?q=jan+aushadhi+medical+store+ka+sambandh+hai&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=jan+aushadhi+medical+store+ka+sambandh+hai&tz=-330"
+        },
+        {
+          "query": "arogya medical store indore",
+          "value": "+850%",
+          "extracted_value": 850,
+          "link": "https://trends.google.com/trends/explore?q=arogya+medical+store+indore&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=arogya+medical+store+indore&tz=-330"
+        },
+        {
+          "query": "pradhan mantri medical store near me",
+          "value": "+190%",
+          "extracted_value": 190,
+          "link": "https://trends.google.com/trends/explore?q=pradhan+mantri+medical+store+near+me&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=pradhan+mantri+medical+store+near+me&tz=-330"
+        },
+        {
+          "query": "royal medical store",
+          "value": "+150%",
+          "extracted_value": 150,
+          "link": "https://trends.google.com/trends/explore?q=royal+medical+store&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=royal+medical+store&tz=-330"
+        },
+        {
+          "query": "bharat medical store",
+          "value": "+90%",
+          "extracted_value": 90,
+          "link": "https://trends.google.com/trends/explore?q=bharat+medical+store&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=bharat+medical+store&tz=-330"
+        },
+        {
+          "query": "online medical store",
+          "value": "+60%",
+          "extracted_value": 60,
+          "link": "https://trends.google.com/trends/explore?q=online+medical+store&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=online+medical+store&tz=-330"
+        },
+        {
+          "query": "nearest medical store to me",
+          "value": "+60%",
+          "extracted_value": 60,
+          "link": "https://trends.google.com/trends/explore?q=nearest+medical+store+to+me&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=nearest+medical+store+to+me&tz=-330"
+        },
+        {
+          "query": "near by medical store",
+          "value": "+50%",
+          "extracted_value": 50,
+          "link": "https://trends.google.com/trends/explore?q=near+by+medical+store&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=near+by+medical+store&tz=-330"
+        },
+        {
+          "query": "pradhanmantri medical store near me",
+          "value": "+50%",
+          "extracted_value": 50,
+          "link": "https://trends.google.com/trends/explore?q=pradhanmantri+medical+store+near+me&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=pradhanmantri+medical+store+near+me&tz=-330"
+        }
+      ],
+      "top": [
+        {
+          "query": "medical store near me",
+          "value": "100",
+          "extracted_value": 100,
+          "link": "https://trends.google.com/trends/explore?q=medical+store+near+me&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=medical+store+near+me&tz=-330"
+        },
+        {
+          "query": "medical near me",
+          "value": "99",
+          "extracted_value": 99,
+          "link": "https://trends.google.com/trends/explore?q=medical+near+me&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=medical+near+me&tz=-330"
+        },
+        {
+          "query": "near medical store near me",
+          "value": "98",
+          "extracted_value": 98,
+          "link": "https://trends.google.com/trends/explore?q=near+medical+store+near+me&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=near+medical+store+near+me&tz=-330"
+        },
+        {
+          "query": "online medical store",
+          "value": "13",
+          "extracted_value": 13,
+          "link": "https://trends.google.com/trends/explore?q=online+medical+store&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=online+medical+store&tz=-330"
+        },
+        {
+          "query": "near by medical store",
+          "value": "9",
+          "extracted_value": 9,
+          "link": "https://trends.google.com/trends/explore?q=near+by+medical+store&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=near+by+medical+store&tz=-330"
+        },
+        {
+          "query": "shiv medical store",
+          "value": "6",
+          "extracted_value": 6,
+          "link": "https://trends.google.com/trends/explore?q=shiv+medical+store&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=shiv+medical+store&tz=-330"
+        },
+        {
+          "query": "bharat medical store",
+          "value": "5",
+          "extracted_value": 5,
+          "link": "https://trends.google.com/trends/explore?q=bharat+medical+store&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=bharat+medical+store&tz=-330"
+        },
+        {
+          "query": "nearby medical store",
+          "value": "4",
+          "extracted_value": 4,
+          "link": "https://trends.google.com/trends/explore?q=nearby+medical+store&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=nearby+medical+store&tz=-330"
+        },
+        {
+          "query": "nearest medical store",
+          "value": "4",
+          "extracted_value": 4,
+          "link": "https://trends.google.com/trends/explore?q=nearest+medical+store&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=nearest+medical+store&tz=-330"
+        },
+        {
+          "query": "ayurvedic medical store near me",
+          "value": "3",
+          "extracted_value": 3,
+          "link": "https://trends.google.com/trends/explore?q=ayurvedic+medical+store+near+me&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=ayurvedic+medical+store+near+me&tz=-330"
+        },
+        {
+          "query": "guru medical store",
+          "value": "3",
+          "extracted_value": 3,
+          "link": "https://trends.google.com/trends/explore?q=guru+medical+store&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=guru+medical+store&tz=-330"
+        },
+        {
+          "query": "big medical store near me",
+          "value": "3",
+          "extracted_value": 3,
+          "link": "https://trends.google.com/trends/explore?q=big+medical+store+near+me&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=big+medical+store+near+me&tz=-330"
+        },
+        {
+          "query": "medical store near me open now",
+          "value": "2",
+          "extracted_value": 2,
+          "link": "https://trends.google.com/trends/explore?q=medical+store+near+me+open+now&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=medical+store+near+me+open+now&tz=-330"
+        },
+        {
+          "query": "pet medical store near me",
+          "value": "2",
+          "extracted_value": 2,
+          "link": "https://trends.google.com/trends/explore?q=pet+medical+store+near+me&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=pet+medical+store+near+me&tz=-330"
+        },
+        {
+          "query": "shri ram medical store",
+          "value": "2",
+          "extracted_value": 2,
+          "link": "https://trends.google.com/trends/explore?q=shri+ram+medical+store&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=shri+ram+medical+store&tz=-330"
+        },
+        {
+          "query": "apollo medical store near me",
+          "value": "2",
+          "extracted_value": 2,
+          "link": "https://trends.google.com/trends/explore?q=apollo+medical+store+near+me&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=apollo+medical+store+near+me&tz=-330"
+        },
+        {
+          "query": "pradhan mantri medical store near me",
+          "value": "2",
+          "extracted_value": 2,
+          "link": "https://trends.google.com/trends/explore?q=pradhan+mantri+medical+store+near+me&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=pradhan+mantri+medical+store+near+me&tz=-330"
+        },
+        {
+          "query": "apna medical store",
+          "value": "2",
+          "extracted_value": 2,
+          "link": "https://trends.google.com/trends/explore?q=apna+medical+store&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=apna+medical+store&tz=-330"
+        },
+        {
+          "query": "royal medical store",
+          "value": "2",
+          "extracted_value": 2,
+          "link": "https://trends.google.com/trends/explore?q=royal+medical+store&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=royal+medical+store&tz=-330"
+        },
+        {
+          "query": "nearest medical store to me",
+          "value": "2",
+          "extracted_value": 2,
+          "link": "https://trends.google.com/trends/explore?q=nearest+medical+store+to+me&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=nearest+medical+store+to+me&tz=-330"
+        },
+        {
+          "query": "jan aushadhi medical store ka sambandh hai",
+          "value": "2",
+          "extracted_value": 2,
+          "link": "https://trends.google.com/trends/explore?q=jan+aushadhi+medical+store+ka+sambandh+hai&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=jan+aushadhi+medical+store+ka+sambandh+hai&tz=-330"
+        },
+        {
+          "query": "pradhanmantri medical store near me",
+          "value": "1",
+          "extracted_value": 1,
+          "link": "https://trends.google.com/trends/explore?q=pradhanmantri+medical+store+near+me&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=pradhanmantri+medical+store+near+me&tz=-330"
+        },
+        {
+          "query": "shiv medical store bhopal",
+          "value": "1",
+          "extracted_value": 1,
+          "link": "https://trends.google.com/trends/explore?q=shiv+medical+store+bhopal&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=shiv+medical+store+bhopal&tz=-330"
+        },
+        {
+          "query": "arogya medical store indore",
+          "value": "<1",
+          "extracted_value": 0,
+          "link": "https://trends.google.com/trends/explore?q=arogya+medical+store+indore&date=today+12-m&geo=IN-MP",
+          "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN-MP&hl=en&q=arogya+medical+store+indore&tz=-330"
+        }
+      ]
+    }
+  }
+}

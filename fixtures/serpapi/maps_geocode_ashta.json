@@ -1,0 +1,155 @@
+{
+  "_meta": {
+    "label": "maps geocode Ashta",
+    "engine": "google_maps",
+    "params": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "Ashta, Madhya Pradesh",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:19:44.009267+00:00",
+    "http_status": 200,
+    "elapsed_s": 0.88,
+    "credit_delta_measured": 0,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac2607d6f082bc1edfc03df",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/OVsm-4Oqc6baY5UUtGurVBBl593dsB17QJ1FREwxWQQ/6ac2607d6f082bc1edfc03df.md",
+      "created_at": "2026-10-04 14:19:41 UTC",
+      "processed_at": "2026-10-04 14:19:41 UTC",
+      "google_maps_url": "https://www.google.com/maps/search/Ashta%2C+Madhya+Pradesh//data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+      "total_time_taken": 0.55
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "Ashta, Madhya Pradesh",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Showing results for type: \"place\" instead of type: \"search\"",
+      "query_displayed": "Ashta, Madhya Pradesh"
+    },
+    "place_results": {
+      "title": "Ashta",
+      "place_id": "ChIJB2eACbDEfDkRwQ2AJOvIaGI",
+      "data_id": "0x397cc4b009806707:0x6268c8eb24800dc1",
+      "data_cid": "7091138525550087617",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc4b009806707%3A0x6268c8eb24800dc1&engine=google_maps_reviews&hl=en",
+      "gps_coordinates": {
+        "latitude": 23.0180474,
+        "longitude": 76.715972
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB2eACbDEfDkRwQ2AJOvIaGI",
+      "provider_id": "/m/0f06gj",
+      "description": {
+        "snippet": "Ashta is a city and a municipality in Sehore district in the state of Madhya Pradesh, India.",
+        "link": "https://en.wikipedia.org/wiki/Ashta,_Madhya_Pradesh",
+        "source": "Wikipedia"
+      },
+      "address": "Madhya Pradesh 466116, India",
+      "country": "India",
+      "weather": {
+        "conditions": "Clear",
+        "conditions_thumbnail": "https://ssl.gstatic.com/onebox/weather/32/sunny.png",
+        "celsius": "27°C",
+        "fahrenheit": "81°F"
+      },
+      "web_results_link": "https://www.google.com/search?q=local+guide+program&ibp=gwp;0,26,OigKJiIiQXNodGEgQXNodGEsIE1hZGh5YSBQcmFkZXNoLCBJbmRpYSgC&pcl=lp",
+      "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COigKJiIiQXNodGEgQXNodGEsIE1hZGh5YSBQcmFkZXNoLCBJbmRpYSgC&q=local+guide+program",
+      "vacation_rentals": [
+        {
+          "position": 1,
+          "title": "4S Hotel",
+          "price": "$17",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x397cc5c32e3898e7:0x5c2aa38bc9bc85eb",
+          "data_cid": "6641300421291574763",
+          "place_id": "ChIJ55g4LsPFfDkR64W8yYujKlw",
+          "gps_coordinates": {
+            "latitude": 23.033929,
+            "longitude": 76.709144
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ55g4LsPFfDkR64W8yYujKlw"
+        },
+        {
+          "position": 2,
+          "title": "Nilaya Resort",
+          "property_type": "3-star hotel",
+          "price": "$62",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x397cce024c3e4c63:0x225fadcedd0e55d5",
+          "data_cid": "2476889424060634581",
+          "place_id": "ChIJY0w-TALOfDkR1VUO3c6tXyI",
+          "gps_coordinates": {
+            "latitude": 22.997603,
+            "longitude": 76.556058
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY0w-TALOfDkR1VUO3c6tXyI"
+        },
+        {
+          "position": 3,
+          "title": "Hotel SR Kilerama",
+          "price": "$17",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x397cc300058e9151:0x6180464fdf65e6fd",
+          "data_cid": "7025692727562331901",
+          "place_id": "ChIJUZGOBQDDfDkR_eZl309GgGE",
+          "gps_coordinates": {
+            "latitude": 23.03629,
+            "longitude": 76.743854
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUZGOBQDDfDkR_eZl309GgGE"
+        },
+        {
+          "position": 4,
+          "title": "MPT Tourist Motel, Dodi",
+          "property_type": "3-star hotel",
+          "price": "$23",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x397ccfd00ef26a8b:0xb48a710aa667f459",
+          "data_cid": "13009334764168541273",
+          "place_id": "ChIJi2ryDtDPfDkRWfRnpgpxirQ",
+          "gps_coordinates": {
+            "latitude": 23.007761,
+            "longitude": 76.593853
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi2ryDtDPfDkRWfRnpgpxirQ"
+        },
+        {
+          "position": 5,
+          "title": "Hotel Arpita",
+          "price": "$8",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x397cdb00387ad7d7:0xa2d9b54d0e789221",
+          "data_cid": "11734609646650429985",
+          "place_id": "ChIJ19d6OADbfDkRIZJ4Dk212aI",
+          "gps_coordinates": {
+            "latitude": 22.990467,
+            "longitude": 76.721592
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ19d6OADbfDkRIZJ4Dk212aI"
+        },
+        {
+          "position": 6,
+          "title": "Tiger Safari Lodge",
+          "price": "$18",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x397cce0187a5d3b1:0xd41964c05e3055b6",
+          "data_cid": "15283357587835213238",
+          "place_id": "ChIJsdOlhwHOfDkRtlUwXsBkGdQ",
+          "gps_coordinates": {
+            "latitude": 22.997066,
+            "longitude": 76.554478
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsdOlhwHOfDkRtlUwXsBkGdQ"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,802 @@
+{
+  "_meta": {
+    "label": "maps Bhopal / gym",
+    "engine": "google_maps",
+    "params": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "gym",
+      "ll": "@23.2599333,77.412615,14z",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:20:14.537137+00:00",
+    "http_status": 200,
+    "elapsed_s": 1.14,
+    "credit_delta_measured": 1,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac2609b17bdbf7d318732e1",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/c_bStNYsSGmeJ7ACkfS4NGpZM0NvngvmYINQEqrwjcE/6ac2609b17bdbf7d318732e1.md",
+      "created_at": "2026-10-04 14:20:11 UTC",
+      "processed_at": "2026-10-04 14:20:11 UTC",
+      "google_maps_url": "https://www.google.com/maps/search/gym/@23.2599333,77.412615,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+      "total_time_taken": 0.79
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "gym",
+      "ll": "@23.2599333,77.412615,14z",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Results for exact spelling",
+      "query_displayed": "gym"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "Forge Fitness Gym Bhopal",
+        "place_id": "ChIJE8MAZ4BBfDkRTVhYBo2PpZ8",
+        "data_id": "0x397c41806700c313:0x9fa58f8d0658584d",
+        "data_cid": "11503758659047413837",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c41806700c313%3A0x9fa58f8d0658584d&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.227786599999998,
+          "longitude": 77.4873841
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJE8MAZ4BBfDkRTVhYBo2PpZ8",
+        "provider_id": "/g/11tt8d1m3f",
+        "rating": 4.8,
+        "reviews": 380,
+        "type": "Fitness center",
+        "types": [
+          "Fitness center"
+        ],
+        "address": "Plot no. 52, Samanvay Nagar, Awadhpuri, Bhopal, Madhya Pradesh 462022, India",
+        "country": "India",
+        "open_state": "Open · Closes 9 PM",
+        "hours": "Open · Closes 9 PM",
+        "operating_hours": {
+          "sunday": "7–10 AM, 5–9 PM",
+          "monday": "5 AM–10 PM",
+          "tuesday": "5 AM–10 PM",
+          "wednesday": "5 AM–10 PM",
+          "thursday": "5 AM–10 PM",
+          "friday": "5 AM–10 PM",
+          "saturday": "5 AM–10 PM"
+        },
+        "phone": "+91 78286 15186",
+        "website": "http://www.forgefitnessbpl.com/"
+      },
+      {
+        "position": 2,
+        "title": "Anytime 24×7 Gym",
+        "place_id": "ChIJQ72mYgBnfDkROJ3R0U1IIpo",
+        "data_id": "0x397c670062a6bd43:0x9a22484dd1d19d38",
+        "data_cid": "11106519130118921528",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c670062a6bd43%3A0x9a22484dd1d19d38&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2802153,
+          "longitude": 77.3543935
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ72mYgBnfDkROJ3R0U1IIpo",
+        "provider_id": "/g/11wqv_mm2l",
+        "rating": 4.9,
+        "reviews": 273,
+        "unclaimed_listing": true,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "79J3+3QJ, infront of bikaner sweets and namkeen, CTO Rd, Data Colony, Lalghati, Bhopal, Madhya Pradesh 462030, India",
+        "country": "India",
+        "open_state": "Open · Closes 12 AM",
+        "hours": "Open · Closes 12 AM",
+        "operating_hours": {
+          "sunday": "9 AM–12 AM",
+          "monday": "6 AM–12 AM",
+          "tuesday": "6 AM–12 AM",
+          "wednesday": "6 AM–12 AM",
+          "thursday": "6 AM–12 AM",
+          "friday": "6 AM–12 AM",
+          "saturday": "6 AM–12 AM"
+        },
+        "phone": "+91 87708 57372"
+      },
+      {
+        "position": 3,
+        "title": "Vishal Fitness Planet (United Sports Arena) - Gym and Fitness Centre in Idgah Hills",
+        "place_id": "ChIJb4JLoNtpfDkRfEo3gINFQbw",
+        "data_id": "0x397c69dba04b826f:0xbc41458380374a7c",
+        "data_cid": "13565199983710784124",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c69dba04b826f%3A0xbc41458380374a7c&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2650746,
+          "longitude": 77.3890845
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJb4JLoNtpfDkRfEo3gINFQbw",
+        "provider_id": "/g/11w2358d6d",
+        "rating": 4.8,
+        "reviews": 216,
+        "type": "Fitness center",
+        "types": [
+          "Fitness center"
+        ],
+        "address": "Convent Road, Rehag Colony, Idgah Hills, Bhopal, Madhya Pradesh 462001, India",
+        "country": "India",
+        "open_state": "Open · Closes 9 PM",
+        "hours": "Open · Closes 9 PM",
+        "operating_hours": {
+          "sunday": "8 AM–9 PM",
+          "monday": "6 AM–12 AM",
+          "tuesday": "6 AM–12 AM",
+          "wednesday": "6 AM–12 AM",
+          "thursday": "6 AM–12 AM",
+          "friday": "6 AM–12 AM",
+          "saturday": "6 AM–12 AM"
+        },
+        "website": "https://www.vishalfitness.com/"
+      },
+      {
+        "position": 4,
+        "title": "URBAN FITNESS GYM",
+        "place_id": "ChIJ7YDl0lZDfDkRyNNrkwvPbIw",
+        "data_id": "0x397c4356d2e580ed:0x8c6ccf0b936bd3c8",
+        "data_cid": "10118690111419569096",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c4356d2e580ed%3A0x8c6ccf0b936bd3c8&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.255955399999998,
+          "longitude": 77.4602826
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7YDl0lZDfDkRyNNrkwvPbIw",
+        "provider_id": "/g/11kphpf5j7",
+        "rating": 4.9,
+        "reviews": 67,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "Apsara Complex, Sector A, Indrapuri, Bhopal, Madhya Pradesh 462022, India",
+        "country": "India",
+        "open_state": "Open · Closes 9 PM",
+        "hours": "Open · Closes 9 PM",
+        "operating_hours": {
+          "sunday": "5–9 PM",
+          "monday": "6 AM–10 PM",
+          "tuesday": "6 AM–10 PM",
+          "wednesday": "6 AM–10 PM",
+          "thursday": "6 AM–10 PM",
+          "friday": "6 AM–10 PM",
+          "saturday": "6 AM–10 PM"
+        },
+        "phone": "+91 93035 67193"
+      },
+      {
+        "position": 5,
+        "title": "Flesh Fitness Club by Rupesh",
+        "place_id": "ChIJe6btCLJDfDkRAKP1bxikbYc",
+        "data_id": "0x397c43b208eda67b:0x876da4186ff5a300",
+        "data_cid": "9758636392446272256",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c43b208eda67b%3A0x876da4186ff5a300&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2334717,
+          "longitude": 77.43984019999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe6btCLJDfDkRAKP1bxikbYc",
+        "provider_id": "/g/11rxwydxhn",
+        "rating": 4.9,
+        "reviews": 476,
+        "type": "Gym",
+        "types": [
+          "Gym",
+          "Fitness center"
+        ],
+        "address": "62-b Kasturba Nagar, Chetak Bridge, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011, India",
+        "country": "India",
+        "open_state": "Closes soon · 8 PM · Opens 6 AM Mon",
+        "hours": "Closes soon · 8 PM · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "11 AM–8 PM",
+          "monday": "6 AM–10 PM",
+          "tuesday": "6 AM–10 PM",
+          "wednesday": "6 AM–10 PM",
+          "thursday": "6 AM–10 PM",
+          "friday": "6 AM–10 PM",
+          "saturday": "6 AM–10 PM"
+        },
+        "phone": "+91 76976 54911",
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "The Max Fitness",
+        "place_id": "ChIJU5KjmuZnfDkRxo5dKuKqhfA",
+        "data_id": "0x397c67e69aa39253:0xf085aae22a5d8ec6",
+        "data_cid": "17331446629355327174",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c67e69aa39253%3A0xf085aae22a5d8ec6&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.268759,
+          "longitude": 77.37637889999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU5KjmuZnfDkRxo5dKuKqhfA",
+        "provider_id": "/g/11tnblwf3b",
+        "rating": 4.8,
+        "reviews": 205,
+        "type": "Gym",
+        "types": [
+          "Gym",
+          "Aerobics instructor",
+          "Fitness center",
+          "Personal trainer",
+          "Swim club",
+          "Swimming facility",
+          "Weight loss service",
+          "Yoga instructor"
+        ],
+        "address": "2nd Floor, Club Swimming Pool & Fitness Centre, Kohefiza, near Vip guest house, Kohe Fiza, Bhopal, Madhya Pradesh 462001, India",
+        "country": "India",
+        "open_state": "Open · Closes 9 PM",
+        "hours": "Open · Closes 9 PM",
+        "operating_hours": {
+          "sunday": "10 AM–9 PM",
+          "monday": "6 AM–11 PM",
+          "tuesday": "6 AM–11 PM",
+          "wednesday": "6 AM–11 PM",
+          "thursday": "6 AM–11 PM",
+          "friday": "6 AM–11 PM",
+          "saturday": "6 AM–11 PM"
+        },
+        "phone": "+91 79879 22293",
+        "website": "http://themaxfitness.in/"
+      },
+      {
+        "position": 7,
+        "title": "The Fitness Headquarters",
+        "place_id": "ChIJm3Fi3OVBfDkRZ9kssoOl5tQ",
+        "data_id": "0x397c41e5dc62719b:0xd4e6a583b22cd967",
+        "data_cid": "15341131165732755815",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c41e5dc62719b%3A0xd4e6a583b22cd967&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.247839499999998,
+          "longitude": 77.3993045
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJm3Fi3OVBfDkRZ9kssoOl5tQ",
+        "provider_id": "/g/11j7dcgxwf",
+        "rating": 4.6,
+        "reviews": 245,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "Leela Heights, Professors Colony, Bhopal, Madhya Pradesh 462002, India",
+        "country": "India",
+        "open_state": "Closed · Opens 5:30 AM Mon",
+        "hours": "Closed · Opens 5:30 AM Mon",
+        "operating_hours": {
+          "sunday": "8–11 AM",
+          "monday": "5:30 AM–12 AM",
+          "tuesday": "5:30 AM–12 AM",
+          "wednesday": "5:30 AM–12 AM",
+          "thursday": "5:30 AM–12 AM",
+          "friday": "5:30 AM–12 AM",
+          "saturday": "5:30 AM–12 AM"
+        },
+        "phone": "+91 62624 00010",
+        "website": "https://thefitnessheadquarters.in/",
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "Rockway Fitness Club",
+        "place_id": "ChIJxYLxhDVBfDkRDxLmFsUnSBU",
+        "data_id": "0x397c413584f182c5:0x154827c516e6120f",
+        "data_cid": "1533519400565871119",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c413584f182c5%3A0x154827c516e6120f&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2496981,
+          "longitude": 77.4948955
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxYLxhDVBfDkRDxLmFsUnSBU",
+        "provider_id": "/g/11gzr2q3jv",
+        "rating": 4.5,
+        "reviews": 168,
+        "type": "Fitness center",
+        "types": [
+          "Fitness center"
+        ],
+        "address": "3rd floor, petrol pump, Ishaan corporate park, near patel nagar, Bhopal, Madhya Pradesh 462022, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "5 AM–10 PM",
+          "monday": "5 AM–10 PM",
+          "tuesday": "5 AM–10 PM",
+          "wednesday": "5 AM–10 PM",
+          "thursday": "5 AM–10 PM",
+          "friday": "5 AM–10 PM",
+          "saturday": "5 AM–10 PM"
+        },
+        "phone": "+91 95845 35838",
+        "website": "https://rockwayfitness.com/"
+      },
+      {
+        "position": 9,
+        "title": "Golden's Fitness Club",
+        "place_id": "ChIJgeZMlZtBfDkRN5lOWBs2LrY",
+        "data_id": "0x397c419b954ce681:0xb62e361b584e9937",
+        "data_cid": "13127489454905137463",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c419b954ce681%3A0xb62e361b584e9937&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.219766,
+          "longitude": 77.4857837
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgeZMlZtBfDkRN5lOWBs2LrY",
+        "provider_id": "/g/11fzh_gy72",
+        "rating": 4.8,
+        "reviews": 177,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "372, Adharshila, West Block, Awadhpuri, Bhopal, Madhya Pradesh 462022, India",
+        "country": "India",
+        "open_state": "Closes soon · 8 PM · Opens 6 AM Mon",
+        "hours": "Closes soon · 8 PM · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "5:30–8 PM",
+          "monday": "6–11 AM, 4–9:30 PM",
+          "tuesday": "6–11 AM, 4–9:30 PM",
+          "wednesday": "6–11 AM, 4–9:30 PM",
+          "thursday": "6–11 AM, 4–9:30 PM",
+          "friday": "6–11 AM, 4–9:30 PM",
+          "saturday": "6–11 AM, 4–9:30 PM"
+        },
+        "phone": "+91 97532 57872"
+      },
+      {
+        "position": 10,
+        "title": "Iron Crush Gym",
+        "place_id": "ChIJZ7kYczhnfDkRXzXxnHU6zWE",
+        "data_id": "0x397c67387318b967:0x61cd3a759cf1355f",
+        "data_cid": "7047353268723332447",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c67387318b967%3A0x61cd3a759cf1355f&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2678743,
+          "longitude": 77.3379987
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ7kYczhnfDkRXzXxnHU6zWE",
+        "provider_id": "/g/11rxj8tpd2",
+        "rating": 4.8,
+        "reviews": 214,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "Mini market road, near Bank of Baroda, Block A, Hemu Kalani, Bairagarh, Bhopal, Madhya Pradesh 462030, India",
+        "country": "India",
+        "open_state": "Closed · Opens 7 AM Mon",
+        "hours": "Closed · Opens 7 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "7–11 AM, 5:30–10:30 PM",
+          "tuesday": "7–11 AM, 5:30–10:30 PM",
+          "wednesday": "7–11 AM, 5:30–10:30 PM",
+          "thursday": "7–11 AM, 5:30–10:30 PM",
+          "friday": "7–11 AM, 5:30–10:30 PM",
+          "saturday": "7–11 AM, 5:30–10:30 PM"
+        },
+        "phone": "+91 99818 38188",
+        "website": "http://www.ironcrushgym.com/",
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 11,
+        "title": "BOLD FITNESS GYM",
+        "place_id": "ChIJFZOXU5ZpfDkRVw5RY8tk3Kc",
+        "data_id": "0x397c699653979315:0xa7dc64cb63510e57",
+        "data_cid": "12095653523917704791",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c699653979315%3A0xa7dc64cb63510e57&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2635076,
+          "longitude": 77.43663289999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFZOXU5ZpfDkRVw5RY8tk3Kc",
+        "provider_id": "/g/11ll7smd7r",
+        "rating": 4.9,
+        "reviews": 136,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "near Rashi convent school, New Subhash Colony, Subhash Colony, Bhopal, Madhya Pradesh 462023, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "6–10 AM, 5–10 PM",
+          "tuesday": "6–10 AM, 5–10 PM",
+          "wednesday": "6–10 AM, 5–10 PM",
+          "thursday": "6–10 AM, 5–10 PM",
+          "friday": "6–10 AM, 5–10 PM",
+          "saturday": "6–10 AM, 5–10 PM"
+        },
+        "phone": "+91 70008 23549"
+      },
+      {
+        "position": 12,
+        "title": "Nexus fitness gym",
+        "place_id": "ChIJCwrXDnNDfDkRiL-EuP8of_I",
+        "data_id": "0x397c43730ed70a0b:0xf27f28ffb884bf88",
+        "data_cid": "17473730157998292872",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c43730ed70a0b%3A0xf27f28ffb884bf88&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2514562,
+          "longitude": 77.4633343
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCwrXDnNDfDkRiL-EuP8of_I",
+        "provider_id": "/g/11ry71mzxc",
+        "rating": 4.3,
+        "reviews": 147,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "61, Nizamuddin Rd, near Ashirwad Girls Hostel, Indrapuri C sector, Sector C, Indrapuri, Bhopal, Madhya Pradesh 462022, India",
+        "country": "India",
+        "open_state": "Open · Closes 10:30 PM",
+        "hours": "Open · Closes 10:30 PM",
+        "operating_hours": {
+          "sunday": "6 AM–10:30 PM",
+          "monday": "6 AM–10:30 PM",
+          "tuesday": "6 AM–10:30 PM",
+          "wednesday": "6 AM–10:30 PM",
+          "thursday": "6 AM–10:30 PM",
+          "friday": "6 AM–10:30 PM",
+          "saturday": "6 AM–10:30 PM"
+        },
+        "website": "http://www.nexusfitness.in/",
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 13,
+        "title": "Fitness Revolution gym",
+        "place_id": "ChIJu8gvpx9ofDkR2PEryjWXTkY",
+        "data_id": "0x397c681fa72fc8bb:0x464e9735ca2bf1d8",
+        "data_cid": "5066152888119325144",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c681fa72fc8bb%3A0x464e9735ca2bf1d8&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2551658,
+          "longitude": 77.3995149
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu8gvpx9ofDkR2PEryjWXTkY",
+        "provider_id": "/g/11c1s12ygc",
+        "rating": 4.7,
+        "reviews": 83,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "Sultania Rd, Opposite Moti Masjid, Chowki Talaiya, Talaiya, Bhopal, Madhya Pradesh 462001, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6:30 AM Mon",
+        "hours": "Closed · Opens 6:30 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "6:30 AM–11 PM",
+          "tuesday": "6:30 AM–11 PM",
+          "wednesday": "6:30 AM–11 PM",
+          "thursday": "6:30 AM–11 PM",
+          "friday": "6:30 AM–11 PM",
+          "saturday": "6:30 AM–11 PM"
+        },
+        "phone": "+91 87701 08265"
+      },
+      {
+        "position": 14,
+        "title": "Ironman Gym",
+        "place_id": "ChIJUfAo2gpCfDkRc6ACKMVmGek",
+        "data_id": "0x397c420ada28f051:0xe91966c52802a073",
+        "data_cid": "16796569282220826739",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c420ada28f051%3A0xe91966c52802a073&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2519548,
+          "longitude": 77.4360092
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUfAo2gpCfDkRc6ACKMVmGek",
+        "provider_id": "/g/11cs4fjhql",
+        "rating": 4.8,
+        "reviews": 609,
+        "type": "Fitness center",
+        "types": [
+          "Fitness center"
+        ],
+        "address": "118 Ashoka Estate, Beside Apsara Talkies, Raisen Road, Bhopal, Madhya Pradesh 462023, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "6 AM–10 PM",
+          "tuesday": "6 AM–10 PM",
+          "wednesday": "6 AM–10 PM",
+          "thursday": "6 AM–10 PM",
+          "friday": "6 AM–10 PM",
+          "saturday": "6 AM–10 PM"
+        },
+        "phone": "+91 98260 43222"
+      },
+      {
+        "position": 15,
+        "title": "Bajrang Gym",
+        "place_id": "ChIJy1sqWl1pfDkRe_NVBtyBmeQ",
+        "data_id": "0x397c695d5a2a5bcb:0xe49981dc0655f37b",
+        "data_cid": "16472339894083384187",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c695d5a2a5bcb%3A0xe49981dc0655f37b&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2554077,
+          "longitude": 77.4297903
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJy1sqWl1pfDkRe_NVBtyBmeQ",
+        "provider_id": "/g/11c1w08b5s",
+        "rating": 4.6,
+        "reviews": 173,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "Bajrang gym, Station Road, 80 Feet Rd, near narmada park, New Ashoka Garden, Ashoka Garden, Bhopal, Madhya Pradesh 462023, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "5–7 PM",
+          "monday": "6–11 AM, 5–10 PM",
+          "tuesday": "6–11 AM, 5–10 PM",
+          "wednesday": "6–11 AM, 5–10 PM",
+          "thursday": "6–11 AM, 5–10 PM",
+          "friday": "6–11 AM, 5–10 PM",
+          "saturday": "6–11 AM, 5–10 PM"
+        }
+      },
+      {
+        "position": 16,
+        "title": "The Max Fitness",
+        "place_id": "ChIJix-hM59DfDkR0TwRaMugFFY",
+        "data_id": "0x397c439f33a11f8b:0x5614a0cb68113cd1",
+        "data_cid": "6202759382280781009",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c439f33a11f8b%3A0x5614a0cb68113cd1&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.227423599999998,
+          "longitude": 77.4320856
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJix-hM59DfDkR0TwRaMugFFY",
+        "provider_id": "/g/11wfw_x_vz",
+        "rating": 4.7,
+        "reviews": 212,
+        "type": "Gym",
+        "types": [
+          "Gym",
+          "Fitness center",
+          "Personal trainer",
+          "Physical fitness program",
+          "Weight loss service",
+          "Weightlifting area"
+        ],
+        "address": "Third Floor, Gurukripa Arcade, HIG-1, beside Parul Hospital, No 6 Locality, Shivaji Nagar, ColonyBhopal, Bhopal, Madhya Pradesh 462016, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "6 AM–11 PM",
+          "monday": "6 AM–11 PM",
+          "tuesday": "6 AM–11 PM",
+          "wednesday": "6 AM–11 PM",
+          "thursday": "6 AM–11 PM",
+          "friday": "6 AM–11 PM",
+          "saturday": "6 AM–11 PM"
+        },
+        "phone": "+91 79879 22293",
+        "website": "https://www.instagram.com/themaxfitness_?igsh=ZW1uMDJmamQ1OWht",
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Assistive hearing loop",
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 17,
+        "title": "New MAD Fitness Hub",
+        "place_id": "ChIJCYioD85pfDkRzhzHNw1Z9go",
+        "data_id": "0x397c69ce0fa88809:0xaf6590d37c71cce",
+        "data_cid": "789916697955343566",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c69ce0fa88809%3A0xaf6590d37c71cce&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.253763199999998,
+          "longitude": 77.41257949999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCYioD85pfDkRzhzHNw1Z9go",
+        "provider_id": "/g/11h6r64189",
+        "rating": 4.5,
+        "reviews": 199,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "Building No.1, 2nd & 3rd Floor, Lily Talkies Rd, above V mart, Jahangirabad, Bhopal, Madhya Pradesh 462008, India",
+        "country": "India",
+        "open_state": "Closes soon · 8 PM · Opens 6 AM Mon",
+        "hours": "Closes soon · 8 PM · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "8 AM–8 PM",
+          "monday": "6 AM–1 AM",
+          "tuesday": "6 AM–1 AM",
+          "wednesday": "6 AM–1 AM",
+          "thursday": "6 AM–1 AM",
+          "friday": "6 AM–1 AM",
+          "saturday": "6 AM–1 AM"
+        },
+        "phone": "+91 97702 85481",
+        "website": "http://newmadfitnesshub.com/"
+      },
+      {
+        "position": 18,
+        "title": "Muscle Garage Gym",
+        "place_id": "ChIJLwLqMbVnfDkRYqaM_Nwwoak",
+        "data_id": "0x397c67b531ea022f:0xa9a130dcfc8ca662",
+        "data_cid": "12223104589348251234",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c67b531ea022f%3A0xa9a130dcfc8ca662&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2697188,
+          "longitude": 77.3355363
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLwLqMbVnfDkRYqaM_Nwwoak",
+        "provider_id": "/g/11s3ycr7kv",
+        "rating": 5,
+        "reviews": 141,
+        "type": "Gym",
+        "types": [
+          "Gym",
+          "Fitness center",
+          "Personal trainer",
+          "Women's personal trainer"
+        ],
+        "address": "Gidwani Park, Near, B new 18/192, Sant Hirdaram Nagar, Bhopal, Madhya Pradesh 462030, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "6–11 AM, 6–11 PM",
+          "tuesday": "6–11 AM, 6–11 PM",
+          "wednesday": "6–11 AM, 6–11 PM",
+          "thursday": "6–11 AM, 6–11 PM",
+          "friday": "6–11 AM, 6–11 PM",
+          "saturday": "6–11 AM, 6–11 PM"
+        },
+        "phone": "+91 95897 17449",
+        "website": "https://instagram.com/muscle_garage_bhopal?igshid=YmMyMTA2M2Y=",
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 19,
+        "title": "E2 Fitness",
+        "place_id": "ChIJCbR4-9NnfDkRju7mfuDHxho",
+        "data_id": "0x397c67d3fb78b409:0x1ac6c7e07ee6ee8e",
+        "data_cid": "1929449257390501518",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c67d3fb78b409%3A0x1ac6c7e07ee6ee8e&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.279565599999998,
+          "longitude": 77.3561539
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCbR4-9NnfDkRju7mfuDHxho",
+        "provider_id": "/g/11qyc3m0s2",
+        "rating": 4.7,
+        "reviews": 63,
+        "type": "Gym",
+        "types": [
+          "Gym"
+        ],
+        "address": "E-13/5, Indra Vihar Colony, Airport Road, Bhopal, Madhya Pradesh 462030, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "6–11 AM, 5–10 PM",
+          "monday": "6–11 AM, 5–10 PM",
+          "tuesday": "6–11 AM, 5–10 PM",
+          "wednesday": "6–11 AM, 5–10 PM",
+          "thursday": "6–11 AM, 5–10 PM",
+          "friday": "6–11 AM, 5–10 PM",
+          "saturday": "6–11 AM, 5–10 PM"
+        },
+        "phone": "+91 75660 90302"
+      },
+      {
+        "position": 20,
+        "title": "Fitness 24/7",
+        "place_id": "ChIJNzfToi9pfDkRtKZdWmuhkw8",
+        "data_id": "0x397c692fa2d33737:0xf93a16b5a5da6b4",
+        "data_cid": "1122418214595045044",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c692fa2d33737%3A0xf93a16b5a5da6b4&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.267532799999998,
+          "longitude": 77.3942101
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNzfToi9pfDkRtKZdWmuhkw8",
+        "provider_id": "/g/11pcm8ww3n",
+        "rating": 4.9,
+        "reviews": 31,
+        "unclaimed_listing": true,
+        "type": "Fitness center",
+        "types": [
+          "Fitness center",
+          "Gym"
+        ],
+        "address": "House No.63 1st Floor, Main Rd, opp. Yaqoob Kha Mazjid, Badabagh, Shahjahanabad, Bhopal, Madhya Pradesh 462001, India",
+        "country": "India",
+        "open_state": "Closed · Opens 6 AM Mon",
+        "hours": "Closed · Opens 6 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "6 AM–11:30 PM",
+          "tuesday": "6 AM–11:30 PM",
+          "wednesday": "6 AM–11:30 PM",
+          "thursday": "6 AM–11:30 PM",
+          "friday": "6 AM–11:30 PM",
+          "saturday": "6 AM–11:30 PM"
+        },
+        "phone": "+91 755 420 0155"
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4023.2599333%2C77.412615%2C14z&q=gym&start=20&type=search"
+    }
+  }
+}

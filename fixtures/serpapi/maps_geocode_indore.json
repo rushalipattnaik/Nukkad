@@ -1,0 +1,342 @@
+{
+  "_meta": {
+    "label": "maps geocode Indore",
+    "engine": "google_maps",
+    "params": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "Indore, Madhya Pradesh",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:20:18.222605+00:00",
+    "http_status": 200,
+    "elapsed_s": 1.04,
+    "credit_delta_measured": 0,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac2609f06ca7fb009c6bcd1",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/0255zuwHnUytUW-Ysty0YmS9pIx3insENw0oowL8WYU/6ac2609f06ca7fb009c6bcd1.md",
+      "created_at": "2026-10-04 14:20:15 UTC",
+      "processed_at": "2026-10-04 14:20:15 UTC",
+      "google_maps_url": "https://www.google.com/maps/search/Indore%2C+Madhya+Pradesh//data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+      "total_time_taken": 0.68
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "Indore, Madhya Pradesh",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Showing results for type: \"place\" instead of type: \"search\"",
+      "query_displayed": "Indore, Madhya Pradesh"
+    },
+    "place_results": {
+      "title": "Indore",
+      "place_id": "ChIJ2w1BG638YjkR9EBiNdrEbgk",
+      "data_id": "0x3962fcad1b410ddb:0x96ec4da356240f4",
+      "data_cid": "679697035257069812",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fcad1b410ddb%3A0x96ec4da356240f4&engine=google_maps_reviews&hl=en",
+      "gps_coordinates": {
+        "latitude": 22.7195687,
+        "longitude": 75.8577258
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2w1BG638YjkR9EBiNdrEbgk",
+      "provider_id": "/m/01_yvy",
+      "description": {
+        "snippet": "Indore is a city in west-central India. It’s known for the 7-story Rajwada Palace and the Lal Baag Palace, which date back to Indore’s 19th-century Holkar dynasty. The Holkar rulers are honored by a cluster of tombs and cenotaphs at Chhatri Baag. The night market Sarafa Bazar sells street food. East is the Indo-Gothic Gandhi Hall and clock tower. The Jain temple Kanch Mandir has a mirrored mosaic interior."
+      },
+      "address": "Madhya Pradesh, India",
+      "country": "India",
+      "weather": {
+        "conditions": "Clear",
+        "conditions_thumbnail": "https://ssl.gstatic.com/onebox/weather/32/sunny.png",
+        "celsius": "28°C",
+        "fahrenheit": "82°F"
+      },
+      "website": "http://www.indore.nic.in/",
+      "web_results_link": "https://www.google.com/search?q=local+guide+program&ibp=gwp;0,26,OioKKCIkSW5kb3JlIEluZG9yZSwgTWFkaHlhIFByYWRlc2gsIEluZGlhKAI&pcl=lp",
+      "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COioKKCIkSW5kb3JlIEluZG9yZSwgTWFkaHlhIFByYWRlc2gsIEluZGlhKAI&q=local+guide+program",
+      "hotels": [
+        {
+          "position": 1,
+          "title": "Indore Marriott Hotel",
+          "rating": 4.4,
+          "reviews": 12945,
+          "type": "5-star hotel",
+          "price": "$81",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x396302a6c929d7c1:0xa9b781c61eb0010f",
+          "data_cid": "12229386001066230031",
+          "place_id": "ChIJwdcpyaYCYzkRDwGwHsaBt6k",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x396302a6c929d7c1%3A0xa9b781c61eb0010f&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 22.752742,
+            "longitude": 75.883716
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwdcpyaYCYzkRDwGwHsaBt6k"
+        },
+        {
+          "position": 2,
+          "title": "Radisson Blu Hotel Indore",
+          "rating": 4.5,
+          "reviews": 23732,
+          "type": "5-star hotel",
+          "price": "$56",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x3962e2aa63f86ecf:0x5ec994f6b12cb4bc",
+          "data_cid": "6830154097139430588",
+          "place_id": "ChIJz274Y6riYjkRvLQssfaUyV4",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3962e2aa63f86ecf%3A0x5ec994f6b12cb4bc&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 22.750089,
+            "longitude": 75.902773
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz274Y6riYjkRvLQssfaUyV4"
+        },
+        {
+          "position": 3,
+          "title": "Sayaji Hotel Indore",
+          "rating": 4.4,
+          "reviews": 27663,
+          "type": "5-star hotel",
+          "price": "$55",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x396302a814ca51dd:0xf684b03b6f0e52eb",
+          "data_cid": "17763516599568847595",
+          "place_id": "ChIJ3VHKFKgCYzkR61IObzuwhPY",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x396302a814ca51dd%3A0xf684b03b6f0e52eb&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 22.751231,
+            "longitude": 75.889542
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3VHKFKgCYzkR61IObzuwhPY"
+        },
+        {
+          "position": 4,
+          "title": "HRJ Sarovar Portico Hotel, Indore",
+          "rating": 4.3,
+          "reviews": 2234,
+          "type": "4-star hotel",
+          "price": "$33",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x3962fd1588247c33:0x52e89313a411b0df",
+          "data_cid": "5974186618273247455",
+          "place_id": "ChIJM3wkiBX9YjkR37ARpBOT6FI",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd1588247c33%3A0x52e89313a411b0df&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 22.720431,
+            "longitude": 75.870993
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM3wkiBX9YjkR37ARpBOT6FI"
+        },
+        {
+          "position": 5,
+          "title": "The Park Indore",
+          "rating": 4.5,
+          "reviews": 3951,
+          "type": "5-star hotel",
+          "price": "$52",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x3962e3740c8b138b:0x1916ab8f453fe9b2",
+          "data_cid": "1807820932266322354",
+          "place_id": "ChIJixOLDHTjYjkRsuk_RY-rFhk",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3962e3740c8b138b%3A0x1916ab8f453fe9b2&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 22.745358,
+            "longitude": 75.931311
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJixOLDHTjYjkRsuk_RY-rFhk"
+        },
+        {
+          "position": 6,
+          "title": "Infiniti Hotel",
+          "rating": 4.3,
+          "reviews": 2978,
+          "type": "4-star hotel",
+          "price": "$39",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x39631d55ae61fc69:0xff9cd545e5cf28d1",
+          "data_cid": "18418831072223504593",
+          "place_id": "ChIJafxhrlUdYzkR0SjP5UXVnP8",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x39631d55ae61fc69%3A0xff9cd545e5cf28d1&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 22.753372,
+            "longitude": 75.903209
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJafxhrlUdYzkR0SjP5UXVnP8"
+        },
+        {
+          "position": 7,
+          "title": "WOW Crest, Indore - IHCL SeleQtions",
+          "rating": 4.3,
+          "reviews": 7113,
+          "type": "5-star hotel",
+          "price": "$60",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x3962fd541aaaaaab:0x9279e450afac0e96",
+          "data_cid": "10554718236915273366",
+          "place_id": "ChIJq6qqGlT9YjkRlg6sr1DkeZI",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd541aaaaaab%3A0x9279e450afac0e96&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 22.748812,
+            "longitude": 75.893742
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6qqGlT9YjkRlg6sr1DkeZI"
+        },
+        {
+          "position": 8,
+          "title": "Fairfield by Marriott Indore",
+          "rating": 4.1,
+          "reviews": 5553,
+          "type": "4-star hotel",
+          "price": "$46",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x39631d5572871881:0x58ee055bc94663c5",
+          "data_cid": "6408065211571790789",
+          "place_id": "ChIJgRiHclUdYzkRxWNGyVsF7lg",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x39631d5572871881%3A0x58ee055bc94663c5&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 22.747945,
+            "longitude": 75.90382
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgRiHclUdYzkRxWNGyVsF7lg"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "position": 1,
+          "title": "Gulmohar Villa - Villa",
+          "property_type": "Villa",
+          "capacity": "Sleeps 15",
+          "price": "$69",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0xaf35c559e6d85f65",
+          "data_cid": "12625214120318754661",
+          "place_id": "CgkRZV_Y5lnFNa8",
+          "gps_coordinates": {
+            "latitude": 22.769449,
+            "longitude": 75.90506
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkRZV_Y5lnFNa8"
+        },
+        {
+          "position": 2,
+          "title": "Villa Vista Indore - Luxury 3BHK Villa with Penthouse  Private Jacuzzi - Three-Bedroom Villa",
+          "property_type": "Villa",
+          "capacity": "Sleeps 12",
+          "price": "$106",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0x555ee071932e95ae",
+          "data_cid": "6151600919439906222",
+          "place_id": "CgkRrpUuk3HgXlU",
+          "gps_coordinates": {
+            "latitude": 22.774771,
+            "longitude": 75.888489
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkRrpUuk3HgXlU"
+        },
+        {
+          "position": 3,
+          "title": "Luxury 3bhk villa perfect for families and friends with a rooftop party hall",
+          "property_type": "Villa",
+          "capacity": "Sleeps 10",
+          "price": "$80",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0x2e3d7824bbdaae1",
+          "data_cid": "208246962405616353",
+          "place_id": "CgkR4aq9S4LX4wI",
+          "gps_coordinates": {
+            "latitude": 22.774778,
+            "longitude": 75.888428
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkR4aq9S4LX4wI"
+        },
+        {
+          "position": 4,
+          "title": "Spacious 6-bedroom house in charming Indore with AC",
+          "property_type": "Cottage",
+          "capacity": "Sleeps 12",
+          "price": "$190",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0xf22b6034c782894a",
+          "data_cid": "17450146960978905418",
+          "place_id": "CgkRSomCxzRgK_I",
+          "gps_coordinates": {
+            "latitude": 22.802368,
+            "longitude": 75.847824
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkRSomCxzRgK_I"
+        },
+        {
+          "position": 5,
+          "title": "Villa in prime Vijay Nagar",
+          "property_type": "Villa",
+          "capacity": "Sleeps 15",
+          "price": "$416",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0x687443e1fa243278",
+          "data_cid": "7526715515086320248",
+          "place_id": "CgkReDIk-uFDdGg",
+          "gps_coordinates": {
+            "latitude": 22.758289,
+            "longitude": 75.892418
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkReDIk-uFDdGg"
+        },
+        {
+          "position": 6,
+          "title": "Divine Villa",
+          "property_type": "Villa",
+          "capacity": "Sleeps 6",
+          "price": "$66",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0x2ab0081259dd1ba4",
+          "data_cid": "3075967420404145060",
+          "place_id": "CgkRpBvdWRIIsCo",
+          "gps_coordinates": {
+            "latitude": 22.760624,
+            "longitude": 75.9375
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkRpBvdWRIIsCo"
+        },
+        {
+          "position": 7,
+          "title": "The Crystal Sanctuary - Luxury Smart Villa with Crystal Suites",
+          "property_type": "Cottage",
+          "capacity": "Sleeps 8",
+          "price": "$150",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0x610197f968fc73a4",
+          "data_cid": "6990035194119746468",
+          "place_id": "CgkRpHP8aPmXAWE",
+          "gps_coordinates": {
+            "latitude": 22.761761,
+            "longitude": 75.922234
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkRpHP8aPmXAWE"
+        },
+        {
+          "position": 8,
+          "title": "Home Escape Azure 3BHK Bunglow Near Apollo DB City - Three-Bedroom Bungalow",
+          "property_type": "House",
+          "capacity": "Sleeps 9",
+          "price": "$111",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0x466e2f52894312bd",
+          "data_cid": "5075045861629825725",
+          "place_id": "CgkRvRJDiVIvbkY",
+          "gps_coordinates": {
+            "latitude": 22.762039,
+            "longitude": 75.920631
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkRvRJDiVIvbkY"
+        }
+      ]
+    }
+  }
+}

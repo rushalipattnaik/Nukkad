@@ -1,0 +1,2011 @@
+{
+  "_meta": {
+    "label": "trends TIMESERIES x5",
+    "engine": "google_trends",
+    "params": {
+      "engine": "google_trends",
+      "q": "medical store,dentist,gym,coaching classes,tiffin service",
+      "geo": "IN-MP",
+      "date": "today 12-m",
+      "hl": "en",
+      "tz": "-330",
+      "data_type": "TIMESERIES"
+    },
+    "recorded_at": "2026-10-04T14:20:59.894416+00:00",
+    "http_status": 200,
+    "elapsed_s": 1.31,
+    "credit_delta_measured": 1,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac260c92ddc436b883f6ee7",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/pirykoA4hr7jNnhaUAwuLeZ2gD-2qYXtDieynrZFY_4/6ac260c92ddc436b883f6ee7.md",
+      "created_at": "2026-10-04 14:20:57 UTC",
+      "processed_at": "2026-10-04 14:20:57 UTC",
+      "google_trends_url": "https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=-330&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22medical+store%22%2C%22geo%22%3A%22IN-MP%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22dentist%22%2C%22geo%22%3A%22IN-MP%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22gym%22%2C%22geo%22%3A%22IN-MP%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22coaching+classes%22%2C%22geo%22%3A%22IN-MP%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22tiffin+service%22%2C%22geo%22%3A%22IN-MP%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+      "total_time_taken": 1.0
+    },
+    "search_parameters": {
+      "engine": "google_trends",
+      "q": "medical store,dentist,gym,coaching classes,tiffin service",
+      "hl": "en",
+      "geo": "IN-MP",
+      "date": "today 12-m",
+      "tz": "-330",
+      "data_type": "TIMESERIES"
+    },
+    "interest_over_time": {
+      "timeline_data": [
+        {
+          "date": "Sep 28 – Oct 4, 2025",
+          "timestamp": "1759017600",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "6",
+              "extracted_value": 6
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "65",
+              "extracted_value": 65
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "5",
+              "extracted_value": 5
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Oct 5 – 11, 2025",
+          "timestamp": "1759622400",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "6",
+              "extracted_value": 6
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "65",
+              "extracted_value": 65
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "5",
+              "extracted_value": 5
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Oct 12 – 18, 2025",
+          "timestamp": "1760227200",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "63",
+              "extracted_value": 63
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "3",
+              "extracted_value": 3
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Oct 19 – 25, 2025",
+          "timestamp": "1760832000",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "61",
+              "extracted_value": 61
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "3",
+              "extracted_value": 3
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Oct 26 – Nov 1, 2025",
+          "timestamp": "1761436800",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "65",
+              "extracted_value": 65
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "4",
+              "extracted_value": 4
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Nov 2 – 8, 2025",
+          "timestamp": "1762041600",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "68",
+              "extracted_value": 68
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "5",
+              "extracted_value": 5
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Nov 9 – 15, 2025",
+          "timestamp": "1762646400",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "71",
+              "extracted_value": 71
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "3",
+              "extracted_value": 3
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Nov 16 – 22, 2025",
+          "timestamp": "1763251200",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "69",
+              "extracted_value": 69
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "3",
+              "extracted_value": 3
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Nov 23 – 29, 2025",
+          "timestamp": "1763856000",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "70",
+              "extracted_value": 70
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "3",
+              "extracted_value": 3
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Nov 30 – Dec 6, 2025",
+          "timestamp": "1764460800",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "74",
+              "extracted_value": 74
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "4",
+              "extracted_value": 4
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Dec 7 – 13, 2025",
+          "timestamp": "1765065600",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "71",
+              "extracted_value": 71
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "4",
+              "extracted_value": 4
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "2",
+              "extracted_value": 2
+            }
+          ]
+        },
+        {
+          "date": "Dec 14 – 20, 2025",
+          "timestamp": "1765670400",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "72",
+              "extracted_value": 72
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "5",
+              "extracted_value": 5
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "2",
+              "extracted_value": 2
+            }
+          ]
+        },
+        {
+          "date": "Dec 21 – 27, 2025",
+          "timestamp": "1766275200",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "73",
+              "extracted_value": 73
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "5",
+              "extracted_value": 5
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Dec 28, 2025 – Jan 3, 2026",
+          "timestamp": "1766880000",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "79",
+              "extracted_value": 79
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "4",
+              "extracted_value": 4
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Jan 4 – 10, 2026",
+          "timestamp": "1767484800",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "77",
+              "extracted_value": 77
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "6",
+              "extracted_value": 6
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Jan 11 – 17, 2026",
+          "timestamp": "1768089600",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "78",
+              "extracted_value": 78
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "4",
+              "extracted_value": 4
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Jan 18 – 24, 2026",
+          "timestamp": "1768694400",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "77",
+              "extracted_value": 77
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "3",
+              "extracted_value": 3
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jan 25 – 31, 2026",
+          "timestamp": "1769299200",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "11",
+              "extracted_value": 11
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "72",
+              "extracted_value": 72
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "4",
+              "extracted_value": 4
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Feb 1 – 7, 2026",
+          "timestamp": "1769904000",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "75",
+              "extracted_value": 75
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "4",
+              "extracted_value": 4
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Feb 8 – 14, 2026",
+          "timestamp": "1770508800",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "80",
+              "extracted_value": 80
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "4",
+              "extracted_value": 4
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "2",
+              "extracted_value": 2
+            }
+          ]
+        },
+        {
+          "date": "Feb 15 – 21, 2026",
+          "timestamp": "1771113600",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "6",
+              "extracted_value": 6
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "85",
+              "extracted_value": 85
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "5",
+              "extracted_value": 5
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Feb 22 – 28, 2026",
+          "timestamp": "1771718400",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "6",
+              "extracted_value": 6
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "77",
+              "extracted_value": 77
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "5",
+              "extracted_value": 5
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "2",
+              "extracted_value": 2
+            }
+          ]
+        },
+        {
+          "date": "Mar 1 – 7, 2026",
+          "timestamp": "1772323200",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "80",
+              "extracted_value": 80
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "5",
+              "extracted_value": 5
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Mar 8 – 14, 2026",
+          "timestamp": "1772928000",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "83",
+              "extracted_value": 83
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Mar 15 – 21, 2026",
+          "timestamp": "1773532800",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "87",
+              "extracted_value": 87
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "2",
+              "extracted_value": 2
+            }
+          ]
+        },
+        {
+          "date": "Mar 22 – 28, 2026",
+          "timestamp": "1774137600",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "84",
+              "extracted_value": 84
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Mar 29 – Apr 4, 2026",
+          "timestamp": "1774742400",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "88",
+              "extracted_value": 88
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Apr 5 – 11, 2026",
+          "timestamp": "1775347200",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "11",
+              "extracted_value": 11
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "87",
+              "extracted_value": 87
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Apr 12 – 18, 2026",
+          "timestamp": "1775952000",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "80",
+              "extracted_value": 80
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "11",
+              "extracted_value": 11
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Apr 19 – 25, 2026",
+          "timestamp": "1776556800",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "79",
+              "extracted_value": 79
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Apr 26 – May 2, 2026",
+          "timestamp": "1777161600",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "78",
+              "extracted_value": 78
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "May 3 – 9, 2026",
+          "timestamp": "1777766400",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "6",
+              "extracted_value": 6
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "92",
+              "extracted_value": 92
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "6",
+              "extracted_value": 6
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "2",
+              "extracted_value": 2
+            }
+          ]
+        },
+        {
+          "date": "May 10 – 16, 2026",
+          "timestamp": "1778371200",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "11",
+              "extracted_value": 11
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "84",
+              "extracted_value": 84
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "May 17 – 23, 2026",
+          "timestamp": "1778976000",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "11",
+              "extracted_value": 11
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "85",
+              "extracted_value": 85
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "2",
+              "extracted_value": 2
+            }
+          ]
+        },
+        {
+          "date": "May 24 – 30, 2026",
+          "timestamp": "1779580800",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "89",
+              "extracted_value": 89
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "May 31 – Jun 6, 2026",
+          "timestamp": "1780185600",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "95",
+              "extracted_value": 95
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "2",
+              "extracted_value": 2
+            }
+          ]
+        },
+        {
+          "date": "Jun 7 – 13, 2026",
+          "timestamp": "1780790400",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "11",
+              "extracted_value": 11
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "97",
+              "extracted_value": 97
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "2",
+              "extracted_value": 2
+            }
+          ]
+        },
+        {
+          "date": "Jun 14 – 20, 2026",
+          "timestamp": "1781395200",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "92",
+              "extracted_value": 92
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jun 21 – 27, 2026",
+          "timestamp": "1782000000",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "12",
+              "extracted_value": 12
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "93",
+              "extracted_value": 93
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "2",
+              "extracted_value": 2
+            }
+          ]
+        },
+        {
+          "date": "Jun 28 – Jul 4, 2026",
+          "timestamp": "1782604800",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "12",
+              "extracted_value": 12
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "96",
+              "extracted_value": 96
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "2",
+              "extracted_value": 2
+            }
+          ]
+        },
+        {
+          "date": "Jul 5 – 11, 2026",
+          "timestamp": "1783209600",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "11",
+              "extracted_value": 11
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "92",
+              "extracted_value": 92
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "2",
+              "extracted_value": 2
+            }
+          ]
+        },
+        {
+          "date": "Jul 12 – 18, 2026",
+          "timestamp": "1783814400",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "11",
+              "extracted_value": 11
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "96",
+              "extracted_value": 96
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "2",
+              "extracted_value": 2
+            }
+          ]
+        },
+        {
+          "date": "Jul 19 – 25, 2026",
+          "timestamp": "1784419200",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "93",
+              "extracted_value": 93
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jul 26 – Aug 1, 2026",
+          "timestamp": "1785024000",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "11",
+              "extracted_value": 11
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "91",
+              "extracted_value": 91
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Aug 2 – 8, 2026",
+          "timestamp": "1785628800",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "100",
+              "extracted_value": 100
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Aug 9 – 15, 2026",
+          "timestamp": "1786233600",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "91",
+              "extracted_value": 91
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Aug 16 – 22, 2026",
+          "timestamp": "1786838400",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "11",
+              "extracted_value": 11
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "91",
+              "extracted_value": 91
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "2",
+              "extracted_value": 2
+            }
+          ]
+        },
+        {
+          "date": "Aug 23 – 29, 2026",
+          "timestamp": "1787443200",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "89",
+              "extracted_value": 89
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "5",
+              "extracted_value": 5
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Aug 30 – Sep 5, 2026",
+          "timestamp": "1788048000",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "7",
+              "extracted_value": 7
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "11",
+              "extracted_value": 11
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "93",
+              "extracted_value": 93
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "5",
+              "extracted_value": 5
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Sep 6 – 12, 2026",
+          "timestamp": "1788652800",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "11",
+              "extracted_value": 11
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "96",
+              "extracted_value": 96
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "6",
+              "extracted_value": 6
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Sep 13 – 19, 2026",
+          "timestamp": "1789257600",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "87",
+              "extracted_value": 87
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "5",
+              "extracted_value": 5
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Sep 20 – 26, 2026",
+          "timestamp": "1789862400",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "99",
+              "extracted_value": 99
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "5",
+              "extracted_value": 5
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Sep 27 – Oct 3, 2026",
+          "timestamp": "1790467200",
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "8",
+              "extracted_value": 8
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "99",
+              "extracted_value": 99
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "5",
+              "extracted_value": 5
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "1",
+              "extracted_value": 1
+            }
+          ]
+        },
+        {
+          "date": "Oct 4 – 10, 2026",
+          "timestamp": "1791072000",
+          "partial_data": true,
+          "values": [
+            {
+              "query": "medical store",
+              "query_index": 0,
+              "value": "10",
+              "extracted_value": 10
+            },
+            {
+              "query": "dentist",
+              "query_index": 1,
+              "value": "9",
+              "extracted_value": 9
+            },
+            {
+              "query": "gym",
+              "query_index": 2,
+              "value": "84",
+              "extracted_value": 84
+            },
+            {
+              "query": "coaching classes",
+              "query_index": 3,
+              "value": "5",
+              "extracted_value": 5
+            },
+            {
+              "query": "tiffin service",
+              "query_index": 4,
+              "value": "2",
+              "extracted_value": 2
+            }
+          ]
+        }
+      ],
+      "averages": [
+        {
+          "query": "medical store",
+          "value": 8
+        },
+        {
+          "query": "dentist",
+          "value": 10
+        },
+        {
+          "query": "gym",
+          "value": 82
+        },
+        {
+          "query": "coaching classes",
+          "value": 6
+        },
+        {
+          "query": "tiffin service",
+          "value": 1
+        }
+      ]
+    }
+  }
+}

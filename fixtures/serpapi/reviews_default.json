@@ -1,0 +1,177 @@
+{
+  "_meta": {
+    "label": "reviews default",
+    "engine": "google_maps_reviews",
+    "params": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x3962fd2794a0e223:0xd934a166dfd28b26",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:20:47.548162+00:00",
+    "http_status": 200,
+    "elapsed_s": 2.25,
+    "credit_delta_measured": 1,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac260bbb9dbc44e44149593",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/3CjGC2Ekzz8sHUqej-dBF8I5oiTcTJhJS5gApiGmECE/6ac260bbb9dbc44e44149593.md",
+      "created_at": "2026-10-04 14:20:43 UTC",
+      "processed_at": "2026-10-04 14:20:43 UTC",
+      "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3962fd2794a0e223:0xd934a166dfd28b26!5m2!4m1!1i2!9m1!1b1?hl=en",
+      "total_time_taken": 1.75
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x3962fd2794a0e223:0xd934a166dfd28b26",
+      "hl": "en"
+    },
+    "place_info": {
+      "title": "DAWAIWALA MEDICAL STORE",
+      "address": "Ranawat Trade Center, G08, Bhawarkua Main Rd, Bhavarkuan Square, Professor Colony, Indore, Madhya Pradesh 452014, India",
+      "rating": 4.8,
+      "reviews": 126,
+      "type": "Drug store"
+    },
+    "topics": [
+      {
+        "keyword": "medicine availability",
+        "mentions": 29,
+        "id": "YjjPkTDMluI"
+      },
+      {
+        "keyword": "discount",
+        "mentions": 12,
+        "id": "QXyGwYg8xiI"
+      },
+      {
+        "keyword": "rate",
+        "mentions": 4,
+        "id": "QgqaTCkKE0s"
+      },
+      {
+        "keyword": "treatment",
+        "mentions": 2,
+        "id": "NDLtCDKcRKw"
+      },
+      {
+        "keyword": "medical store",
+        "mentions": 10,
+        "id": "FxxH6fHatsI"
+      },
+      {
+        "keyword": "behaviour",
+        "mentions": 4,
+        "id": "FErO0DXJTaA"
+      }
+    ],
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xOb2FIZFZaMGszTldOYU5tWm5PVFIxWVZKNFNXYxAB!2m1!1s0x0:0xd934a166dfd28b26!3m1!1s2@1:CAIQACodChtycF9oOlNoaHdVZ0k3NWNaNmZnOTR1YVJ4SWc%7C%7C?hl=en-US",
+        "rating": 5.0,
+        "date": "9 months ago",
+        "iso_date": "2025-12-26T11:52:09Z",
+        "iso_date_of_last_edit": "2025-12-26T11:52:09Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOb2FIZFZaMGszTldOYU5tWm5PVFIxWVZKNFNXYxAB",
+        "user": {
+          "name": "REDACTED_REVIEWER",
+          "local_guide": true,
+          "reviews": 1
+        },
+        "snippet": "Good medical store.. wide range of medicine available...good knowledge person....",
+        "extracted_snippet": {
+          "original": "Good medical store.. wide range of medicine available...good knowledge person...."
+        },
+        "likes": 0
+      },
+      {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t0RGNrTkdPVUpxTVRBd1UwRmFlRTB0UVhaYVNWRRAB!2m1!1s0x0:0xd934a166dfd28b26!3m1!1s2@1:CAIQACodChtycF9oOktDckNGOUJqMTAwU0FaeE0tQXZaSVE%7C%7C?hl=en-US",
+        "rating": 5.0,
+        "date": "6 months ago",
+        "iso_date": "2026-03-26T17:01:20Z",
+        "iso_date_of_last_edit": "2026-03-26T17:01:20Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0RGNrTkdPVUpxTVRBd1UwRmFlRTB0UVhaYVNWRRAB",
+        "user": {
+          "name": "REDACTED_REVIEWER",
+          "local_guide": true,
+          "reviews": 2
+        },
+        "snippet": "Very nice behaviour , better price , genius rate",
+        "extracted_snippet": {
+          "original": "Very nice behaviour , better price , genius rate"
+        },
+        "likes": 0
+      },
+      {
+        "position": 3,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25aeFowZHNORnBEZVdJNWNYVXplWGx0UW5scVNYYxAB!2m1!1s0x0:0xd934a166dfd28b26!3m1!1s2@1:CAIQACodChtycF9oOnZxZ0dsNFpDeWI5cXUzeXltQnlqSXc%7C%7C?hl=en-US",
+        "rating": 5.0,
+        "date": "9 months ago",
+        "iso_date": "2025-12-24T10:20:11Z",
+        "iso_date_of_last_edit": "2025-12-24T10:20:11Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aeFowZHNORnBEZVdJNWNYVXplWGx0UW5scVNYYxAB",
+        "user": {
+          "name": "REDACTED_REVIEWER",
+          "local_guide": true,
+          "reviews": 3
+        },
+        "snippet": "BEST MEDICAL STORE WITH WIDE RANGE OF MEDICINE... ALL TYPE OF MEDICINE AVAILABLE AT DISCOUNT ED PRICE",
+        "extracted_snippet": {
+          "original": "BEST MEDICAL STORE WITH WIDE RANGE OF MEDICINE... ALL TYPE OF MEDICINE AVAILABLE AT DISCOUNT ED PRICE"
+        },
+        "likes": 0
+      },
+      {
+        "position": 4,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURwbmE2U2dBRRAB!2m1!1s0x0:0xd934a166dfd28b26!3m1!1s2@1:CIHM0ogKEICAgIDpna6SgAE%7C%7C?hl=en-US",
+        "rating": 5.0,
+        "date": "3 years ago",
+        "iso_date": "2023-08-27T07:46:43Z",
+        "iso_date_of_last_edit": "2023-08-27T07:46:43Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwbmE2U2dBRRAB",
+        "user": {
+          "name": "REDACTED_REVIEWER",
+          "local_guide": true,
+          "reviews": 35
+        },
+        "snippet": "Place for genuine meds along with best guidance.\n\nWhat I like most about Dawaiwala is their online(on WhatsApp) facility which heps me get the items delivered at discounted price direct to my home same or other day.",
+        "extracted_snippet": {
+          "original": "Place for genuine meds along with best guidance.\n\nWhat I like most about Dawaiwala is their online(on WhatsApp) facility which heps me get the items delivered at discounted price direct to my home same or other day."
+        },
+        "likes": 0
+      },
+      {
+        "position": 5,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CcVMxOU5OSEp0UkVwVGNVTkpaMmh0T0ZGNFJFRRAB!2m1!1s0x0:0xd934a166dfd28b26!3m1!1s2@1:CAIQACodChtycF9oOnBqS19NNHJtREpTcUNJZ2htOFF4REE%7C%7C?hl=en-US",
+        "rating": 5.0,
+        "date": "a year ago",
+        "iso_date": "2025-09-25T13:41:33Z",
+        "iso_date_of_last_edit": "2025-09-25T13:41:33Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CcVMxOU5OSEp0UkVwVGNVTkpaMmh0T0ZGNFJFRRAB",
+        "user": {
+          "name": "REDACTED_REVIEWER",
+          "local_guide": true,
+          "reviews": 2
+        },
+        "snippet": "Nice working and Very good performance and great treatment by Dawaiwala medical store  Indore",
+        "extracted_snippet": {
+          "original": "Nice working and Very good performance and great treatment by Dawaiwala medical store  Indore"
+        },
+        "likes": 0
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?data_id=0x3962fd2794a0e223%3A0xd934a166dfd28b26&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7_LR489____EhBmgsA_GYTXNoNYOCUAAAAAGgn949oCZLO2JAoYACIA",
+      "next_page_token": "CjEIARIpCgoAP7_LR489____EhBmgsA_GYTXNoNYOCUAAAAAGgn949oCZLO2JAoYACIA"
+    }
+  }
+}

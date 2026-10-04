@@ -1,0 +1,814 @@
+{
+  "_meta": {
+    "label": "maps Bhopal / medical store",
+    "engine": "google_maps",
+    "params": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "medical store",
+      "ll": "@23.2599333,77.412615,14z",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:20:06.891004+00:00",
+    "http_status": 200,
+    "elapsed_s": 3.65,
+    "credit_delta_measured": 1,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac26091c83b3fb16022d32c",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/VdNImKwJ1mcNumpd24uwCwGnD3LZQKtum9ArdZ7W_WI/6ac26091c83b3fb16022d32c.md",
+      "created_at": "2026-10-04 14:20:01 UTC",
+      "processed_at": "2026-10-04 14:20:01 UTC",
+      "google_maps_url": "https://www.google.com/maps/search/medical+store/@23.2599333,77.412615,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+      "total_time_taken": 3.32
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "medical store",
+      "ll": "@23.2599333,77.412615,14z",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Results for exact spelling",
+      "query_displayed": "medical store"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "M.R.S. MEDICAL STORE (BRANCH 1 OF 9)",
+        "place_id": "ChIJC3K2IUFBfDkRjH4Y-NHrNJs",
+        "data_id": "0x397c414121b6720b:0x9b34ebd1f8187e8c",
+        "data_cid": "11183823061710831244",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c414121b6720b%3A0x9b34ebd1f8187e8c&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2504965,
+          "longitude": 77.487748
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJC3K2IUFBfDkRjH4Y-NHrNJs",
+        "provider_id": "/g/11skm_qnr1",
+        "rating": 4.9,
+        "reviews": 209,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "Anandnagar, Bhopal, Madhya Pradesh 462022, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "8 AM–11 PM",
+          "monday": "8 AM–11 PM",
+          "tuesday": "8 AM–11 PM",
+          "wednesday": "8 AM–11 PM",
+          "thursday": "8 AM–11 PM",
+          "friday": "8 AM–11 PM",
+          "saturday": "8 AM–11 PM"
+        },
+        "phone": "+91 62607 54373",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "Verma Medical Store",
+        "place_id": "ChIJfyY3GixofDkRoM63wCdubKw",
+        "data_id": "0x397c682c1a37267f:0xac6c6e27c0b7cea0",
+        "data_cid": "12424426589024407200",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c682c1a37267f%3A0xac6c6e27c0b7cea0&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2617837,
+          "longitude": 77.41988789999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfyY3GixofDkRoM63wCdubKw",
+        "provider_id": "/g/1q65ctqsh",
+        "rating": 4.9,
+        "reviews": 124,
+        "type": "Drug store",
+        "types": [
+          "Drug store"
+        ],
+        "address": "Shop No.3, Pushpa Nagar Rd, opp. Santoshi Mata Mandir, Bagh Umrao Dulha, Bhopal, Madhya Pradesh 462010, India",
+        "country": "India",
+        "open_state": "Open · Closes 12 AM",
+        "hours": "Open · Closes 12 AM",
+        "operating_hours": {
+          "sunday": "10:30 AM–12 AM",
+          "monday": "10:30 AM–12 AM",
+          "tuesday": "10:30 AM–12 AM",
+          "wednesday": "10:30 AM–12 AM",
+          "thursday": "10:30 AM–12 AM",
+          "friday": "10:30 AM–12 AM",
+          "saturday": "10:30 AM–12 AM"
+        },
+        "phone": "+91 83192 72851",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "Eeshu Medical Stores & Pharmacy",
+        "place_id": "ChIJ306x19ppfDkRGpGefOWpTbo",
+        "data_id": "0x397c69dad7b14edf:0xba4da9e57c9e911a",
+        "data_cid": "13424572867364688154",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c69dad7b14edf%3A0xba4da9e57c9e911a&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.272851,
+          "longitude": 77.4650231
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ306x19ppfDkRGpGefOWpTbo",
+        "provider_id": "/g/11rk8brrw3",
+        "rating": 5,
+        "reviews": 153,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy",
+          "Medical supply store",
+          "Parapharmacy",
+          "Vitamin & supplements store"
+        ],
+        "address": "Shop No. 11, Indus Muskan Plaza, Ayodhya Bypass Rd, Bhawanidham Phase-1, Narela Shankri, Ayodhya Nagar, Bhopal, Madhya Pradesh 462041, India",
+        "country": "India",
+        "open_state": "Open · Closes 10:30 PM",
+        "hours": "Open · Closes 10:30 PM",
+        "operating_hours": {
+          "sunday": "9 AM–10:30 PM",
+          "monday": "9 AM–10:30 PM",
+          "tuesday": "9 AM–10:30 PM",
+          "wednesday": "9 AM–10:30 PM",
+          "thursday": "9 AM–10:30 PM",
+          "friday": "9 AM–10:30 PM",
+          "saturday": "9 AM–10:30 PM"
+        },
+        "phone": "+91 80856 75738",
+        "website": "https://eeshumedicalstore.vercel.app/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Assisted listening devices",
+              "Assistive hearing loop",
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "Archna Medical Store",
+        "place_id": "ChIJFap_sjFofDkRXXMNmfe8sDA",
+        "data_id": "0x397c6831b27faa15:0x30b0bcf7990d735d",
+        "data_cid": "3508511881332355933",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c6831b27faa15%3A0x30b0bcf7990d735d&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.267584799999998,
+          "longitude": 77.41587919999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFap_sjFofDkRXXMNmfe8sDA",
+        "provider_id": "/g/1q64fd8l4",
+        "rating": 5,
+        "reviews": 15,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy",
+          "Drug store"
+        ],
+        "address": "Pedestrian Overpass, Railway Station Rd, Bajariya, Bhopal, Madhya Pradesh 462010, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "8:30 AM–10 PM",
+          "monday": "8:30 AM–10 PM",
+          "tuesday": "8:30 AM–10 PM",
+          "wednesday": "8:30 AM–10 PM",
+          "thursday": "8:30 AM–10 PM",
+          "friday": "8:30 AM–10 PM",
+          "saturday": "8:30 AM–10 PM"
+        },
+        "phone": "+91 98272 28574"
+      },
+      {
+        "position": 5,
+        "title": "Agrawal Medical Store",
+        "place_id": "ChIJU1RV5b1CfDkRrabuIm5P-h0",
+        "data_id": "0x397c42bde5555453:0x1dfa4f6e22eea6ad",
+        "data_cid": "2160126305728636589",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c42bde5555453%3A0x1dfa4f6e22eea6ad&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.234967899999997,
+          "longitude": 77.4012099
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU1RV5b1CfDkRrabuIm5P-h0",
+        "provider_id": "/g/1q5bmk6cd",
+        "rating": 4.6,
+        "reviews": 38,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy",
+          "Veterinary pharmacy"
+        ],
+        "address": "8, Main Road 1, Bustop, New Market, STT Nagar, TT Nagar, Bhopal, Madhya Pradesh 462003, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "10 AM–10 PM",
+          "monday": "Closed",
+          "tuesday": "10 AM–10 PM",
+          "wednesday": "10 AM–10 PM",
+          "thursday": "10 AM–10 PM",
+          "friday": "10 AM–10 PM",
+          "saturday": "10 AM–10 PM"
+        }
+      },
+      {
+        "position": 6,
+        "title": "Shri Ji Medical Store",
+        "place_id": "ChIJif5Ya1dCfDkRqBsiBosrpS8",
+        "data_id": "0x397c42576b58fe89:0x2fa52b8b06221ba8",
+        "data_cid": "3433198167043218344",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c42576b58fe89%3A0x2fa52b8b06221ba8&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.218263,
+          "longitude": 77.428314
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJif5Ya1dCfDkRqBsiBosrpS8",
+        "provider_id": "/g/1q64p7jzf",
+        "rating": 4.9,
+        "reviews": 41,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy",
+          "Medical supply store",
+          "Public medical center"
+        ],
+        "address": "Shop No.20 Bittan Market Road Indira Market, Bittan Market, 8 Number Bus Stop, Board Colony, Ravishankar Nagar, Bhopal, Madhya Pradesh 462016, India",
+        "country": "India",
+        "open_state": "Open · Closes 10:25 PM",
+        "hours": "Open · Closes 10:25 PM",
+        "operating_hours": {
+          "sunday": "10 AM–10:25 PM",
+          "monday": "10 AM–10:25 PM",
+          "tuesday": "10 AM–10:25 PM",
+          "wednesday": "10 AM–10:25 PM",
+          "thursday": "10 AM–10:25 PM",
+          "friday": "3 AM–10:25 PM",
+          "saturday": "10 AM–10:25 PM"
+        },
+        "phone": "+91 755 405 9323"
+      },
+      {
+        "position": 7,
+        "title": "Shivay medical store",
+        "place_id": "ChIJndJ-eVRBfDkRBjh7cs5TZ6c",
+        "data_id": "0x397c4154797ed29d:0xa76753ce727b3806",
+        "data_cid": "12062702273084209158",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c4154797ed29d%3A0xa76753ce727b3806&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.257603099999997,
+          "longitude": 77.4789814
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJndJ-eVRBfDkRBjh7cs5TZ6c",
+        "provider_id": "/g/11shfbpk72",
+        "rating": 5,
+        "reviews": 14,
+        "type": "Medical supply store",
+        "types": [
+          "Medical supply store",
+          "Drug store",
+          "Health and beauty shop",
+          "Homeopathic pharmacy",
+          "Pharmacy",
+          "Surgical supply store"
+        ],
+        "address": "Shop no. 3 house no. 43, Azad Nagar, Prakash Nagar, Ayodhya Bypass, Bhopal, Madhya Pradesh 462022, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "9 AM–11 PM",
+          "monday": "9 AM–11 PM",
+          "tuesday": "9 AM–11 PM",
+          "wednesday": "9 AM–11 PM",
+          "thursday": "9 AM–11 PM",
+          "friday": "9 AM–11 PM",
+          "saturday": "9 AM–11 PM"
+        },
+        "phone": "+91 83578 32701"
+      },
+      {
+        "position": 8,
+        "title": "SRD Pharmacy & Medical Store",
+        "place_id": "ChIJ8RTy3UBpfDkRAf85h5h3xXQ",
+        "data_id": "0x397c6940ddf214f1:0x74c577988739ff01",
+        "data_cid": "8414262975799099137",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c6940ddf214f1%3A0x74c577988739ff01&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2799095,
+          "longitude": 77.44854509999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8RTy3UBpfDkRAf85h5h3xXQ",
+        "provider_id": "/g/11vjb7wlsz",
+        "rating": 4.9,
+        "reviews": 31,
+        "type": "Medical supply store",
+        "types": [
+          "Medical supply store"
+        ],
+        "address": "D Mart, Marvel Hospital, C-02 Laxmi Vihar, Ayodhya Bypass Rd, opposite HP Petrol Pump, Bhopal, Madhya Pradesh 462010, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours",
+          "saturday": "Open 24 hours"
+        },
+        "phone": "+91 755 299 9315",
+        "website": "https://marvelhospital.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 9,
+        "title": "Ishan Medical Store",
+        "place_id": "ChIJqUtLqKlpfDkRJ3SUz5OxejM",
+        "data_id": "0x397c69a9a84b4ba9:0x337ab193cf947427",
+        "data_cid": "3709472491493946407",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c69a9a84b4ba9%3A0x337ab193cf947427&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.299001099999998,
+          "longitude": 77.43189199999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqUtLqKlpfDkRJ3SUz5OxejM",
+        "provider_id": "/g/1q6401yfk",
+        "rating": 4.8,
+        "reviews": 19,
+        "type": "Medical supply store",
+        "types": [
+          "Medical supply store",
+          "Ayurvedic clinic",
+          "General store",
+          "Pharmacy"
+        ],
+        "address": "Shop No.4, Vidisha Rd, opposite Bhanpur bridge, Bhanpur, Bhopal, Madhya Pradesh 462037, India",
+        "country": "India",
+        "open_state": "Open · Closes 12 AM",
+        "hours": "Open · Closes 12 AM",
+        "operating_hours": {
+          "sunday": "7 AM–12 AM",
+          "monday": "7 AM–12 AM",
+          "tuesday": "7 AM–12 AM",
+          "wednesday": "7 AM–12 AM",
+          "thursday": "7 AM–12 AM",
+          "friday": "7 AM–12 AM",
+          "saturday": "7 AM–12 AM"
+        },
+        "phone": "+91 98935 39282",
+        "website": "https://www.instagram.com/nikhilrajak___?igsh=MnEzYjBtenV5NDJv"
+      },
+      {
+        "position": 10,
+        "title": "Neelkanth Medical store",
+        "place_id": "ChIJHaMNCQdCfDkR658F6yJNVQk",
+        "data_id": "0x397c4207090da31d:0x9554d22eb059feb",
+        "data_cid": "672528531728998379",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c4207090da31d%3A0x9554d22eb059feb&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.256161799999997,
+          "longitude": 77.46051659999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHaMNCQdCfDkR658F6yJNVQk",
+        "provider_id": "/g/11b7rtph4x",
+        "rating": 4.6,
+        "reviews": 22,
+        "type": "Medical supply store",
+        "types": [
+          "Medical supply store"
+        ],
+        "address": "NEELKANTH MEDICAL STORE, Chhatrasal Nagar Rd, Phase 1, Sector A, Bhawani Nagar, Bhopal, Madhya Pradesh 462022, India",
+        "country": "India",
+        "open_state": "Open · Closes 11:30 PM",
+        "hours": "Open · Closes 11:30 PM",
+        "operating_hours": {
+          "sunday": "10 AM–11:30 PM",
+          "monday": "10 AM–11:30 PM",
+          "tuesday": "10 AM–11:30 PM",
+          "wednesday": "10 AM–11:30 PM",
+          "thursday": "10 AM–11:30 PM",
+          "friday": "10 AM–11:30 PM",
+          "saturday": "10 AM–11:30 PM"
+        },
+        "phone": "+91 97550 25525"
+      },
+      {
+        "position": 11,
+        "title": "Care you medical store",
+        "place_id": "ChIJ7d8I60tpfDkR7Zu3Pypnpww",
+        "data_id": "0x397c694beb08dfed:0xca7672a3fb79bed",
+        "data_cid": "911810880721099757",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c694beb08dfed%3A0xca7672a3fb79bed&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.256384999999998,
+          "longitude": 77.431055
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7d8I60tpfDkR7Zu3Pypnpww",
+        "provider_id": "/g/11kqdwwqsk",
+        "rating": 5,
+        "reviews": 28,
+        "type": "Medical supply store",
+        "types": [
+          "Medical supply store"
+        ],
+        "address": "Shop no.1, prabhat chouraha road, opposite shiv mandir, Iqbal Colony, Ashoka Garden, Bhopal, Madhya Pradesh 462030, India",
+        "country": "India",
+        "open_state": "Open · Closes 12:30 AM",
+        "hours": "Open · Closes 12:30 AM",
+        "operating_hours": {
+          "sunday": "8:30 AM–12:30 AM",
+          "monday": "8:30 AM–12:30 AM",
+          "tuesday": "8:30 AM–12:30 AM",
+          "wednesday": "8:30 AM–12:30 AM",
+          "thursday": "8:30 AM–12:30 AM",
+          "friday": "8:30 AM–12:30 AM",
+          "saturday": "8:30 AM–12:30 AM"
+        },
+        "phone": "+91 95846 43212"
+      },
+      {
+        "position": 12,
+        "title": "Das Medical Store",
+        "place_id": "ChIJSWdjqfVofDkRdrHeFOt50DY",
+        "data_id": "0x397c68f5a9636749:0x36d079eb14deb176",
+        "data_cid": "3949790923778339190",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c68f5a9636749%3A0x36d079eb14deb176&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.3021173,
+          "longitude": 77.4044387
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSWdjqfVofDkRdrHeFOt50DY",
+        "provider_id": "/g/1hjh930f7",
+        "rating": 3.8,
+        "reviews": 26,
+        "unclaimed_listing": true,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy",
+          "Medical supply store"
+        ],
+        "address": "Berasiya Road Mini Bus Stop, Karod Square, 1, Karond Chouraha, Murli Nagar, Karond, Bhopal, Madhya Pradesh 462038, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "8:30 AM–11 PM",
+          "monday": "8:30 AM–11 PM",
+          "tuesday": "8:30 AM–11 PM",
+          "wednesday": "8:30 AM–11 PM",
+          "thursday": "8:30 AM–11 PM",
+          "friday": "8:30 AM–11 PM",
+          "saturday": "8:30 AM–11 PM"
+        },
+        "phone": "+91 99939 40999",
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 13,
+        "title": "HH Medical and General Store",
+        "place_id": "ChIJT1p4CyBpfDkRi4VbrfzOpLU",
+        "data_id": "0x397c69200b785a4f:0xb5a4cefcad5b858b",
+        "data_cid": "13088814001681040779",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c69200b785a4f%3A0xb5a4cefcad5b858b&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.286632599999997,
+          "longitude": 77.4354718
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT1p4CyBpfDkRi4VbrfzOpLU",
+        "provider_id": "/g/11y4qz7l2t",
+        "rating": 4.9,
+        "reviews": 227,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy",
+          "Print shop"
+        ],
+        "address": "Tirupati Abhinav Home's S.N, G-36, Ayodhya Bypass Rd, CRWS Colony, Nishatpura, Bhopal, Madhya Pradesh 462041, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "9:30 AM–10 PM",
+          "monday": "9:30 AM–10 PM",
+          "tuesday": "9:30 AM–10 PM",
+          "wednesday": "9:30 AM–10 PM",
+          "thursday": "9:30 AM–10 PM",
+          "friday": "9:30 AM–10 PM",
+          "saturday": "9:30 AM–10 PM"
+        },
+        "website": "https://hhmedicalandgeneralstore.netlify.app/"
+      },
+      {
+        "position": 14,
+        "title": "Dhanvantari Medical Store",
+        "place_id": "ChIJ84RVc11BfDkRKiEht2UcSRI",
+        "data_id": "0x397c415d735584f3:0x12491c65b721212a",
+        "data_cid": "1317615589172257066",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c415d735584f3%3A0x12491c65b721212a&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.231137699999998,
+          "longitude": 77.4899504
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ84RVc11BfDkRKiEht2UcSRI",
+        "provider_id": "/g/11rj5yrr1p",
+        "rating": 5,
+        "reviews": 12,
+        "type": "Medical supply store",
+        "types": [
+          "Medical supply store"
+        ],
+        "address": "House no. 58A shop no. 2 lavkush nagar awadhpuri Crystal city, road, Awadhpuri, Bhopal, Madhya Pradesh 462022, India",
+        "country": "India",
+        "open_state": "Open · Closes 11:30 PM",
+        "hours": "Open · Closes 11:30 PM",
+        "operating_hours": {
+          "sunday": "7 AM–11:30 PM",
+          "monday": "7 AM–11:30 PM",
+          "tuesday": "7 AM–11:30 PM",
+          "wednesday": "7 AM–11:30 PM",
+          "thursday": "7 AM–11:30 PM",
+          "friday": "7 AM–11:30 PM",
+          "saturday": "7 AM–11:30 PM"
+        },
+        "phone": "+91 70003 86635"
+      },
+      {
+        "position": 15,
+        "title": "BHUMIKA MEDICAL STORE",
+        "place_id": "ChIJP3Q2xvppfDkRP4b_x0FnaCs",
+        "data_id": "0x397c69fac636743f:0x2b686741c7ff863f",
+        "data_cid": "3127863473434756671",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c69fac636743f%3A0x2b686741c7ff863f&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.267207,
+          "longitude": 77.4605772
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP3Q2xvppfDkRP4b_x0FnaCs",
+        "provider_id": "/g/1vd3t5v8",
+        "rating": 4.2,
+        "reviews": 26,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "Plot No. 284, Shop No. 2,, Durgesh Vihar, J K Road,, Bhopal, Madhya Pradesh 462041, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "9:30 AM–10 PM",
+          "monday": "9:30 AM–10 PM",
+          "tuesday": "9:30 AM–10 PM",
+          "wednesday": "9:30 AM–10 PM",
+          "thursday": "9:30 AM–10 PM",
+          "friday": "9:30 AM–10 PM",
+          "saturday": "9:30 AM–10 PM"
+        },
+        "phone": "+91 755 423 9671"
+      },
+      {
+        "position": 16,
+        "title": "Siddhant Medical Store",
+        "place_id": "ChIJt_VdURldfDkRnWUhC6bxxsg",
+        "data_id": "0x397c5d19515df5b7:0xc8c6f1a60b21659d",
+        "data_cid": "14467516548427900317",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c5d19515df5b7%3A0xc8c6f1a60b21659d&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.217867899999998,
+          "longitude": 77.39328309999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt_VdURldfDkRnWUhC6bxxsg",
+        "provider_id": "/g/11k9f3q181",
+        "rating": 5,
+        "reviews": 62,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy",
+          "Cosmetics store",
+          "Hospital",
+          "Medical clinic"
+        ],
+        "address": "B 29, Kotra Sultanabad Rd, Kamla Nagar, Kotra Sultanabad, Bhopal, Madhya Pradesh 462003, India",
+        "country": "India",
+        "open_state": "Open · Closes 12 AM",
+        "hours": "Open · Closes 12 AM",
+        "operating_hours": {
+          "sunday": "8:30 AM–12 AM",
+          "monday": "8:30 AM–12 AM",
+          "tuesday": "8:30 AM–12 AM",
+          "wednesday": "8:30 AM–12 AM",
+          "thursday": "8:30 AM–12 AM",
+          "friday": "8:30 AM–12 AM",
+          "saturday": "8:30 AM–12 AM"
+        },
+        "phone": "+91 88188 90307",
+        "website": "https://siddhant-medical-store.grexa.site/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 17,
+        "title": "Shree Balaji Medical Store",
+        "place_id": "ChIJQZwvWABpfDkR8thX2YUkbhs",
+        "data_id": "0x397c6900582f9c41:0x1b6e2485d957d8f2",
+        "data_cid": "1976557443757889778",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c6900582f9c41%3A0x1b6e2485d957d8f2&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2693968,
+          "longitude": 77.4679483
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQZwvWABpfDkR8thX2YUkbhs",
+        "provider_id": "/g/11w1ddl9rj",
+        "rating": 5,
+        "reviews": 17,
+        "type": "Medical Center",
+        "types": [
+          "Medical Center"
+        ],
+        "address": "Shop No.4, Bhawanidham Phase-1, Chhatrapati Nagar, Narela jod, Ayodhya Bypass, Bhopal, Madhya Pradesh 462041, India",
+        "country": "India",
+        "open_state": "Open · Closes 12 AM",
+        "hours": "Open · Closes 12 AM",
+        "operating_hours": {
+          "sunday": "8:30 AM–12 AM",
+          "monday": "8:30 AM–12 AM",
+          "tuesday": "8:30 AM–12 AM",
+          "wednesday": "8:30 AM–12 AM",
+          "thursday": "8:30 AM–12 AM",
+          "friday": "8:30 AM–12 AM",
+          "saturday": "8:30 AM–12 AM"
+        },
+        "phone": "+91 80858 13607"
+      },
+      {
+        "position": 18,
+        "title": "Bhawani Medical store",
+        "place_id": "ChIJ4Se5ZLJpfDkRM_WQhq0-va8",
+        "data_id": "0x397c69b264b927e1:0xafbd3ead8690f533",
+        "data_cid": "12663346642243614003",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c69b264b927e1%3A0xafbd3ead8690f533&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.2779883,
+          "longitude": 77.4201396
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4Se5ZLJpfDkRM_WQhq0-va8",
+        "provider_id": "/g/11h04dycb7",
+        "rating": 4.9,
+        "reviews": 11,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "Shop no.3, 4, Krishna Nagar Rd, Dwarka Nagar, Bhopal, Madhya Pradesh 462010, India",
+        "country": "India",
+        "open_state": "Open · Closes 10:30 PM",
+        "hours": "Open · Closes 10:30 PM",
+        "operating_hours": {
+          "sunday": "10 AM–10:30 PM",
+          "monday": "10 AM–10:30 PM",
+          "tuesday": "10 AM–10:30 PM",
+          "wednesday": "10 AM–10:30 PM",
+          "thursday": "10 AM–10:30 PM",
+          "friday": "10 AM–10:30 PM",
+          "saturday": "10 AM–10:30 PM"
+        },
+        "phone": "+91 98930 37751"
+      },
+      {
+        "position": 19,
+        "title": "Apna medical store bhopal (madhaya pradesh) india",
+        "place_id": "ChIJ9TObvfRDfDkRVr3AKWQlyIU",
+        "data_id": "0x397c43f4bd9b33f5:0x85c8256429c0bd56",
+        "data_cid": "9639996114514001238",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c43f4bd9b33f5%3A0x85c8256429c0bd56&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.219347499999998,
+          "longitude": 77.3916543
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9TObvfRDfDkRVr3AKWQlyIU",
+        "provider_id": "/g/11fhtzwfwm",
+        "rating": 5,
+        "reviews": 20,
+        "type": "Medical Center",
+        "types": [
+          "Medical Center"
+        ],
+        "address": "Kamla Nagar, Kotra Sultanabad, Bhopal, Madhya Pradesh 462003, India",
+        "country": "India",
+        "open_state": "Open · Closes 10:30 PM",
+        "hours": "Open · Closes 10:30 PM",
+        "operating_hours": {
+          "sunday": "10 AM–10:30 PM",
+          "monday": "10 AM–10 PM",
+          "tuesday": "10 AM–10 PM",
+          "wednesday": "10 AM–10:30 PM",
+          "thursday": "10 AM–10:30 PM",
+          "friday": "10 AM–10:30 PM",
+          "saturday": "10 AM–10 PM"
+        },
+        "phone": "+91 98266 77545"
+      },
+      {
+        "position": 20,
+        "title": "New Shraddha Medical",
+        "place_id": "ChIJK_zbSSNDfDkRkgeKFlB2d1g",
+        "data_id": "0x397c432349dbfc2b:0x58777650168a0792",
+        "data_cid": "6374693883913832338",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397c432349dbfc2b%3A0x58777650168a0792&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.232480199999998,
+          "longitude": 77.3944271
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK_zbSSNDfDkRkgeKFlB2d1g",
+        "provider_id": "/g/11fhz1xdyp",
+        "rating": 4.6,
+        "reviews": 123,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy",
+          "General store",
+          "Medical supply store",
+          "Surgical supply store"
+        ],
+        "address": "Bhadbhada Rd, Jawahar Chowk, North TT Nagar, TT Nagar, Bhopal, Madhya Pradesh 462003, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "8 AM–11 PM",
+          "monday": "8 AM–11 PM",
+          "tuesday": "8 AM–11 PM",
+          "wednesday": "8 AM–11 PM",
+          "thursday": "8 AM–11 PM",
+          "friday": "8 AM–11 PM",
+          "saturday": "8 AM–11 PM"
+        },
+        "phone": "+91 755 407 7697",
+        "website": "https://newshraddhamedical.com/",
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ]
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4023.2599333%2C77.412615%2C14z&q=medical+store&start=20&type=search"
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "_meta": {
+    "label": "maps Ashta / dentist",
+    "engine": "google_maps",
+    "params": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "dentist",
+      "ll": "@23.0180474,76.715972,14z",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:19:52.310091+00:00",
+    "http_status": 200,
+    "elapsed_s": 1.11,
+    "credit_delta_measured": 1,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac26085a289717e22aee419",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/VCm1SGG7IT3ucK7i_9W5a7i0nqu7aAOiov_tED36yzY/6ac26085a289717e22aee419.md",
+      "created_at": "2026-10-04 14:19:49 UTC",
+      "processed_at": "2026-10-04 14:19:49 UTC",
+      "google_maps_url": "https://www.google.com/maps/search/dentist/@23.0180474,76.715972,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+      "total_time_taken": 0.75
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "dentist",
+      "ll": "@23.0180474,76.715972,14z",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Results for exact spelling",
+      "query_displayed": "dentist"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "Arastu Dental | Dr. Gopal Singh Thakur BDS (Mumbai)",
+        "place_id": "ChIJN8UEeGrFfDkRmdopudZpPwA",
+        "data_id": "0x397cc56a7804c537:0x3f69d6b929da99",
+        "data_cid": "17849294483217049",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc56a7804c537%3A0x3f69d6b929da99&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.021941299999998,
+          "longitude": 76.7275038
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN8UEeGrFfDkRmdopudZpPwA",
+        "provider_id": "/g/11gwmgphzq",
+        "rating": 4.9,
+        "reviews": 64,
+        "type": "Dental clinic",
+        "types": [
+          "Dental clinic"
+        ],
+        "address": "Kannod Rd, Bajrang Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Closed · Opens 10:30 AM Mon",
+        "hours": "Closed · Opens 10:30 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "10:30 AM–7:30 PM",
+          "tuesday": "10:30 AM–7:30 PM",
+          "wednesday": "10:30 AM–7:30 PM",
+          "thursday": "10:30 AM–7:30 PM",
+          "friday": "10:30 AM–7:30 PM",
+          "saturday": "10:30 AM–7:30 PM"
+        },
+        "phone": "+91 92441 25686",
+        "website": "http://arastudental.com/"
+      },
+      {
+        "position": 2,
+        "title": "Dr.Gopal Singh Thakur. BDS(Mumbai)",
+        "place_id": "ChIJB4EYRK_EfDkRh8FY_I42Ybk",
+        "data_id": "0x397cc4af44188107:0xb961368efc58c187",
+        "data_cid": "13358017957504532871",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc4af44188107%3A0xb961368efc58c187&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0217806,
+          "longitude": 76.7275305
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB4EYRK_EfDkRh8FY_I42Ybk",
+        "provider_id": "/g/11cs6bnz3m",
+        "rating": 4.9,
+        "reviews": 68,
+        "type": "Dental clinic",
+        "types": [
+          "Dental clinic"
+        ],
+        "address": "Kannod Rd, near Vinayak Netralaya, Bajrang Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Closed · Opens 9:30 AM Mon",
+        "hours": "Closed · Opens 9:30 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "9:30 AM–7:30 PM",
+          "tuesday": "9:30 AM–7:30 PM",
+          "wednesday": "9:30 AM–7:30 PM",
+          "thursday": "9:30 AM–7:30 PM",
+          "friday": "9:30 AM–7:30 PM",
+          "saturday": "9:30 AM–7:30 PM"
+        },
+        "phone": "+91 90394 75251",
+        "website": "http://www.arastudental.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "Aura Dental Care Dr. Deepak Kailodia",
+        "place_id": "ChIJqQmXJQDFfDkRWLlfGjB-_rQ",
+        "data_id": "0x397cc500259709a9:0xb4fe7e301a5fb958",
+        "data_cid": "13042000315977546072",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc500259709a9%3A0xb4fe7e301a5fb958&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0148248,
+          "longitude": 76.724513
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqQmXJQDFfDkRWLlfGjB-_rQ",
+        "provider_id": "/g/11nqc5ms_l",
+        "rating": 5,
+        "reviews": 12,
+        "type": "Dental clinic",
+        "types": [
+          "Dental clinic"
+        ],
+        "address": "Aman medical colony chauraha, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Closes soon · 8 PM · Opens 10 AM Mon",
+        "hours": "Closes soon · 8 PM · Opens 10 AM Mon",
+        "operating_hours": {
+          "sunday": "10 AM–8 PM",
+          "monday": "10 AM–8 PM",
+          "tuesday": "10 AM–8 PM",
+          "wednesday": "10 AM–8 PM",
+          "thursday": "10 AM–8 PM",
+          "friday": "10 AM–8 PM",
+          "saturday": "10 AM–8 PM"
+        },
+        "phone": "+91 88891 82122",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "Dr. Parmar Dental care",
+        "place_id": "ChIJjc-uYwDFfDkROzG83fdRKjY",
+        "data_id": "0x397cc50063aecf8d:0x362a51f7ddbc313b",
+        "data_cid": "3903022152088826171",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc50063aecf8d%3A0x362a51f7ddbc313b&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.021776799999998,
+          "longitude": 76.7262847
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjc-uYwDFfDkROzG83fdRKjY",
+        "provider_id": "/g/11zd9jrd81",
+        "rating": 5,
+        "reviews": 3,
+        "type": "Dentist",
+        "types": [
+          "Dentist",
+          "Dental clinic"
+        ],
+        "address": "Hari Om Medical Ke Piche, Ashta - Kannod Rd, Sai Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Closed · Opens 10 AM Mon",
+        "hours": "Closed · Opens 10 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "10 AM–7 PM",
+          "tuesday": "10 AM–7 PM",
+          "wednesday": "10 AM–7 PM",
+          "thursday": "10 AM–7 PM",
+          "friday": "10 AM–7 PM",
+          "saturday": "10 AM–7 PM"
+        },
+        "phone": "+91 77228 62604",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "Surana Dental Clinic",
+        "place_id": "ChIJc8LXMK7EfDkRY2oy3L9F4ms",
+        "data_id": "0x397cc4ae30d7c273:0x6be245bfdc326a63",
+        "data_cid": "7773852597130259043",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc4ae30d7c273%3A0x6be245bfdc326a63&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0140636,
+          "longitude": 76.7228586
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc8LXMK7EfDkRY2oy3L9F4ms",
+        "provider_id": "/g/1q5blt7fl",
+        "rating": 4.6,
+        "reviews": 20,
+        "type": "Dental clinic",
+        "types": [
+          "Dental clinic"
+        ],
+        "address": "Budhwara Rd, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Closed · Opens 10 AM Mon",
+        "hours": "Closed · Opens 10 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "10 AM–6 PM",
+          "tuesday": "10 AM–6 PM",
+          "wednesday": "10 AM–6 PM",
+          "thursday": "10 AM–6 PM",
+          "friday": "10 AM–6 PM",
+          "saturday": "10 AM–6 PM"
+        }
+      },
+      {
+        "position": 6,
+        "title": "Alfiya dental clinic",
+        "place_id": "ChIJz1F0mxvFfDkRs8mSa1hXO4Y",
+        "data_id": "0x397cc51b9b7451cf:0x863b57586b92c9b3",
+        "data_cid": "9672420661981792691",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc51b9b7451cf%3A0x863b57586b92c9b3&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.018034999999998,
+          "longitude": 76.7160114
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz1F0mxvFfDkRs8mSa1hXO4Y",
+        "provider_id": "/g/11zgn7myfq",
+        "type": "Dentist",
+        "types": [
+          "Dentist"
+        ],
+        "address": "Raka dharam shala, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "10 AM–10 PM",
+          "monday": "10 AM–10 PM",
+          "tuesday": "10 AM–10 PM",
+          "wednesday": "10 AM–10 PM",
+          "thursday": "10 AM–10 PM",
+          "friday": "10 AM–10 PM",
+          "saturday": "10 AM–10 PM"
+        },
+        "phone": "+91 98933 21043"
+      },
+      {
+        "position": 7,
+        "title": "Dent N well dental clinic",
+        "place_id": "ChIJW_Rg4B3FfDkRjHknH-y727g",
+        "data_id": "0x397cc51de060f45b:0xb8dbbbec1f27798c",
+        "data_cid": "13320446945687730572",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc51de060f45b%3A0xb8dbbbec1f27798c&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.021686799999998,
+          "longitude": 76.72389319999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW_Rg4B3FfDkRjHknH-y727g",
+        "provider_id": "/g/11fkbcc3_p",
+        "rating": 5,
+        "reviews": 2,
+        "type": "Dental clinic",
+        "types": [
+          "Dental clinic"
+        ],
+        "address": "Budhwara road Back to civil hospital, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Closed · Opens 10 AM Mon",
+        "hours": "Closed · Opens 10 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "10 AM–8 PM",
+          "tuesday": "10 AM–8 PM",
+          "wednesday": "10 AM–8 PM",
+          "thursday": "10 AM–8 PM",
+          "friday": "10 AM–8 PM",
+          "saturday": "10 AM–3 PM"
+        }
+      },
+      {
+        "position": 8,
+        "title": "Vedant Dental clinic",
+        "place_id": "ChIJJWLga7nFfDkRD5Q_WKUo3X4",
+        "data_id": "0x397cc5b96be06225:0x7edd28a5583f940f",
+        "data_cid": "9141507509247251471",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc5b96be06225%3A0x7edd28a5583f940f&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0148579,
+          "longitude": 76.7243443
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJWLga7nFfDkRD5Q_WKUo3X4",
+        "provider_id": "/g/11vlbz6lcm",
+        "rating": 4.5,
+        "reviews": 6,
+        "type": "Dental clinic",
+        "types": [
+          "Dental clinic",
+          "Doctor"
+        ],
+        "address": "Colony choraha, Kannod Rd, opposite Dr yadav, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Closed · Opens 10 AM Mon",
+        "hours": "Closed · Opens 10 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "10 AM–7 PM",
+          "tuesday": "10 AM–7 PM",
+          "wednesday": "10 AM–7 PM",
+          "thursday": "10 AM–7 PM",
+          "friday": "10 AM–7 PM",
+          "saturday": "10 AM–7 PM"
+        },
+        "phone": "+91 79873 85515"
+      },
+      {
+        "position": 9,
+        "title": "suvidha family dental clinic",
+        "place_id": "ChIJCfGej6_EfDkRN725HyUOiEU",
+        "data_id": "0x397cc4af8f9ef109:0x45880e251fb9bd37",
+        "data_cid": "5010270138058521911",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc4af8f9ef109%3A0x45880e251fb9bd37&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.020341,
+          "longitude": 76.7241976
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCfGej6_EfDkRN725HyUOiEU",
+        "provider_id": "/g/11c6lhhhwm",
+        "unclaimed_listing": true,
+        "type": "Dentist",
+        "types": [
+          "Dentist"
+        ],
+        "address": "2PCF+4MP, Sai Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India",
+        "open_state": "Closed · Opens 10:30 AM Mon",
+        "hours": "Closed · Opens 10:30 AM Mon",
+        "operating_hours": {
+          "sunday": "Closed",
+          "monday": "10:30 AM–8 PM",
+          "tuesday": "10:30 AM–8 PM",
+          "wednesday": "10:30 AM–8 PM",
+          "thursday": "10:30 AM–8 PM",
+          "friday": "10:30 AM–8 PM",
+          "saturday": "10:30 AM–8 PM"
+        },
+        "phone": "+91 74156 20669"
+      },
+      {
+        "position": 10,
+        "title": "AYUSH DENTAL CLINIC",
+        "place_id": "ChIJvXuWg6XEfDkRx4aZvBpZ6Wg",
+        "data_id": "0x397cc4a583967bbd:0x68e9591abc9986c7",
+        "data_cid": "7559671420886288071",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc4a583967bbd%3A0x68e9591abc9986c7&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0214747,
+          "longitude": 76.7252743
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvXuWg6XEfDkRx4aZvBpZ6Wg",
+        "provider_id": "/g/11vm59c080",
+        "unclaimed_listing": true,
+        "type": "Dentist",
+        "types": [
+          "Dentist"
+        ],
+        "address": "Sai Colony, Ashta, Madhya Pradesh 466116, India",
+        "country": "India"
+      },
+      {
+        "position": 11,
+        "title": "Swagat Tent House",
+        "place_id": "ChIJUyyP3rHEfDkRGymTuMDhVa8",
+        "data_id": "0x397cc4b1de8f2c53:0xaf55e1c0b893291b",
+        "data_cid": "12634252547504417051",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x397cc4b1de8f2c53%3A0xaf55e1c0b893291b&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 23.0165234,
+          "longitude": 76.7218017
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUyyP3rHEfDkRGymTuMDhVa8",
+        "provider_id": "/g/11krps642p",
+        "unclaimed_listing": true,
+        "type": "Dentist",
+        "types": [
+          "Dentist"
+        ],
+        "address": "Ashta, Madhya Pradesh 466116, India",
+        "country": "India"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+:root {
+  --nukkad-absence: #b45309;    /* amber-700: something missing */
+  --nukkad-quality: #6d28d9;    /* violet-700: exists but underperforms */
+  --nukkad-window: #0e7490;     /* cyan-700: exists but wrong hours */
+  --nukkad-neutral: #64748b;    /* slate-500 */
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background-color: #f8fafc;
+  color: #0f172a;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* Leaflet's default marker icon URLs break under bundlers - we replace the
+   icon entirely in MapView.tsx with inline colored circle markers, so no
+   image assets are needed at all. */
+.leaflet-container {
+  background: #eef2f7;
+  border-radius: 0.75rem;
+}
+
+.gap-badge-ABSENCE { background-color: var(--nukkad-absence); }
+.gap-badge-QUALITY { background-color: var(--nukkad-quality); }
+.gap-badge-SERVICE_WINDOW { background-color: var(--nukkad-window); }
+
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }

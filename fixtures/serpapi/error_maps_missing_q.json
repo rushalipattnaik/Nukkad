@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "label": "maps missing q (error probe)",
+    "engine": "google_maps",
+    "params": {
+      "engine": "google_maps",
+      "type": "search"
+    },
+    "recorded_at": "2026-10-04T14:21:41.678553+00:00",
+    "http_status": 400,
+    "elapsed_s": 0.41,
+    "credit_delta_measured": 0,
+    "error": "Missing query `q` parameter."
+  },
+  "response": {
+    "error": "Missing query `q` parameter."
+  }
+}

@@ -1,0 +1,721 @@
+{
+  "_meta": {
+    "label": "maps Indore / medical store start=20",
+    "engine": "google_maps",
+    "params": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "medical store",
+      "ll": "@22.7195687,75.8577258,14z",
+      "hl": "en",
+      "start": 20
+    },
+    "recorded_at": "2026-10-04T14:20:34.947084+00:00",
+    "http_status": 200,
+    "elapsed_s": 1.51,
+    "credit_delta_measured": 1,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac260af60cbef488610a545",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/Y40d5Y80opmeLBhz13tXQ0ADOnHUJCEArTC-cFkD0Cc/6ac260af60cbef488610a545.md",
+      "created_at": "2026-10-04 14:20:31 UTC",
+      "processed_at": "2026-10-04 14:20:31 UTC",
+      "google_maps_url": "https://www.google.com/maps/search/medical+store/@22.7195687,75.8577258,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+      "total_time_taken": 1.18
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "medical store",
+      "ll": "@22.7195687,75.8577258,14z",
+      "google_domain": "google.com",
+      "hl": "en",
+      "start": 20
+    },
+    "search_information": {
+      "local_results_state": "Results for exact spelling",
+      "query_displayed": "medical store"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "Jay Medical Store Indore",
+        "place_id": "ChIJRckZUdv8YjkR9f1aSiLC4Sk",
+        "data_id": "0x3962fcdb5119c945:0x29e1c2224a5afdf5",
+        "data_cid": "3017906677847096821",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fcdb5119c945%3A0x29e1c2224a5afdf5&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.6910499,
+          "longitude": 75.8832707
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRckZUdv8YjkR9f1aSiLC4Sk",
+        "provider_id": "/g/11c1pgvz_r",
+        "rating": 4.5,
+        "reviews": 15,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "chitawat square, 27, Nemawar Rd, near Nayara mittal petrol pump, Jagan Nagar, Sajan Nagar, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Open · Closes 11:30 PM",
+        "hours": "Open · Closes 11:30 PM",
+        "operating_hours": {
+          "sunday": "8 AM–11:30 PM",
+          "monday": "7:30 AM–11 PM",
+          "tuesday": "7:30 AM–11 PM",
+          "wednesday": "7:30 AM–11 PM",
+          "thursday": "8 AM–11:30 PM",
+          "friday": "8 AM–11:30 PM",
+          "saturday": "8 AM–11:30 PM"
+        },
+        "phone": "+91 99819 62227"
+      },
+      {
+        "position": 2,
+        "title": "Singhal Medical Store",
+        "place_id": "ChIJfUYl71z9YjkR8DVEpdXeaQo",
+        "data_id": "0x3962fd5cef25467d:0xa69ded5a54435f0",
+        "data_cid": "750375822116009456",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd5cef25467d%3A0xa69ded5a54435f0&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.738931899999997,
+          "longitude": 75.8825347
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfUYl71z9YjkR8DVEpdXeaQo",
+        "provider_id": "/g/11cmxgk74s",
+        "rating": 5,
+        "reviews": 8,
+        "unclaimed_listing": true,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "13, MIG Main Rd, Jagjivan Ram Nagar, Indore, Madhya Pradesh 452011, India",
+        "country": "India",
+        "open_state": "Open · Closes 10:30 PM",
+        "hours": "Open · Closes 10:30 PM",
+        "operating_hours": {
+          "sunday": "9 AM–2 PM, 5–10:30 PM",
+          "monday": "9 AM–2 PM, 5–10:30 PM",
+          "tuesday": "9 AM–2 PM, 5–10:30 PM",
+          "wednesday": "9 AM–2 PM, 5–10:30 PM",
+          "thursday": "9 AM–2 PM, 5–10:30 PM",
+          "friday": "9 AM–2 PM, 5–10:30 PM",
+          "saturday": "9 AM–2 PM, 5–10:30 PM"
+        }
+      },
+      {
+        "position": 3,
+        "title": "Shri Balaji Medical Store",
+        "place_id": "ChIJZ36y7w_9YjkRtnzicgfclDU",
+        "data_id": "0x3962fd0fefb27e67:0x3594dc0772e27cb6",
+        "data_cid": "3860952705113685174",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd0fefb27e67%3A0x3594dc0772e27cb6&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.713245999999998,
+          "longitude": 75.864119
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ36y7w_9YjkRtnzicgfclDU",
+        "provider_id": "/g/11t6jsq0zx",
+        "rating": 5,
+        "reviews": 1,
+        "unclaimed_listing": true,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "PV77+7JX, S Hathipala Rd, Juni Indore, Indore, Madhya Pradesh 452007, India",
+        "country": "India",
+        "open_state": "Open · Closes 12 AM",
+        "hours": "Open · Closes 12 AM",
+        "operating_hours": {
+          "sunday": "9 AM–12 AM",
+          "monday": "9 AM–12 AM",
+          "tuesday": "9 AM–12 AM",
+          "wednesday": "9 AM–12 AM",
+          "thursday": "9 AM–12 AM",
+          "friday": "9 AM–12 AM",
+          "saturday": "9 AM–12 AM"
+        },
+        "phone": "+91 83199 18497"
+      },
+      {
+        "position": 4,
+        "title": "BMB Medical Store",
+        "place_id": "ChIJSdKD44z_YjkRUe76lw9lI2U",
+        "data_id": "0x3962ff8ce383d249:0x6523650f97faee51",
+        "data_cid": "7287779739664313937",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962ff8ce383d249%3A0x6523650f97faee51&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7093186,
+          "longitude": 75.8066648
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSdKD44z_YjkRUe76lw9lI2U",
+        "provider_id": "/g/11ld95j_qn",
+        "rating": 5,
+        "reviews": 3,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "63 H sector, Sector I, Green Park Colony, Indore, Madhya Pradesh 452006, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "9 AM–11 PM",
+          "monday": "9 AM–11 PM",
+          "tuesday": "9 AM–11 PM",
+          "wednesday": "9 AM–11 PM",
+          "thursday": "9 AM–11 PM",
+          "friday": "9 AM–11 PM",
+          "saturday": "9 AM–11 PM"
+        },
+        "phone": "+91 70244 97310"
+      },
+      {
+        "position": 5,
+        "title": "AKSHAT MEDICAL STORE",
+        "place_id": "ChIJG0dPF7njYjkRWrBD8YDf_w4",
+        "data_id": "0x3962e3b9174f471b:0xeffdf80f143b05a",
+        "data_cid": "1080828180488761434",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962e3b9174f471b%3A0xeffdf80f143b05a&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7251886,
+          "longitude": 75.92117879999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG0dPF7njYjkRWrBD8YDf_w4",
+        "provider_id": "/g/11h70jn28l",
+        "rating": 5,
+        "reviews": 5,
+        "type": "Medical Center",
+        "types": [
+          "Medical Center",
+          "Pharmacy"
+        ],
+        "address": "Shop No. 1, Arihant Kalashree Pride 380, Kanadia Main Rd, Alok Nagar, Indore, Madhya Pradesh 452016, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "10 AM–11 PM",
+          "monday": "10 AM–11 PM",
+          "tuesday": "10 AM–11 PM",
+          "wednesday": "10 AM–11 PM",
+          "thursday": "10 AM–11 PM",
+          "friday": "10 AM–11 PM",
+          "saturday": "10 AM–11 PM"
+        },
+        "phone": "+91 79997 99159"
+      },
+      {
+        "position": 6,
+        "title": "Shashi Medical Store",
+        "place_id": "ChIJ3z0byED9YjkRZHdYHeHofdw",
+        "data_id": "0x3962fd40c81b3ddf:0xdc7de8e11d587764",
+        "data_cid": "15888111113990600548",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd40c81b3ddf%3A0xdc7de8e11d587764&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.6944686,
+          "longitude": 75.8260119
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3z0byED9YjkRZHdYHeHofdw",
+        "provider_id": "/g/11rd8qxyxd",
+        "rating": 5,
+        "reviews": 1,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "Uncle Gali, 223, Dwarkapuri, Indore, Madhya Pradesh 452009, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "8 AM–11 PM",
+          "monday": "8 AM–11 PM",
+          "tuesday": "8 AM–11 PM",
+          "wednesday": "8 AM–11 PM",
+          "thursday": "8 AM–11 PM",
+          "friday": "8 AM–11 PM",
+          "saturday": "8 AM–11 PM"
+        },
+        "phone": "+91 87178 22554"
+      },
+      {
+        "position": 7,
+        "title": "Shree Bhagwate Medical Store",
+        "place_id": "ChIJB7VGYQT9YjkRVBB3w0gNcSE",
+        "data_id": "0x3962fd046146b507:0x21710d48c3771054",
+        "data_cid": "2409721881788092500",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd046146b507%3A0x21710d48c3771054&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.6935233,
+          "longitude": 75.8214795
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB7VGYQT9YjkRVBB3w0gNcSE",
+        "provider_id": "/g/11lnx71yfj",
+        "rating": 5,
+        "reviews": 1,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "284 A, near Shani Mandir, Sai Baba Nagar, Dwarkapuri, Indore, Madhya Pradesh 452009, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "sunday": "6 PM–12 AM",
+          "monday": "12 AM–10:30 PM",
+          "tuesday": "6–10:30 PM",
+          "wednesday": "6–10:30 PM",
+          "thursday": "6–10:30 PM",
+          "friday": "6–10:30 PM",
+          "saturday": "6–10 PM"
+        },
+        "phone": "+91 91111 12285"
+      },
+      {
+        "position": 8,
+        "title": "Gurjar Medical store",
+        "place_id": "ChIJhceFwfADYzkRL2xV8iICV90",
+        "data_id": "0x396303f0c185c785:0xdd570222f2556c2f",
+        "data_cid": "15949218954473729071",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396303f0c185c785%3A0xdd570222f2556c2f&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7617738,
+          "longitude": 75.8868432
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhceFwfADYzkRL2xV8iICV90",
+        "provider_id": "/g/11kpdysxxn",
+        "rating": 5,
+        "reviews": 5,
+        "unclaimed_listing": true,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "QV6P+PP4, Scheme Number 78, Vijay Nagar, Part II, Scheme 78, Vijay Nagar, Indore, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "9 AM–11 PM",
+          "monday": "9 AM–11 PM",
+          "tuesday": "9 AM–11 PM",
+          "wednesday": "9 AM–11 PM",
+          "thursday": "9 AM–11 PM",
+          "friday": "9 AM–11 PM",
+          "saturday": "9 AM–11 PM"
+        },
+        "phone": "+91 97530 64882"
+      },
+      {
+        "position": 9,
+        "title": "tripathi medical store",
+        "place_id": "ChIJO0NXcBv9YjkRr_jLpjQTyRY",
+        "data_id": "0x3962fd1b7057433b:0x16c91334a6cbf8af",
+        "data_cid": "1641864656010868911",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd1b7057433b%3A0x16c91334a6cbf8af&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7076815,
+          "longitude": 75.867471
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO0NXcBv9YjkRr_jLpjQTyRY",
+        "provider_id": "/g/11dxl2rkg_",
+        "rating": 3,
+        "reviews": 2,
+        "unclaimed_listing": true,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "rod, Loha Mandi, harda, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours",
+          "saturday": "Open 24 hours"
+        },
+        "phone": "+91 75772 23065"
+      },
+      {
+        "position": 10,
+        "title": "Medicine supply at Door Step Harsh medical near CHL Hospital",
+        "place_id": "ChIJxZ25Rk_9YjkReiuNZ-TD-8s",
+        "data_id": "0x3962fd4f46b99dc5:0xcbfbc3e4678d2b7a",
+        "data_cid": "14698557194611010426",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd4f46b99dc5%3A0xcbfbc3e4678d2b7a&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.733192,
+          "longitude": 75.8894246
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxZ25Rk_9YjkReiuNZ-TD-8s",
+        "provider_id": "/g/11gb3r51mb",
+        "rating": 4.7,
+        "reviews": 3,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "Near CHL Hospital, AB Rd, Phadnis Colony, 9826711113, Madhya Pradesh 452011, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "4–11 PM",
+          "monday": "8 AM–11 PM",
+          "tuesday": "8 AM–11 PM",
+          "wednesday": "8 AM–11 PM",
+          "thursday": "8 AM–11 PM",
+          "friday": "8 AM–11 PM",
+          "saturday": "8 AM–10 PM"
+        },
+        "phone": "+91 98260 30113"
+      },
+      {
+        "position": 11,
+        "title": "Maa bhagwati medical store",
+        "place_id": "ChIJqZR4b639YjkRcKSle5Nxfgs",
+        "data_id": "0x3962fdad6f7894a9:0xb7e71937ba5a470",
+        "data_cid": "828224259731334256",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fdad6f7894a9%3A0xb7e71937ba5a470&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.727511999999997,
+          "longitude": 75.8842315
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqZR4b639YjkRcKSle5Nxfgs",
+        "provider_id": "/g/11rkj101kt",
+        "rating": 5,
+        "reviews": 3,
+        "type": "Medical supply store",
+        "types": [
+          "Medical supply store"
+        ],
+        "address": "UG-10, Ratan mani complex, front of coral hospital, New Palasia, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "9 AM–11 PM",
+          "monday": "9 AM–11 PM",
+          "tuesday": "9 AM–11 PM",
+          "wednesday": "9 AM–11 PM",
+          "thursday": "9 AM–11 PM",
+          "friday": "9 AM–11 PM",
+          "saturday": "9 AM–11 PM"
+        }
+      },
+      {
+        "position": 12,
+        "title": "Maa medical store",
+        "place_id": "ChIJR-aZMgD9YjkRi5tU17ahODY",
+        "data_id": "0x3962fd003299e647:0x3638a1b6d7549b8b",
+        "data_cid": "3907050483412671371",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd003299e647%3A0x3638a1b6d7549b8b&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.6893961,
+          "longitude": 75.8895162
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR-aZMgD9YjkRi5tU17ahODY",
+        "provider_id": "/g/11l_5kg_rc",
+        "rating": 5,
+        "reviews": 2,
+        "unclaimed_listing": true,
+        "type": "Medical supply store",
+        "types": [
+          "Medical supply store"
+        ],
+        "address": "MVQQ+QR2, Pawanpuri Colony, Palda, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "12 AM–10 PM",
+          "monday": "9 AM–10 PM",
+          "tuesday": "9 AM–10 PM",
+          "wednesday": "9 AM–10 PM",
+          "thursday": "9 AM–10 PM",
+          "friday": "9 AM–10 PM",
+          "saturday": "9 AM–10 PM"
+        }
+      },
+      {
+        "position": 13,
+        "title": "SHREE MEDICAL STORE",
+        "place_id": "ChIJs_SfdDr7YjkR-P_wV4qx228",
+        "data_id": "0x3962fb3a749ff4b3:0x6fdbb18a57f0fff8",
+        "data_cid": "8060231165848649720",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fb3a749ff4b3%3A0x6fdbb18a57f0fff8&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.706524599999998,
+          "longitude": 75.86595659999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJs_SfdDr7YjkR-P_wV4qx228",
+        "provider_id": "/g/11gwmfhmc7",
+        "rating": 3.7,
+        "reviews": 3,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "near, Basketball Ground, Silver Star City Extention, Indore, Madhya Pradesh 452012, India",
+        "country": "India",
+        "open_state": "Open · Closes 11 PM",
+        "hours": "Open · Closes 11 PM",
+        "operating_hours": {
+          "sunday": "9 AM–11 PM",
+          "monday": "9 AM–11 PM",
+          "tuesday": "9 AM–11 PM",
+          "wednesday": "9 AM–11 PM",
+          "thursday": "9 AM–11 PM",
+          "friday": "9 AM–11 PM",
+          "saturday": "9 AM–11 PM"
+        },
+        "phone": "+91 88788 35838"
+      },
+      {
+        "position": 14,
+        "title": "Gurukripa Medical Store",
+        "place_id": "ChIJcdiQ9eLjYjkR3fzdbdeLfBE",
+        "data_id": "0x3962e3e2f590d871:0x117c8bd76dddfcdd",
+        "data_cid": "1260035753134390493",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962e3e2f590d871%3A0x117c8bd76dddfcdd&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.689158,
+          "longitude": 75.9120341
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcdiQ9eLjYjkR3fzdbdeLfBE",
+        "provider_id": "/g/11k9grwxlj",
+        "rating": 5,
+        "reviews": 1,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "71, near by Komal Oil Mil, Shiv Nagar, Mushakhedi, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Open · Closes 10:30 PM",
+        "hours": "Open · Closes 10:30 PM",
+        "operating_hours": {
+          "sunday": "8:30 AM–10:30 PM",
+          "monday": "8:30 AM–10:30 PM",
+          "tuesday": "8:30 AM–10:30 PM",
+          "wednesday": "8:30 AM–10:30 PM",
+          "thursday": "8:30 AM–10:30 PM",
+          "friday": "8:30 AM–10:30 PM",
+          "saturday": "8:30 AM–10:30 PM"
+        },
+        "phone": "+91 96859 02338"
+      },
+      {
+        "position": 15,
+        "title": "Shree Satya Sai Medical Store",
+        "place_id": "ChIJm2uF_139YjkRQcrOfKh2OwA",
+        "data_id": "0x3962fd5dff856b9b:0x3b76a87cceca41",
+        "data_cid": "16737489646438977",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd5dff856b9b%3A0x3b76a87cceca41&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7423292,
+          "longitude": 75.87690169999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJm2uF_139YjkRQcrOfKh2OwA",
+        "provider_id": "/g/11bbrk_6_d",
+        "rating": 4.2,
+        "reviews": 6,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "48/1, Nanda Nagar, Indore, Madhya Pradesh 452011, India",
+        "country": "India",
+        "open_state": "Open · Closes 11:30 PM",
+        "hours": "Open · Closes 11:30 PM",
+        "operating_hours": {
+          "sunday": "5:30–11:30 PM",
+          "monday": "11 AM–11:30 PM",
+          "tuesday": "11 AM–11:30 PM",
+          "wednesday": "11 AM–11:30 PM",
+          "thursday": "11 AM–11:30 PM",
+          "friday": "11 AM–11:30 PM",
+          "saturday": "11 AM–11:30 PM"
+        },
+        "phone": "+91 99938 19319"
+      },
+      {
+        "position": 16,
+        "title": "Harish Medical Store",
+        "place_id": "ChIJed2cyCL9YjkRnvA-kyPvEKg",
+        "data_id": "0x3962fd22c89cdd79:0xa810ef23933ef09e",
+        "data_cid": "12110442334072533150",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd22c89cdd79%3A0xa810ef23933ef09e&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7128296,
+          "longitude": 75.8753681
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJed2cyCL9YjkRnvA-kyPvEKg",
+        "provider_id": "/g/11bbtbfmxv",
+        "rating": 3.5,
+        "reviews": 4,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy",
+          "Medical supply store"
+        ],
+        "address": "RNT Marg, Dawa Bazar, M.Y., Murai Mohalla, South Tukoganj, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Open · Closes 10 PM",
+        "hours": "Open · Closes 10 PM",
+        "operating_hours": {
+          "sunday": "8 AM–10 PM",
+          "monday": "8 AM–10 PM",
+          "tuesday": "8 AM–10 PM",
+          "wednesday": "8 AM–10 PM",
+          "thursday": "8 AM–10 PM",
+          "friday": "8 AM–10 PM",
+          "saturday": "8 AM–10 PM"
+        },
+        "phone": "+91 92022 02177"
+      },
+      {
+        "position": 17,
+        "title": "Rashi medical store & cosmetics",
+        "place_id": "ChIJz2nwa5kDYzkRC2TdQMCzvM0",
+        "data_id": "0x396303996bf069cf:0xcdbcb3c040dd640b",
+        "data_cid": "14824921711700173835",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396303996bf069cf%3A0xcdbcb3c040dd640b&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7550565,
+          "longitude": 75.8744292
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz2nwa5kDYzkRC2TdQMCzvM0",
+        "provider_id": "/g/11y2951239",
+        "rating": 4.9,
+        "reviews": 9,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "Secter A4, near New janta studio garden, Pandit Din Dayal Upadhyay Nagar, Sukhliya, Indore, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Open · Closes 1 AM",
+        "hours": "Open · Closes 1 AM",
+        "operating_hours": {
+          "sunday": "9 AM–1 AM",
+          "monday": "9 AM–1 AM",
+          "tuesday": "9 AM–1 AM",
+          "wednesday": "9 AM–1 AM",
+          "thursday": "9 AM–1 AM",
+          "friday": "9 AM–1 AM",
+          "saturday": "9 AM–1 AM"
+        }
+      },
+      {
+        "position": 18,
+        "title": "Shri Sai Medical Store",
+        "place_id": "ChIJJyTX4PMDYzkR1rU9jQEujBc",
+        "data_id": "0x396303f3e0d72427:0x178c2e018d3db5d6",
+        "data_cid": "1696781743811311062",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396303f3e0d72427%3A0x178c2e018d3db5d6&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7618889,
+          "longitude": 75.8747283
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJyTX4PMDYzkR1rU9jQEujBc",
+        "provider_id": "/g/11pkd2vmj7",
+        "rating": 4,
+        "reviews": 2,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "85, Sukhlia, Sector CH, Sukhliya, Indore, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Open · Closes 12 AM",
+        "hours": "Open · Closes 12 AM",
+        "operating_hours": {
+          "sunday": "9 AM–12 AM",
+          "monday": "9 AM–11:30 PM",
+          "tuesday": "9 AM–10:30 PM",
+          "wednesday": "9 AM–10:30 PM",
+          "thursday": "9 AM–10:30 PM",
+          "friday": "9 AM–10:30 PM",
+          "saturday": "9 AM–10:30 PM"
+        }
+      },
+      {
+        "position": 19,
+        "title": "Maheshwari Medical Store",
+        "place_id": "ChIJ_8gZMaj9YjkRHL8ojJc8YKY",
+        "data_id": "0x3962fda83119c8ff:0xa6603c978c28bf1c",
+        "data_cid": "11988648829649469212",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fda83119c8ff%3A0xa6603c978c28bf1c&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.6872369,
+          "longitude": 75.8364035
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_8gZMaj9YjkRHL8ojJc8YKY",
+        "provider_id": "/g/11g2nznxnh",
+        "rating": 3,
+        "reviews": 1,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "1/A, Main Road, Annapurna Nagar, Indore, Madhya Pradesh 452009, India",
+        "country": "India",
+        "open_state": "Open · Closes 10:30 PM",
+        "hours": "Open · Closes 10:30 PM",
+        "operating_hours": {
+          "sunday": "9 AM–2 PM, 4–10:30 PM",
+          "monday": "9 AM–2 PM, 4–10:30 PM",
+          "tuesday": "9 AM–2 PM, 4–10:30 PM",
+          "wednesday": "9 AM–2 PM, 4–10:30 PM",
+          "thursday": "9 AM–2 PM, 4–10:30 PM",
+          "friday": "9 AM–2 PM, 4–10:30 PM",
+          "saturday": "9 AM–2 PM, 4–10:30 PM"
+        },
+        "phone": "+91 74158 48311"
+      },
+      {
+        "position": 20,
+        "title": "Shree Ranjeet Medical Store And Cosmetics",
+        "place_id": "ChIJywidCwD9YjkRZkT2pcRoHB4",
+        "data_id": "0x3962fd000b9d08cb:0x1e1c68c4a5f64466",
+        "data_cid": "2169724314292995174",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd000b9d08cb%3A0x1e1c68c4a5f64466&engine=google_maps_reviews&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.693025499999997,
+          "longitude": 75.8229731
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJywidCwD9YjkRZkT2pcRoHB4",
+        "provider_id": "/g/11n3t9w_wr",
+        "rating": 5,
+        "reviews": 1,
+        "unclaimed_listing": true,
+        "type": "Drug store",
+        "types": [
+          "Drug store"
+        ],
+        "address": "MRVF+659, Prajapat Nagar, Indore, Madhya Pradesh 452009, India",
+        "country": "India"
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4022.7195687%2C75.8577258%2C14z&q=medical+store&start=40&type=search",
+      "current": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4022.7195687%2C75.8577258%2C14z&q=medical+store&start=20&type=search",
+      "previous": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4022.7195687%2C75.8577258%2C14z&q=medical+store&start=0&type=search"
+    }
+  }
+}

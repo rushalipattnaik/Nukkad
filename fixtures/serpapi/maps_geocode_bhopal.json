@@ -1,0 +1,342 @@
+{
+  "_meta": {
+    "label": "maps geocode Bhopal",
+    "engine": "google_maps",
+    "params": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "Bhopal, Madhya Pradesh",
+      "hl": "en"
+    },
+    "recorded_at": "2026-10-04T14:20:00.609505+00:00",
+    "http_status": 200,
+    "elapsed_s": 1.84,
+    "credit_delta_measured": 1,
+    "error": null
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac2608d2070377bdc2c8d80",
+      "status": "Success",
+      "markdown_endpoint": "https://serpapi.com/searches/7uOErfBXCLwhW3wipWU67cUGCaQlmd3vMl2790SxCq0/6ac2608d2070377bdc2c8d80.md",
+      "created_at": "2026-10-04 14:19:57 UTC",
+      "processed_at": "2026-10-04 14:19:57 UTC",
+      "google_maps_url": "https://www.google.com/maps/search/Bhopal%2C+Madhya+Pradesh//data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+      "total_time_taken": 1.33
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "Bhopal, Madhya Pradesh",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Showing results for type: \"place\" instead of type: \"search\"",
+      "query_displayed": "Bhopal, Madhya Pradesh"
+    },
+    "place_results": {
+      "title": "Bhopal",
+      "place_id": "ChIJvY_Wj49CfDkR-NRy1RZXFQI",
+      "data_id": "0x397c428f8fd68fbd:0x2155716d572d4f8",
+      "data_cid": "150121918168749304",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x397c428f8fd68fbd%3A0x2155716d572d4f8&engine=google_maps_reviews&hl=en",
+      "gps_coordinates": {
+        "latitude": 23.2599333,
+        "longitude": 77.412615
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvY_Wj49CfDkR-NRy1RZXFQI",
+      "provider_id": "/m/0cw51",
+      "description": {
+        "snippet": "Bhopal is a city in the central Indian state of Madhya Pradesh. It's one of India’s greenest cities. There are two main lakes, the Upper Lake and the Lower Lake. On the banks of the Upper Lake is Van Vihar National Park, home to tigers, lions and leopards. The State Museum has fossils, paintings and rare Jain sculptures. Taj-ul-Masjid is one of Asia’s largest mosques, with white domes, minarets and a huge courtyard."
+      },
+      "address": "Madhya Pradesh, India",
+      "country": "India",
+      "weather": {
+        "conditions": "Clear",
+        "conditions_thumbnail": "https://ssl.gstatic.com/onebox/weather/32/sunny.png",
+        "celsius": "27°C",
+        "fahrenheit": "81°F"
+      },
+      "website": "http://www.bhopalmunicipal.com/",
+      "web_results_link": "https://www.google.com/search?q=local+guide+program&ibp=gwp;0,26,OioKKCIkQmhvcGFsIEJob3BhbCwgTWFkaHlhIFByYWRlc2gsIEluZGlhKAI&pcl=lp",
+      "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COioKKCIkQmhvcGFsIEJob3BhbCwgTWFkaHlhIFByYWRlc2gsIEluZGlhKAI&q=local+guide+program",
+      "hotels": [
+        {
+          "position": 1,
+          "title": "Taj Lakefront, Bhopal",
+          "rating": 4.5,
+          "reviews": 5080,
+          "type": "5-star hotel",
+          "price": "$64",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x397c43ba3420ec95:0xbb396df3ae99705",
+          "data_cid": "843183440758675205",
+          "place_id": "ChIJlewgNLpDfDkRBZfpOt-Wsws",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x397c43ba3420ec95%3A0xbb396df3ae99705&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 23.215883,
+            "longitude": 77.383401
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlewgNLpDfDkRBZfpOt-Wsws"
+        },
+        {
+          "position": 2,
+          "title": "Radisson Hotel Bhopal",
+          "rating": 4.8,
+          "reviews": 10393,
+          "type": "5-star hotel",
+          "price": "$62",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x397c43057e5800ab:0xf0646ccebaa21cbe",
+          "data_cid": "17322089701924019390",
+          "place_id": "ChIJqwBYfgVDfDkRvhyius5sZPA",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x397c43057e5800ab%3A0xf0646ccebaa21cbe&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 23.193069,
+            "longitude": 77.436749
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqwBYfgVDfDkRvhyius5sZPA"
+        },
+        {
+          "position": 3,
+          "title": "Courtyard by Marriott Bhopal",
+          "rating": 4.4,
+          "reviews": 10154,
+          "type": "5-star hotel",
+          "price": "$51",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x397c4260c8051079:0xa455a4bc62fc4ac2",
+          "data_cid": "11841551924262095554",
+          "place_id": "ChIJeRAFyGBCfDkRwkr8YrykVaQ",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x397c4260c8051079%3A0xa455a4bc62fc4ac2&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 23.232909,
+            "longitude": 77.429484
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeRAFyGBCfDkRwkr8YrykVaQ"
+        },
+        {
+          "position": 4,
+          "title": "Noor-Us-Sabah Palace",
+          "rating": 4.4,
+          "reviews": 8288,
+          "type": "5-star hotel",
+          "price": "$50",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x397c67e600d03f1b:0x930364e0b259800a",
+          "data_cid": "10593421664733200394",
+          "place_id": "ChIJGz_QAOZnfDkRCoBZsuBkA5M",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x397c67e600d03f1b%3A0x930364e0b259800a&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 23.267135,
+            "longitude": 77.368316
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGz_QAOZnfDkRCoBZsuBkA5M"
+        },
+        {
+          "position": 5,
+          "title": "Jehan Numa Palace Hotel",
+          "rating": 4.5,
+          "reviews": 11014,
+          "type": "5-star hotel",
+          "price": "$89",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x397c42ae31ef5bab:0x22aba445f2ff75a3",
+          "data_cid": "2498271038643598755",
+          "place_id": "ChIJq1vvMa5CfDkRo3X_8kWkqyI",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x397c42ae31ef5bab%3A0x22aba445f2ff75a3&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 23.240218,
+            "longitude": 77.386906
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq1vvMa5CfDkRo3X_8kWkqyI"
+        },
+        {
+          "position": 6,
+          "title": "Jehan Numa Retreat Club & Spa",
+          "rating": 4.5,
+          "reviews": 4408,
+          "type": "5-star hotel",
+          "price": "$84",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x397c5d31766bea8b:0x2483cd03063dbf2d",
+          "data_cid": "2631172020187807533",
+          "place_id": "ChIJi-prdjFdfDkRLb89BgPNgyQ",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x397c5d31766bea8b%3A0x2483cd03063dbf2d&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 23.218456,
+            "longitude": 77.371731
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi-prdjFdfDkRLb89BgPNgyQ"
+        },
+        {
+          "position": 7,
+          "title": "Regenta Place, Bhopal",
+          "rating": 4.6,
+          "reviews": 1145,
+          "type": "4-star hotel",
+          "price": "$27",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x397c431a88fef66b:0x46434678e581d982",
+          "data_cid": "5062967891155081602",
+          "place_id": "ChIJa_b-iBpDfDkRgtmB5XhGQ0Y",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x397c431a88fef66b%3A0x46434678e581d982&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 23.231092,
+            "longitude": 77.442321
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJa_b-iBpDfDkRgtmB5XhGQ0Y"
+        },
+        {
+          "position": 8,
+          "title": "Enrise by Sayaji Bhopal",
+          "rating": 4.3,
+          "reviews": 9627,
+          "type": "4-star hotel",
+          "price": "$43",
+          "check_in_date": "2026-10-05",
+          "data_id": "0x397c5d33c62453d9:0x1552ca074661d825",
+          "data_cid": "1536512555481159717",
+          "place_id": "ChIJ2VMkxjNdfDkRJdhhRgfKUhU",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x397c5d33c62453d9%3A0x1552ca074661d825&engine=google_maps_reviews&hl=en",
+          "gps_coordinates": {
+            "latitude": 23.219023,
+            "longitude": 77.373476
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2VMkxjNdfDkRJdhhRgfKUhU"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "position": 1,
+          "title": "StayVista's Palm Perle Villa - Pet-Friendly Retreat with Terrace  Lawn - Villa",
+          "property_type": "Villa",
+          "capacity": "Sleeps 6",
+          "price": "$168",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0x1be3a4f9071e25b7",
+          "data_cid": "2009631248210601399",
+          "place_id": "CgkRtyUeB_mk4xs",
+          "gps_coordinates": {
+            "latitude": 23.21826,
+            "longitude": 77.481827
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkRtyUeB_mk4xs"
+        },
+        {
+          "position": 2,
+          "title": "Aloha Vibes - Lap of nature",
+          "property_type": "Villa",
+          "capacity": "Sleeps 15",
+          "price": "$37",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0x3f2918cf65bb16ca",
+          "data_cid": "4551196177478653642",
+          "place_id": "CgkRyha7Zc8YKT8",
+          "gps_coordinates": {
+            "latitude": 23.23328,
+            "longitude": 77.23085
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkRyha7Zc8YKT8"
+        },
+        {
+          "position": 3,
+          "title": "Furnished Villa near Airport, Away from City - One-Bedroom Villa",
+          "property_type": "Villa",
+          "capacity": "Sleeps 3",
+          "price": "$24",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0x38f551762ad12b67",
+          "data_cid": "4104276203384417127",
+          "place_id": "CgkRZyvRKnZR9Tg",
+          "gps_coordinates": {
+            "latitude": 23.31426,
+            "longitude": 77.335678
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkRZyvRKnZR9Tg"
+        },
+        {
+          "position": 4,
+          "title": "Premium Furnished Duplex Stay",
+          "property_type": "Villa",
+          "capacity": "Sleeps 7",
+          "price": "$114",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0x7b0657b5e6273710",
+          "data_cid": "8864869355287426832",
+          "place_id": "CgkREDcn5rVXBns",
+          "gps_coordinates": {
+            "latitude": 23.279127,
+            "longitude": 77.356926
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkREDcn5rVXBns"
+        },
+        {
+          "position": 5,
+          "title": "The River Villa by StayVista - 2BHK with Pet Friendly & River View",
+          "property_type": "Villa",
+          "capacity": "Sleeps 6",
+          "price": "$84",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0xe83d684238aab1f8",
+          "data_cid": "16734646424006472184",
+          "place_id": "CgkR-LGqOEJoPeg",
+          "gps_coordinates": {
+            "latitude": 23.116043,
+            "longitude": 77.556343
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkR-LGqOEJoPeg"
+        },
+        {
+          "position": 6,
+          "title": "Acrobat Home Stay-Elegant Villa",
+          "property_type": "Villa",
+          "capacity": "Sleeps 12",
+          "price": "$76",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0xed6a7e501692dfe2",
+          "data_cid": "17107625016961458146",
+          "place_id": "CgkR4t-SFlB-au0",
+          "gps_coordinates": {
+            "latitude": 23.228899,
+            "longitude": 77.46627
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkR4t-SFlB-au0"
+        },
+        {
+          "position": 7,
+          "title": "Matoshree Villa",
+          "property_type": "Villa",
+          "capacity": "Sleeps 6",
+          "price": "$84",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0xca9c619b7cec4aaa",
+          "data_cid": "14599651412471990954",
+          "place_id": "CgkRqkrsfJthnMo",
+          "gps_coordinates": {
+            "latitude": 23.10487,
+            "longitude": 77.492638
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkRqkrsfJthnMo"
+        },
+        {
+          "position": 8,
+          "title": "The Ten Suites - Baatik",
+          "property_type": "Vacation Rental",
+          "capacity": "Sleeps 3",
+          "price": "$45",
+          "check_in_date": "2026-10-07",
+          "data_id": "0x0:0x9ed9575aea9aaa7b",
+          "data_cid": "11446275975933504123",
+          "place_id": "CgkRe6qa6lpX2Z4",
+          "gps_coordinates": {
+            "latitude": 23.245991,
+            "longitude": 77.400261
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=CgkRe6qa6lpX2Z4"
+        }
+      ]
+    }
+  }
+}

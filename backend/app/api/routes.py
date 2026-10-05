@@ -10,7 +10,7 @@ from app.core.logging_utils import get_logger
 from app.core.rate_limit import limiter
 from app.db.database import get_session
 from app.db.models import SavedGap, ScanRecord
-from app.domain.schemas import ScanPreset, ScanRequest, ScanResult
+from app.domain.schemas import ScanRequest, ScanResult
 from app.export.markdown_export import to_markdown
 from app.orchestrator.orchestrator import PRESET_CAPS, run_scan
 from app.planner.taxonomy import DEFAULT_TAXONOMY

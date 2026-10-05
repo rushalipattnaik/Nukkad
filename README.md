@@ -12,7 +12,7 @@ Built for the **SerpApi India Hackathon 2026** — track: **Commerce & Market In
 
 ## The problem
 
-A first-time entrepreneur in a tier-2/3 Indian town — Ashta, not Mumbai — has almost no tooling to answer "what should I open here?" Site-selection tools exist, but they're built for metros and priced for chains. Google Maps shows what already exists. Google Trends shows what people search. Nobody puts the two together, checks whether existing businesses are actually any good, or notices that the seven pharmacies in town all close at 9 PM.
+A first-time entrepreneur in a tier-2/3 Indian town has almost no tooling to answer "what should I open here?" Site-selection tools exist, but they're built for metros and priced for chains. Google Maps shows what already exists. Google Trends shows what people search. Nobody puts the two together, checks whether existing businesses are actually any good, or notices that half the pharmacies in town close before 9 PM.
 
 ## The insight
 
@@ -183,21 +183,21 @@ Then:
 
 1. Open `.env` (created from `.env.example`) and set `SERPAPI_API_KEY`. Optionally set `GEMINI_API_KEY` (leave `GEMINI_MODEL` blank for now).
 2. **Recommended before your first real scan** — verify your keys and current API behaviour without guessing:
-   ```powershell
+```powershell
    backend\.venv\Scripts\python.exe scripts\verify_api_setup.py --dry-run   # shows the plan, no calls
    backend\.venv\Scripts\python.exe scripts\verify_api_setup.py             # ~28 real SerpApi credits
-   ```
+```
    This prints the recommended `GEMINI_MODEL` for your key (if Gemini is configured) and saves sanitized fixtures under `fixtures/`. Copy the recommended model into `.env`.
 3. Start the backend (in one terminal):
-   ```powershell
+```powershell
    .\scripts\run_backend.ps1
-   ```
+```
    API docs at http://localhost:8000/docs
 4. Start the frontend (in a **second** terminal):
-   ```powershell
+```powershell
    .\scripts\run_frontend.ps1
-   ```
-5. Open **http://localhost:5173**, enter a town (try `Ashta, Madhya Pradesh`), pick "Lite" for your first run, and scan.
+```
+5. Open **http://localhost:5173**, enter a town (try `Bhopal, Madhya Pradesh`), pick "Lite" for your first run, and scan.
 
 ### Running the tests
 
@@ -240,7 +240,9 @@ See [`.env.example`](.env.example) for the full annotated list. The only two you
 
 ## AI tools used
 
-This project's design and code were developed with assistance from **Claude** (Anthropic), used for architecture design, implementation, and test-writing under close human direction and review throughout. All SerpApi and Gemini API behavior claims in the codebase were checked against official documentation, and the full test suite (40 tests, fully mocked) passes.
+The product direction, track selection, data model, gap-detection rules, SerpApi call strategy, and credit-budget design were decided before any code was written. Claude (Anthropic) was used as a coding assistant during implementation - writing code and tests against that spec - and the result was run, read, and corrected rather than accepted as-is: a deprecated FastAPI startup pattern, an unused dead-code module, and an inconsistency where the demand signal was mislabeled "state-level" instead of "country-level" were all caught this way and fixed. SerpApi and Gemini response shapes were checked against official documentation and real API calls (`scripts/verify_api_setup.py`) rather than assumed.
+
+Disclosed here per the hackathon's rules.
 
 ## SerpApi disclosure
 

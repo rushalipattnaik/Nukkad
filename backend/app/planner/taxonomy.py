@@ -7,7 +7,7 @@ small town and burn through the credit budget for no benefit.
 """
 from __future__ import annotations
 
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 
 
 @dataclass(frozen=True)

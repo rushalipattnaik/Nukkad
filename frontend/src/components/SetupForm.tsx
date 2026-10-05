@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import type { ScanPreset, ScanRequestBody } from "../types";
 import { getBudgetPresets, getHealth } from "../api";
 
-const EXAMPLES = ["Ashta, Madhya Pradesh", "Bhopal, Madhya Pradesh", "Indore, Madhya Pradesh"];
+const EXAMPLES = ["Bhopal, Madhya Pradesh", "Indore, Madhya Pradesh"];
 
 export default function SetupForm({ onSubmit }: { onSubmit: (req: ScanRequestBody) => void }) {
   const [town, setTown] = useState("");
@@ -63,7 +63,7 @@ export default function SetupForm({ onSubmit }: { onSubmit: (req: ScanRequestBod
           <input
             value={town}
             onChange={(e) => setTown(e.target.value)}
-            placeholder="e.g. Ashta, Madhya Pradesh"
+            placeholder="e.g. Bhopal, Madhya Pradesh"
             className="w-full border border-slate-300 rounded-lg px-3 py-2"
           />
           <div className="flex gap-2 mt-2 flex-wrap">

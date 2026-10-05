@@ -13,7 +13,6 @@ just gets logged as a warning instead of crashing the scan.
 """
 from __future__ import annotations
 
-import time
 import uuid
 from typing import Any, Optional
 
@@ -29,7 +28,7 @@ from app.core.logging_utils import get_logger
 from app.db.database import get_session
 from app.db.models import ScanRecord
 from app.domain.schemas import (
-    BudgetStatus, CategoryResult, EvidenceItem, EvidenceKind, ScanPreset, ScanRequest, ScanResult,
+    CategoryResult, EvidenceItem, EvidenceKind, ScanPreset, ScanRequest, ScanResult,
 )
 from app.llm.gemini_client import GeminiClient
 from app.planner.budget import BudgetManager

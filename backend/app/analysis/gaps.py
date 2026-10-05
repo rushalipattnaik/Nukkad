@@ -77,8 +77,6 @@ def build_category_gaps(
 
     gaps: list[Gap] = []
     place_evidence_ids = [p["_evidence_id"] for p in places]
-    review_evidence_ids = [r["_evidence_id"] for r in reviews]
-    topic_evidence_ids = [t["_evidence_id"] for t in topics]
     news_evidence_ids = [n["_evidence_id"] for n in news_items]
 
     def confidence_for(has_reviews: bool, has_hours: bool) -> tuple[ConfidenceLevel, list[str], list[str]]:

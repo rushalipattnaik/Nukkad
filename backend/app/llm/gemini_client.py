@@ -29,8 +29,10 @@ class GeminiUnavailable(RuntimeError):
 class GeminiClient:
     def __init__(self, api_key: str | None = None, model: str | None = None,
                  http_client: Optional[httpx.Client] = None) -> None:
-        self.api_key = api_key or settings.gemini_api_key
-        self.model = model or settings.gemini_model
+        # `is not None`, not `or` - an explicitly-passed empty string must
+        # mean "disabled", not fall through to the configured default.
+        self.api_key = api_key if api_key is not None else settings.gemini_api_key
+        self.model = model if model is not None else settings.gemini_model
         self.http = http_client or httpx.Client(timeout=httpx.Timeout(30.0, connect=10.0))
 
     def close(self) -> None:

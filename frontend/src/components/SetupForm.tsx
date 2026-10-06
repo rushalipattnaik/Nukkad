@@ -1,8 +1,6 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import type { ScanPreset, ScanRequestBody } from "../types";
 import { getBudgetPresets, getHealth } from "../api";
-
-const EXAMPLES = ["Bhopal, Madhya Pradesh", "Indore, Madhya Pradesh"];
 
 export default function SetupForm({ onSubmit }: { onSubmit: (req: ScanRequestBody) => void }) {
   const [town, setTown] = useState("");
@@ -11,6 +9,10 @@ export default function SetupForm({ onSubmit }: { onSubmit: (req: ScanRequestBod
   const [presetCredits, setPresetCredits] = useState<Record<string, number>>({});
   const [health, setHealth] = useState<{ serpapi_configured: boolean; gemini_configured: boolean } | null>(null);
   const [error, setError] = useState<string | null>(null);
+  // A ref, not state: it must block a second click synchronously, in the
+  // same tick as the first - a state update wouldn't land in time to stop
+  // a fast double-click/double-submit from firing onSubmit twice.
+  const submittedRef = useRef(false);
 
   useEffect(() => {
     getBudgetPresets()
@@ -23,11 +25,13 @@ export default function SetupForm({ onSubmit }: { onSubmit: (req: ScanRequestBod
 
   function submit(e: React.FormEvent) {
     e.preventDefault();
+    if (submittedRef.current) return; // already submitting - ignore a second click
     if (!town.trim()) {
       setError("Enter a town name.");
       return;
     }
     setError(null);
+    submittedRef.current = true;
     onSubmit({ town_name: town.trim(), radius_km: radius, preset, mode: "live" });
   }
 
@@ -63,21 +67,9 @@ export default function SetupForm({ onSubmit }: { onSubmit: (req: ScanRequestBod
           <input
             value={town}
             onChange={(e) => setTown(e.target.value)}
-            placeholder="e.g. Bhopal, Madhya Pradesh"
+            placeholder="e.g. any small or mid-sized town in India"
             className="w-full border border-slate-300 rounded-lg px-3 py-2"
           />
-          <div className="flex gap-2 mt-2 flex-wrap">
-            {EXAMPLES.map((ex) => (
-              <button
-                type="button"
-                key={ex}
-                onClick={() => setTown(ex)}
-                className="text-xs px-2 py-1 rounded-full bg-slate-100 text-slate-600 hover:bg-slate-200"
-              >
-                {ex}
-              </button>
-            ))}
-          </div>
         </div>
 
         <div className="grid grid-cols-2 gap-4">

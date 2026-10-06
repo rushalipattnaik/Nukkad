@@ -1,16 +1,27 @@
 import { useEffect, useState } from "react";
 import type { ScanListItem } from "../types";
-import { listScans } from "../api";
+import { clearHistory, listScans } from "../api";
 
 export default function HistoryPage({ onOpen, onBack }: { onOpen: (scanId: string) => void; onBack: () => void }) {
   const [scans, setScans] = useState<ScanListItem[]>([]);
   const [loading, setLoading] = useState(true);
+  const [clearing, setClearing] = useState(false);
 
   useEffect(() => {
     listScans()
       .then((r) => setScans(r.scans))
       .finally(() => setLoading(false));
   }, []);
+
+  async function handleClear() {
+    setClearing(true);
+    try {
+      await clearHistory();
+      setScans([]);
+    } finally {
+      setClearing(false);
+    }
+  }
 
   return (
     <div className="max-w-xl mx-auto mt-10 px-4">
@@ -20,8 +31,20 @@ export default function HistoryPage({ onOpen, onBack }: { onOpen: (scanId: strin
           ← New scan
         </button>
       </div>
+      <p className="text-xs text-slate-400 mb-4">
+        Stored on this machine's backend, not in your browser - incognito mode won't hide or clear it.
+      </p>
       {loading && <p className="text-sm text-slate-400">Loading…</p>}
       {!loading && scans.length === 0 && <p className="text-sm text-slate-400">No scans yet.</p>}
+      {!loading && scans.length > 0 && (
+        <button
+          onClick={handleClear}
+          disabled={clearing}
+          className="mb-4 text-xs px-3 py-1.5 rounded-full border border-slate-300 text-slate-600 hover:border-red-300 hover:text-red-600 disabled:opacity-50"
+        >
+          {clearing ? "Clearing…" : "Clear all history"}
+        </button>
+      )}
       <div className="space-y-2">
         {scans.map((s) => (
           <button

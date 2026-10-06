@@ -114,6 +114,18 @@ def list_scans(limit: int = 20) -> dict[str, Any]:
         }
 
 
+@router.delete("/scans")
+def clear_scans() -> dict[str, Any]:
+    """Scan history lives in the server's SQLite database, not the
+    browser - it is NOT per-session and incognito mode has no effect on
+    it. This is the one-click way to actually clear it."""
+    with get_session() as session:
+        from sqlalchemy import delete
+
+        session.execute(delete(ScanRecord))
+    return {"cleared": True}
+
+
 @router.get("/scans/{scan_id}", response_model=ScanResult)
 def get_scan(scan_id: str) -> ScanResult:
     with get_session() as session:

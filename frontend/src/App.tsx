@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useRef, useState } from "react";
 import type { ScanRequestBody, ScanResult } from "./types";
 import { createScan, getScan, exportScanUrl, ApiError } from "./api";
 import SetupForm from "./components/SetupForm";
@@ -18,18 +18,38 @@ export default function App() {
   const [error, setError] = useState<string | null>(null);
   const [revealDone, setRevealDone] = useState(false);
 
-  async function runScan(req: ScanRequestBody) {
+  // Bumped on every new scan/open. If an older request resolves after a
+  // newer one has already started, its result is ignored - this is what
+  // actually prevents a slow, stale response from overwriting a fresher
+  // one, which plain "clear state before the request" cannot guarantee on
+  // its own.
+  const requestId = useRef(0);
+
+  function startNewScan() {
+    requestId.current += 1;
     setError(null);
-    setScreen("loading");
+    setResult(null);
+    setSelectedGapId(null);
     setRevealDone(false);
+    setScreen("setup");
+  }
+
+  async function runScan(req: ScanRequestBody) {
+    const myId = ++requestId.current;
+    setError(null);
+    setResult(null);
+    setRevealDone(false);
+    setScreen("loading");
     try {
       const res = await createScan(req);
+      if (myId !== requestId.current) return; // superseded by a newer scan - ignore
       setResult(res);
       setSelectedGapId(res.gaps[0]?.gap_id ?? null);
       if (res.status !== "completed") {
         setError(res.warnings.join(" ") || "The scan could not complete.");
       }
     } catch (e) {
+      if (myId !== requestId.current) return;
       const message = e instanceof ApiError ? e.message : "Something went wrong.";
       setError(message);
       setScreen("setup");
@@ -37,13 +57,16 @@ export default function App() {
   }
 
   async function openScan(scanId: string) {
+    const myId = ++requestId.current;
     try {
       const res = await getScan(scanId);
+      if (myId !== requestId.current) return;
       setResult(res);
       setSelectedGapId(res.gaps[0]?.gap_id ?? null);
       setRevealDone(true);
       setScreen("dashboard");
     } catch (e) {
+      if (myId !== requestId.current) return;
       setError(e instanceof ApiError ? e.message : "Could not load that scan.");
     }
   }
@@ -63,7 +86,7 @@ export default function App() {
   }
 
   if (screen === "history") {
-    return <HistoryPage onOpen={openScan} onBack={() => setScreen("setup")} />;
+    return <HistoryPage onOpen={openScan} onBack={startNewScan} />;
   }
 
   if (screen === "loading" && result === null) {
@@ -110,7 +133,7 @@ export default function App() {
           <button onClick={() => setScreen("history")} className="text-slate-500 hover:text-slate-800">
             History
           </button>
-          <button onClick={() => setScreen("setup")} className="text-slate-500 hover:text-slate-800">
+          <button onClick={startNewScan} className="text-slate-500 hover:text-slate-800">
             New scan
           </button>
         </div>

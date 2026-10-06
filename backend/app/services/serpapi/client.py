@@ -16,6 +16,7 @@ from dataclasses import dataclass
 from typing import Any, Callable, Optional
 
 import httpx
+from sqlalchemy.exc import SQLAlchemyError
 
 from app.core.config import settings
 from app.core.logging_utils import get_logger, redact
@@ -102,25 +103,34 @@ class SerpApiClient:
                 return None
 
     def _write_cache(self, key: str, engine: str, params: dict[str, Any], body: dict[str, Any]) -> None:
+        """Caching is an optimization, not a correctness requirement - if two
+        requests for the same query race each other here (e.g. a double
+        click triggered two overlapping scans), losing this particular
+        write just means that one query gets re-fetched next time. It must
+        never take the whole scan down, so any DB error is caught and
+        logged rather than propagated."""
         clean_params = {k: v for k, v in params.items() if k != "api_key"}
-        with get_session() as session:
-            row = session.get(SerpCache, key)
-            payload = json.dumps(body, default=str)
-            if row:
-                row.response_json = payload
-                row.engine = engine
-                row.params_json = json.dumps(clean_params, default=str)
-                row.ttl_seconds = self._ttl_for(engine)
-            else:
-                session.add(
-                    SerpCache(
-                        cache_key=key,
-                        engine=engine,
-                        params_json=json.dumps(clean_params, default=str),
-                        response_json=payload,
-                        ttl_seconds=self._ttl_for(engine),
+        try:
+            with get_session() as session:
+                row = session.get(SerpCache, key)
+                payload = json.dumps(body, default=str)
+                if row:
+                    row.response_json = payload
+                    row.engine = engine
+                    row.params_json = json.dumps(clean_params, default=str)
+                    row.ttl_seconds = self._ttl_for(engine)
+                else:
+                    session.add(
+                        SerpCache(
+                            cache_key=key,
+                            engine=engine,
+                            params_json=json.dumps(clean_params, default=str),
+                            response_json=payload,
+                            ttl_seconds=self._ttl_for(engine),
+                        )
                     )
-                )
+        except SQLAlchemyError as exc:
+            logger.warning("Could not write cache entry for %s (continuing without it): %s", engine, exc)
 
     # ------------------------------------------------------------------
     def call(self, engine: str, params: dict[str, Any]) -> SerpResponse:

@@ -62,6 +62,10 @@ export function listScans() {
   return request<{ scans: ScanListItem[] }>("/api/scans");
 }
 
+export function clearHistory() {
+  return request<{ cleared: boolean }>("/api/scans", { method: "DELETE" });
+}
+
 export function exportScanUrl(scanId: string) {
   return `${BASE_URL}/api/scans/${scanId}/export?format=md`;
 }

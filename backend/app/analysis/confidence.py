@@ -21,10 +21,13 @@ def compute_confidence(
     if has_supply_data and sample_size >= 5:
         score += 0.30
         reasons.append(f"Supply data available for {sample_size} places")
-    elif has_supply_data:
+    elif has_supply_data and sample_size > 0:
         score += 0.15
         reasons.append(f"Only {sample_size} places found nearby - a small sample")
         missing.append("Few places were found; try a wider radius for a firmer read")
+    elif has_supply_data:
+        reasons.append("No places found within the selected radius")
+        missing.append("No places found within the radius; try a wider radius")
     else:
         missing.append("No usable supply (Maps) data")
 

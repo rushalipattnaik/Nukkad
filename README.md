@@ -42,7 +42,7 @@ Nukkad classifies every category into one, more than one, or none of these — a
 - An interactive map with every retrieved place, colored by its category's gap type.
 - Opportunity cards for each detected gap, each opening a full evidence breakdown: what exists → what customers say → what people search → what's changing → why we think this → conflicts → confidence & missing information → what to validate next.
 - Every fact is a clickable citation chip that opens the real source (engine, query, timestamp, raw data).
-- Export any scan as a Markdown memo. Scan history and saved hypotheses persist locally in SQLite.
+- Export any scan as a Markdown memo. Scan history and saved hypotheses persist in the backend's SQLite database (clearable from the History page) — see [Limitations](#limitations-stated-honestly) for how that's scoped.
 
 ---
 
@@ -197,7 +197,7 @@ Then:
 ```powershell
    .\scripts\run_frontend.ps1
 ```
-5. Open **http://localhost:5173**, enter a town (try `Bhopal, Madhya Pradesh`), pick "Lite" for your first run, and scan.
+5. Open **http://localhost:5173**, enter any Indian town (format: `Town, State` - the state isn't required, but disambiguates towns that share a name across states), pick "Lite" for your first run, and scan.
 
 ### Running the tests
 
@@ -205,7 +205,7 @@ Then:
 .\scripts\run_tests.ps1
 ```
 
-All 40 backend tests use mocked SerpApi/Gemini responses (via `httpx.MockTransport`) — **running them never spends a real credit.** They cover: opening-hours parsing (including overnight ranges and non-ASCII characters), the demand composite, every conflict rule, all three gap types firing and *not* firing, the Verifier's evidence-and-guardrail gate, prompt-injection resistance and numeric-consistency checks in both LLM agents, budget-cap enforcement, and a full mocked end-to-end scan through the real orchestrator and FastAPI app.
+All 42 backend tests use mocked SerpApi/Gemini responses (via `httpx.MockTransport`) — **running them never spends a real credit.** They cover: opening-hours parsing (including overnight ranges and non-ASCII characters), the demand composite, every conflict rule, all three gap types firing and *not* firing, the Verifier's evidence-and-guardrail gate, prompt-injection resistance and numeric-consistency checks in both LLM agents, budget-cap enforcement, a deterministically-reproduced cache-write race condition, and a full mocked end-to-end scan through the real orchestrator and FastAPI app.
 
 ---
 
@@ -230,6 +230,7 @@ See [`.env.example`](.env.example) for the full annotated list. The only two you
 - News catalysts are matched at the town level, not per-category.
 - Scans run synchronously (see [Architecture](#architecture)) — a Deep scan can take under a minute.
 - SerpApi's exact per-call credit accounting (whether errors/cached SerpApi-side responses are ever billed) was **not independently re-verified** in this repository snapshot — the Budget Manager is deliberately conservative (assumes 1 credit per attempted, non-cached call) so it never under-counts.
+- Scan history is stored server-side (SQLite) and is shared by anyone using this running instance — it is **not** per-browser or per-session, so private/incognito browsing has no effect on it. Use "Clear all history" on the History page to reset it.
 
 ## Roadmap
 
@@ -240,7 +241,7 @@ See [`.env.example`](.env.example) for the full annotated list. The only two you
 
 ## AI tools used
 
-The product direction, track selection, data model, gap-detection rules, SerpApi call strategy, and credit-budget design were decided before any code was written. Claude (Anthropic) was used as a coding assistant during implementation - writing code and tests against that spec - and the result was run, read, and corrected rather than accepted as-is: a deprecated FastAPI startup pattern, an unused dead-code module, and an inconsistency where the demand signal was mislabeled "state-level" instead of "country-level" were all caught this way and fixed. SerpApi and Gemini response shapes were checked against official documentation and real API calls (`scripts/verify_api_setup.py`) rather than assumed.
+The product direction, track selection, data model, gap-detection rules, SerpApi call strategy, and credit-budget design were decided before any code was written. Claude (Anthropic) was used as a coding assistant during implementation - writing code and tests against that spec - and the result was run, read, and corrected rather than accepted as-is. The clearest example: live use surfaced a real `UNIQUE constraint failed` crash from a cache-write race condition (two overlapping scan requests both inserting the same SQLite row); the root cause was diagnosed, a regression test was written that deterministically reproduces the exact original error, confirmed to fail against the old code and pass against the fix, and the fix shipped alongside that test (`backend/tests/test_serpapi_client.py`). Smaller catches the same way: a deprecated FastAPI startup pattern, an unused dead-code module, and a mislabeled "state-level" vs "country-level" demand signal. SerpApi and Gemini response shapes were checked against official documentation and real API calls (`scripts/verify_api_setup.py`) rather than assumed.
 
 Disclosed here per the hackathon's rules.
 

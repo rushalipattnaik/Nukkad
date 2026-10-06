@@ -9,9 +9,7 @@ export default function SetupForm({ onSubmit }: { onSubmit: (req: ScanRequestBod
   const [presetCredits, setPresetCredits] = useState<Record<string, number>>({});
   const [health, setHealth] = useState<{ serpapi_configured: boolean; gemini_configured: boolean } | null>(null);
   const [error, setError] = useState<string | null>(null);
-  // A ref, not state: it must block a second click synchronously, in the
-  // same tick as the first - a state update wouldn't land in time to stop
-  // a fast double-click/double-submit from firing onSubmit twice.
+  
   const submittedRef = useRef(false);
 
   useEffect(() => {
@@ -67,9 +65,13 @@ export default function SetupForm({ onSubmit }: { onSubmit: (req: ScanRequestBod
           <input
             value={town}
             onChange={(e) => setTown(e.target.value)}
-            placeholder="e.g. any small or mid-sized town in India"
+            placeholder="Town, State"
             className="w-full border border-slate-300 rounded-lg px-3 py-2"
           />
+          <p className="text-xs text-slate-400 mt-1">
+            The state isn't required, but many Indian towns share a name with a town in another
+            state - including it avoids an accidental mismatch.
+          </p>
         </div>
 
         <div className="grid grid-cols-2 gap-4">
